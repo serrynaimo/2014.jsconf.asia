@@ -470,13 +470,13 @@ footer {
 footer p {
 	position: relative;
 	bottom: 0;
-	color: #094c80;
+	color: #224e6f;
 	text-align: center;
 	font-family: 'Open Sans';
 	font-size: 0.85em;
 }
 footer a {
-	color: #094c80;
+	color: #224e6f;
 }
 footer a:hover {
 	color: #0b5b99;
