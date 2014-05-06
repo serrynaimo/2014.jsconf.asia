@@ -47,7 +47,7 @@ $("#subscribeForm .msg").click(function() {
 
 
 
-var bamSound = (function () {
+/*var bamSound = (function () {
 	var sound = new Audio('assets/3.mp3');
 	sound.load();
 	return function () {
@@ -62,58 +62,61 @@ var bamSound2 = (function () {
 		sound.currentTime = 0;
 		sound.play();
 	}
-}());
+}());*/
 
-setTimeout(function () {
-	// bamSound();
+setTimeout(function () {	
+	//bamSound2();
+}, 1000);
+
+
+setTimeout(function () {	
 	$("#intro").addClass("play");
 	$("#intro .date").addClass("play");
 }, 1000);
 
 setTimeout(function () {
-	bamSound();
+	//bamSound();
 	$("#intro .singapore").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 1600);
 
 setTimeout(function () {
-	bamSound();
+	//bamSound();
 	$("#intro .venue").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 2200);
 
 setTimeout(function () {
-	bamSound();
+	//bamSound();
 	$("#intro .js").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 2800);
 
 setTimeout(function () {
-	bamSound();
+	//bamSound();
 	$("#intro .sponsor").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 3400);
 
 setTimeout(function () {
-	bamSound();
+	//bamSound();
 	$("#intro .speaker").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 4000);
 
 setTimeout(function () {
-	bamSound();
+	//bamSound();
 	$("#intro .updates").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 4600);
 
 setTimeout(function () {
-	bamSound();
-	bamSound2();
+	//bamSound();
 	$("#intro .input").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 5200);
 
 setTimeout(function () {
-	bamSound();
+	//bamSound();
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 5800);

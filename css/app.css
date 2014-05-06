@@ -2,10 +2,10 @@ html,
 body {
   margin: 0px;
   padding: 0px;
-  overflow: hidden;
   width: 100%;
   height: 100%;
   background: #072339;
+  overflow-x: hidden;
 }
 
 #intro {
@@ -251,8 +251,8 @@ body {
 	text-transform: uppercase;
 	position: absolute;
 	left: 50%;
-	width: 1500px;
-	margin: 0 -750px;
+	width: 500px;
+	margin: 0 -250px;
 	-webkit-perspective: 250;
 	-moz-perspective: 250;
 	-ms-perspective: 250;
@@ -458,4 +458,26 @@ body {
 #intro .msg span {
 	display: block;
 	-webkit-transform: rotateY(10deg) translateX(10px);
+}
+
+footer {
+	position: absolute;
+	top: 60%;
+	width: 100%;
+	height: 200px;
+	margin-top: 300px;
+}
+footer p {
+	position: relative;
+	bottom: 0;
+	color: #094c80;
+	text-align: center;
+	font-family: 'Open Sans';
+	font-size: 0.85em;
+}
+footer a {
+	color: #094c80;
+}
+footer a:hover {
+	color: #0b5b99;
 }
