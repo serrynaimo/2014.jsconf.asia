@@ -1,7 +1,7 @@
 console.log('Back to the brackets, baby!');
 
 $("#subscribeForm").ajaxForm({
-	url: "http://jscamp.asia/addsubscriber.php",
+	url: "http://2012.jsconf.asia/addsubscriber.php",
 	dataType: "html",
 	beforeSubmit: function() {
 		$("#subscribeForm").removeClass("failure success").addClass("load");
