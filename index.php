@@ -1,9 +1,9 @@
 <!doctype html>
 <!--
 
-	From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconf_asia
-	More info is on its way. Spread the word. Follow us on Twitter @jsconf_asia!
-	
+	From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013.
+	More info is on its way. Spread the word. Follow us on Twitter @jsconfasia!
+
 	If you want to help us out, drop thomas@jsconf.asia an email! ;)
 
 //-->
@@ -17,15 +17,17 @@
 	<link rel="stylesheet" type="text/css" href="css/app.css" />
 	<link rel="stylesheet" type="text/css" href="css/colours.css" />
 	<link rel="shortcut icon" href="favicon.png" >
+	<?php if(!strpos($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
 	<meta name="viewport" content="width=500, user-scalable=no" />
+	<?php } ?>
 	<meta property="og:title" content="JSConf.Asia Singapore 2014"/>
 	<meta property="og:type" content="website"/>
 	<meta property="og:url" content="http://jsconf.asia/"/>
 	<meta property="og:image" content="http://jsconf.asia/assets/jsconfasia.png"/>
 	<meta property="og:site_name" content="JSConf.Asia"/>
-	<meta property="og:description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconf_asia"/>
+	<meta property="og:description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
-	<meta name="description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconf_asia"/>
+	<meta name="description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
 	<section id="intro">
@@ -41,8 +43,8 @@
 		</g>
 		</svg></a></div>
 		<div class="sponsor"><a href="mailto:sponsors@jsconf.asia">Be a sponsor</a></div>
-		<div class="speaker"><a href="http://jsconfasia.wufoo.com/forms/jsconfasia-call-for-speakers/">Speak</a></div>
-		<div class="updates"><a href="http://twitter.com/jsconf_asia">Get Updates</a></div>
+		<div class="speaker"><a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">Speak</a></div>
+		<div class="updates"><a href="http://twitter.com/jsconfasia">Get Updates</a></div>
 		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" autofocus /><input type="submit" value="Send" /></span></div>
 		<div class="msg"><span></span></div>
 	</form>
@@ -65,10 +67,10 @@
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
+
 	  ga('create', 'UA-31025490-4', 'jsconf.asia');
 	  ga('send', 'pageview');
-	
+
 	</script>
 </body>
 </html>

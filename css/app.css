@@ -339,10 +339,10 @@ body {
 	height: 300px;
 	width: 300px;
 	-webkit-transform: rotateY(-2deg) translateX(-10px);
-	-moz-transform: rotateY(29deg) translateX(10px);
-	-ms-transform: rotateY(29deg) translateX(10px);
-	-o-transform: rotateY(29deg) translateX(10px);
-	transform: rotateY(29deg) translateX(10px);
+	-moz-transform: rotateY(-2deg) translateX(-10px);
+	-ms-transform: rotateY(-2deg) translateX(-10px);
+	-o-transform: rotateY(-2deg) translateX(-10px);
+	transform: rotateY(-2deg) translateX(-10px);
 }
 #intro .logo:before {
   position: absolute;
@@ -444,7 +444,7 @@ body {
 	-moz-background-size:    50px 50px;
 	-ms-background-size:    50px 50px;
 	-o-background-size:    50px 50px;
-	background-size:         50px 50px;	
+	background-size:         50px 50px;
 	-webkit-animation: loading 2s infinite linear;
 	-moz-animation: loading 2s infinite linear;
 	-ms-animation: loading 2s infinite linear;
@@ -481,4 +481,52 @@ footer a {
 }
 footer a:hover {
 	color: #0b5b99;
+}
+
+
+
+@-moz-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@-webkit-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@-o-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@-ms-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
 }
