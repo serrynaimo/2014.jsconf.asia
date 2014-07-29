@@ -13,7 +13,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>JSConf.Asia Singapore 2014</title>
-	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans|Sanchez' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/app.css" />
 	<link rel="stylesheet" type="text/css" href="css/colours.css" />
 	<link rel="shortcut icon" href="favicon.png" >
@@ -56,6 +56,13 @@
 			 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/>
 			A Nerdherd Pte. Ltd. event<br/><br/>
 		</p>
+		<div id="cssconf">
+			<a href="http://2014.cssconf.asia">
+				<span class="title">19 NOV 2014</span>
+				<img src="http://2014.cssconf.asia/assets/og_cssconfasia.jpg" class="icon" />
+				<span class="desc">Bridging Web Design<br/>And Implementation</span>
+			</a>
+		</div>
 	</footer>
 
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>

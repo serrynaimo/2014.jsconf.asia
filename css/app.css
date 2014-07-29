@@ -466,7 +466,7 @@ footer {
 	top: 61%;
 	width: 100%;
 	height: 200px;
-	margin-top: 300px;
+	margin: 300px 0 50px;
 }
 footer p {
 	position: relative;
@@ -476,13 +476,51 @@ footer p {
 	font-family: 'Open Sans';
 	font-size: 0.85em;
 }
+footer .icon {
+	border-radius: 3px;
+}
 footer a {
 	color: #224e6f;
 }
 footer a:hover {
 	color: #0b5b99;
 }
-
+#cssconf {
+	position: fixed;
+	bottom: -320px;
+	left: 0;
+	right: 0;
+	background: #ffcc00;
+	padding: 30px 0 190px;
+	text-align: center;
+	border-top: 6px solid #fff;
+}
+#cssconf a {
+	display: block;
+	text-decoration: none;
+}
+#cssconf .icon {
+	vertical-align: middle;
+	width: 90px;
+	margin: 0 -5px;
+}
+#cssconf .title {
+	width: 205px;
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 1.5em;
+	font-family: 'Doppio One';
+	color: #c7950a;
+}
+#cssconf .desc {
+	width: 205px;
+	display: inline-block;
+	vertical-align: middle;
+	color: #000;
+	font-family: 'Sanchez';
+	text-transform: uppercase;
+	font-size: 0.85em;
+}
 
 
 @-moz-keyframes loading {
