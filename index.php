@@ -23,7 +23,7 @@
 	<meta property="og:title" content="JSConf.Asia Singapore 2014"/>
 	<meta property="og:type" content="website"/>
 	<meta property="og:url" content="http://jsconf.asia/"/>
-	<meta property="og:image" content="http://jsconf.asia/assets/jsconfasia.png"/>
+	<meta property="og:image" content="http://jsconf.asia/assets/og_jsconfasia.jpg"/>
 	<meta property="og:site_name" content="JSConf.Asia"/>
 	<meta property="og:description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
