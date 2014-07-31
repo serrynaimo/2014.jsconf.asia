@@ -48,19 +48,99 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
-				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
-				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
+				<a href="https://twitter.com/vinceallenvince" target="_blank"><img src="img/speakers/vince.jpg" /></a>
+				<h3>Vince Allen <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h3>
 				<p>
-					Ben is an independent web dude from Melbourne. He's 1/5th of CSSConfAU, a percentage of JSConf (We all know how good JavaScript is at numbers), a bower team member and a swag of other stupid projects.
+					Vince  is a software engineering manager at Spotify in New York. He's been designing and programming
+					for almost 20 years and devotes most of his spare time to FloraJS, a JavaScript framework for creating
+					natural simulations in a web browser. Listen to Vince on Spotify (search for Vince Allen or his alias,
+					DJ Monkey Pants) or find him at <a href="http://vinceallen.com" target="_blank">vinceallen.com</a>.
 				</p>
 			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
-				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
+				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
+				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
 				<p>
-					Rico is a Ruby, JavaScript developer and CSS afficionado from the Philippines whose passion lies in building great web applications and slick user interfaces. He is the co-founder of a small web development team in Manila called Nadarei, the author of the Backbone.js guide Backbone Patterns among other open-source projects.
+					Soares Chen is an independent web developer from Penang, Malaysia. He work mostly on server backend using
+					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
+					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
+					to make building web applications as easy as combining lego bricks.
 				</p>
 			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/feross" target="_blank"><img src="img/speakers/feross.jpg" /></a>
+				<h3>Feross Aboukhadijeh <a href="https://twitter.com/feross" target="_blank">@feross</a></h3>
+				<p>
+					Feross is currently building WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC.
+					Before that, he built PeerCDN, a peer-to-peer content delivery network to makes sites faster and cheaper.<br/>
+					He's a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
+				<h3>Tingan Ho <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h3>
+				<p>
+					Tingan is a designer, coder & thinker from China and loves innovation in web, design, and OOS.
+					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
+				<h3>Charlie Roberts</h3>
+				<p>
+					Charlie is a Postdoctoral Fellow in the AlloSphere Research Group at the California NanoSystems Institute,
+					where his research explores computer human interaction in virtual reality environments. He is the primary
+					author of <a href="http://gibber.mat.ucsb.edu" target="_blank">Gibber</a>, a creative coding environment for the browser, and has given
+					over a dozen performances in the US, Europe and Asia improvising audiovisual art through live coded JavaScript.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/cliener" target="_blank"><img src="img/speakers/chris.jpg" /></a>
+				<h3>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h3>
+				<p>
+					Chris has been doing all sorts of things to innocent web sites for 17 years and is also responsible for unleashing web
+					forms library Quaid-JS upon the world. He is currently working in the in-house web team at insurance broker Jardine Lloyd
+					Thompson in Perth, Australia Aside from musical distractions and earning frequent flyer points, Chris and his wife Sarah
+					can often be found in the company of their very small human.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/aemkei" target="_blank"><img src="img/speakers/martin.jpg" /></a>
+				<h3>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h3>
+				<p>
+					Martin is the organizer of HHJS and &quot;Head of Development&quot; at Ubilabs. His company develops
+					applications based on the Google Maps API for an international client base. 
+					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
+					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/gabehollombe" target="_blank"><img src="img/speakers/gabe.jpg" /></a>
+				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
+				<p>
+					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
+					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
+					Ruby, Vim, and HTML5 Game development.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
+				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
+				<p>
+					Simon has been building the web since the days of Netscape 1.0. With this much of data-driven web
+					development background he has recently been engineering real-time data capture and delivery systems
+					with node. On the side he produces Techno, lifts weights and researches computer arcana.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
+				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
+				<p>
+					<br/><br/><br/><br/><br/>
+				</p>
+			</div>
+			
+
 			<p>
 				<br/>
 				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
@@ -118,6 +198,9 @@
 					<a href="http://www.piktochart.com" target="_blank"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="45" /></a>
 				</p>
 				<p>
+					<a href="http://www.meteor.com" target="_blank" class="meteor">Meteor</a>
+				</p>
+				<p>
 					<br/>
 					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@cssconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
 				</p>
@@ -128,6 +211,9 @@
 			</a>
 		</section>
 		<footer>
+			<p>
+				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
+			</p>
 			<p>
 				JSConf.Asia 2014 Singapore is part of<br/>Asia's most influential web developer festival.<br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
