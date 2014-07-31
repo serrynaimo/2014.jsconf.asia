@@ -64,6 +64,17 @@ var bamSound2 = (function () {
 	}
 }());*/
 
+
+var menuVisible = false
+$(window).on("scroll touchmove", function (e) {
+	if(!menuVisible) {
+		$("nav").addClass("play");
+		menuVisible = true;
+	}
+});
+
+
+
 setTimeout(function () {	
 	//bamSound2();
 }, 1000);
@@ -92,31 +103,17 @@ setTimeout(function () {
 	window.navigator.vibrate([30,10,20,10,10]);
 }, 2800);
 
-setTimeout(function () {
-	//bamSound();
-	$("#intro .sponsor").addClass("play");
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 3400);
 
 setTimeout(function () {
 	//bamSound();
-	$("#intro .speaker").addClass("play");
+	$("nav").addClass("play");
 	window.navigator.vibrate([30,10,20,10,10]);
-}, 4000);
+}, 3600);
 
 setTimeout(function () {
 	//bamSound();
-	$("#intro .updates").addClass("play");
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 4600);
+	window.navigator.vibrate([30,10,20,10,10,30,10,20,10,10]);
+}, 4200);
 
-setTimeout(function () {
-	//bamSound();
-	$("#intro .input").addClass("play");
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 5200);
 
-setTimeout(function () {
-	//bamSound();
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 5800);
+
