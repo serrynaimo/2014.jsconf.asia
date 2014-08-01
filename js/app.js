@@ -64,56 +64,66 @@ var bamSound2 = (function () {
 	}
 }());*/
 
+$(document).ready(function () {
+	var menuVisible = false
 
-var menuVisible = false
-$(window).on("scroll touchmove", function (e) {
-	if(!menuVisible && window.pageYOffset > 50) {
-		$("nav").addClass("play");
-		menuVisible = true;
-	}
+	setTimeout(function () {	
+		$("#intro").addClass("play");
+		$("#intro .date").addClass("play");
+		//bamSound2();
+		
+		$(window).on("scroll touchmove", function (e) {
+			if(!menuVisible && window.pageYOffset > 50) {
+				$("nav").addClass("play");
+				menuVisible = true;
+			}
+		});
+	}, 1000);
+	
+	setTimeout(function () {
+		//bamSound();
+		$("#intro .singapore").addClass("play");
+		if(!menuVisible) {
+			window.navigator.vibrate([30,10,20,10,10]);
+		}
+	}, 1600);
+	
+	setTimeout(function () {
+		//bamSound();
+		$("#intro .venue").addClass("play");
+		if(!menuVisible) {
+			window.navigator.vibrate([30,10,20,10,10]);
+		}
+	}, 2200);
+	
+	setTimeout(function () {
+		//bamSound();
+		$("#intro .js").addClass("play");
+		if(!menuVisible) {
+			window.navigator.vibrate([30,10,20,10,10]);
+		}
+	}, 2800);
+	
+	
+	setTimeout(function () {
+		//bamSound();
+		if(!menuVisible) {
+			$("nav").addClass("play");
+			
+			window.navigator.vibrate([60,10,20,10,10]);
+		}
+	}, 3400);
+	
+	setTimeout(function () {
+		if(!menuVisible) {
+			//bamSound();
+			menuVisible = true;
+			window.navigator.vibrate([100,10,20,10,50]);
+		}
+	}, 4100);
+
 });
 
-
-
-setTimeout(function () {	
-	//bamSound2();
-}, 1000);
-
-
-setTimeout(function () {	
-	$("#intro").addClass("play");
-	$("#intro .date").addClass("play");
-}, 1000);
-
-setTimeout(function () {
-	//bamSound();
-	$("#intro .singapore").addClass("play");
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 1600);
-
-setTimeout(function () {
-	//bamSound();
-	$("#intro .venue").addClass("play");
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 2200);
-
-setTimeout(function () {
-	//bamSound();
-	$("#intro .js").addClass("play");
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 2800);
-
-
-setTimeout(function () {
-	//bamSound();
-	$("nav").addClass("play");
-	window.navigator.vibrate([30,10,20,10,10]);
-}, 3600);
-
-setTimeout(function () {
-	//bamSound();
-	window.navigator.vibrate([100,10,20,10]);
-}, 4200);
 
 
 
