@@ -654,15 +654,15 @@ nav {
 
 nav.play {
 	-webkit-animation: falling 1s ease-in 1;
-	-webkit-transform: rotate(-2deg) translate3d(-6px, -20px,0);
+	-webkit-transform: rotate(-2deg) translate3d(-6px, -10px,0);
 	-moz-animation: falling 1s ease-in 1;
-	-moz-transform: rotate(-2deg) translate3d(-6px, -20px,0);
+	-moz-transform: rotate(-2deg) translate3d(-6px, -10px,0);
 	-o-animation: falling 1s ease-in 1;
-	-o-transform: rotate(-2deg) translate3d(-6px, -20px,0);
+	-o-transform: rotate(-2deg) translate3d(-6px, -10px,0);
 	-ms-animation: falling 1s ease-in 1;
-	-ms-transform: rotate(-2deg) translate3d(-6px, -20px,0);
+	-ms-transform: rotate(-2deg) translate3d(-6px, -10px,0);
 	animation: falling 1s ease-in 1;
-	transform: rotate(-2deg) translate3d(-6px, -20px,0);
+	transform: rotate(-2deg) translate3d(-6px, -10px,0);
 }
 
 @-webkit-keyframes falling {
