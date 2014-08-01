@@ -225,7 +225,7 @@
 				</p>
 				<p>
 					<br/>
-					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@cssconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
+					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
 			<a href="" class="button">
