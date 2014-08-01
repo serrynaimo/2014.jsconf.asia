@@ -67,7 +67,7 @@ var bamSound2 = (function () {
 
 var menuVisible = false
 $(window).on("scroll touchmove", function (e) {
-	if(!menuVisible) {
+	if(!menuVisible && window.pageYOffset > 50) {
 		$("nav").addClass("play");
 		menuVisible = true;
 	}
@@ -112,7 +112,7 @@ setTimeout(function () {
 
 setTimeout(function () {
 	//bamSound();
-	window.navigator.vibrate([30,10,20,10,10,30,10,20,10,10]);
+	window.navigator.vibrate([100,10,20,10]);
 }, 4200);
 
 

@@ -13,7 +13,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>JSConf.Asia Singapore 2014</title>
-	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans:200,400' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/app.css" />
 	<link rel="stylesheet" type="text/css" href="css/colours.css" />
 	<link rel="shortcut icon" href="favicon.png" >
@@ -30,8 +30,9 @@
 	<meta name="description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
+	<h1>JSConf.Asia 2014</h1>
 	<section id="intro">
-	<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
+	<div>
 		<div class="date"><span>20 + 21 Nov 2014</span></div>
 		<div class="singapore"><span>Singapore</span></div>
 		<div class="venue"><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sanctuary</a></div>
@@ -42,9 +43,20 @@
 		  <path id="s" fill="#ffffff" d="m 375,520.13 48.20625,-27.91125 c 12.69,20.72375 29.1825,35.9475 58.36125,35.9475 24.53125,0 40.17375,-12.26475 40.17375,-29.18125 0,-20.29875 -16.06875,-27.48875 -43.135,-39.32625 l -14.7975,-6.3475 c -42.715,-18.18125 -71.05,-41.0175 -71.05,-89.2275 0,-44.40375 33.83125,-78.2375 86.695,-78.2375 37.6375,0 64.7025,13.11125 84.15375,47.36625 l -46.09625,29.60125 c -10.15,-18.1825 -21.1425,-25.37125 -38.0575,-25.37125 -17.33875,0 -28.335,10.995 -28.335,25.37125 0,17.7625 10.99625,24.9525 36.3675,35.94875 l 14.8,6.3425 c 50.325,21.56875 78.66,43.5575 78.66,93.03375 0,53.2875 -41.86625,82.465 -98.11,82.465 -54.97625,0 -90.5,-26.2175 -107.83625,-60.47375" />
 		</g>
 		</svg></a></div>
-	</form>
+	</div>
 	</section>
 	<section id="body">
+		<section id="info">
+			<p class="desc">Asia's most influential web developer conference</div>
+			<p>
+				sponsored by<br/>
+				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
+			</p>
+			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
+				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Send" /></span></div>
+				<div class="msg"><span></span></div>
+			</form>
+		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
@@ -82,6 +94,16 @@
 				<p>
 					Tingan is a designer, coder & thinker from China and loves innovation in web, design, and OOS.
 					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
+				</p>
+			</div>
+			<!--
+			<div class="speaker">
+				<a href="https://twitter.com/spikebrehm" target="_blank"><img src="img/speakers/spike.jpg" /></a>
+				<h3>Spike Brehm <a href="https://twitter.com/spikebrehm" target="_blank">@spikebrehm</a></h3>
+				<p>
+					Spike is a web engineer at Airbnb. He’s currently prototyping the next generation of Airbnb’s front end
+					stack, tackling the problem of &quot;isomorphic JavaScript&quot; – building apps that have the flexibility to run
+					on both the client and server using the same codebase. 
 				</p>
 			</div>
 			<div class="speaker">
@@ -139,7 +161,7 @@
 					<br/><br/><br/><br/><br/>
 				</p>
 			</div>
-			
+			//-->
 
 			<p>
 				<br/>
@@ -152,20 +174,21 @@
 		</section>
 		<section id="about">
 			<h2>About</h2>
+			<h3>The web can do THAT?</h3>
 			<p>
-			<i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
-			</p>
-			<h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
-			<p>
-			...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
+			JSConf has been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café where you can go deep.
 			</p>
 			<p>
-			<a href="http://www.jimmymonkey.com/" target="_blank"><img src="img/jimmy.png" style="float: right; margin: 0 -25px 0 20px;"height="138" /></a>
-			Jimmy Monkey will be there for 8 hours of non-stop coffee brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
+			<a href="http://www.jimmymonkey.com/" target="_blank" style="border-radius: 90px; width: 170px; height: 140px; padding: 15px 0; background: #fff; text-align: center; float: right; margin: -5px -25px 0 15px;"><img src="img/jimmy.png" height="128" /></a>
+			Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore's best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They'll be at your service both days full-time!
+			</p>
+			<h3>The rest is just the ordinary...</h3>
+			<p>
+			...you know, amazing people, great food, fast Wi-Fi, gorgeous venue, free booze, beach-parties ... just JSConf as usual.
 			</p>
 			<h3>It's for you!</h3>
 			<p>
-			We want to make a community event that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia's best web developers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
 			</p>
 			<a href="" class="button">
 				Get your ticket
@@ -177,7 +200,7 @@
 			<div class="sponsor">
 				<h3>The boss</h3>
 				<p>
-					<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
+					<a href="http://www.pocketmath.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 5px;"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 				</p>
 				<p>
 					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
@@ -186,19 +209,19 @@
 			<div class="supporter">
 				<h3>The Supporters</h3>
 				<!--<p>
-					<a href="http://about.redmart.com" target="_blank"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
+					<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
 				</p>//-->
 				<p>
-					<a href="https://www.github.com" target="_blank"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
+					<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
 				</p>
 				<p>
-					<a href="https://www.digitalocean.com" target="_blank"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
+					<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 8px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
 				</p>
 				<p>
-					<a href="http://www.piktochart.com" target="_blank"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="45" /></a>
+					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
 				</p>
 				<p>
-					<a href="http://www.meteor.com" target="_blank" class="meteor">Meteor</a>
+					<a href="http://www.meteor.com" target="_blank" style="background: #fff; display: inline-block; padding: 8px 12px;" class="meteor">Meteor</a>
 				</p>
 				<p>
 					<br/>
@@ -215,7 +238,7 @@
 				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
 			</p>
 			<p>
-				JSConf.Asia 2014 Singapore is part of<br/>Asia's most influential web developer festival.<br/><br/>
+				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
 				 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
 				A Nerdherd Pte. Ltd. event<br/>
