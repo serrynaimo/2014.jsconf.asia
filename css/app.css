@@ -422,7 +422,7 @@ body > h1 {
 
 
 #subscribeForm {
-	width: 300px;
+	width: 330px;
 	height: 40px;
 	margin: 40px auto 10px;
 	display: block;
@@ -445,7 +445,7 @@ body > h1 {
 }
 #info .input input[type='submit'] {
 	left: 240px;
-	width: 70px;
+	width: 100px;
 	background: #256BC4;
 	color: #fff;
 	font-size: 15px;
@@ -476,7 +476,7 @@ body > h1 {
 #info .msg {
 	position: absolute;
 	top: 46px;
-	width: 310px;
+	width: 340px;
 	text-align: center;
 	font-size: 1em;
 }

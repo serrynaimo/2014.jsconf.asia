@@ -53,7 +53,7 @@
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
 			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
-				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Send" /></span></div>
+				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
 				<div class="msg"><span></span></div>
 			</form>
 		</section>
