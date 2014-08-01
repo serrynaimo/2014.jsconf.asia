@@ -596,7 +596,7 @@ body > h1 {
 	content: "";
 	position: absolute;
 	left: -100px;
-	top: 90px;
+	top: 70px;
 	bottom: -70px;
 	right: -100px;
 	-webkit-transform: rotateY(.8deg) translateZ(-10px);
