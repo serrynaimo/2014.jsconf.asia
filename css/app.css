@@ -18,9 +18,9 @@ body > h1 {
 
 #intro {
   position: absolute;
-  top: 50%;
+  top: 40%;
   width: 100%;
-  margin: -330px 0;
+  margin: -270px 0;
   height: 600px;
 }
 
@@ -35,7 +35,7 @@ body > h1 {
 #intro > div {
 	position: relative;
 	height: 600px;
-	margin: -330px 0;
+	margin: -300px 0;
 	top: 50%;
 	font-size: 1em;
 	-moz-transform-style: preserve-3d;
