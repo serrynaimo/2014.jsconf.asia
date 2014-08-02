@@ -66,19 +66,9 @@ var bamSound2 = (function () {
 
 $(document).ready(function () {
 	var menuVisible = false
-
-	setTimeout(function () {	
-		$("#intro").addClass("play");
-		$("#intro .date").addClass("play");
-		//bamSound2();
-		
-		$(window).on("scroll touchmove", function (e) {
-			if(!menuVisible && window.pageYOffset > 50) {
-				$("nav").addClass("play");
-				menuVisible = true;
-			}
-		});
-	}, 1000);
+	$("#intro").addClass("play");
+	$("#intro .date").addClass("play");
+	//bamSound2();
 	
 	setTimeout(function () {
 		//bamSound();
@@ -86,7 +76,14 @@ $(document).ready(function () {
 		if(!menuVisible) {
 			window.navigator.vibrate([30,10,20,10,10]);
 		}
-	}, 1600);
+		
+		$(window).on("scroll touchmove", function (e) {
+			if(!menuVisible && window.pageYOffset > 50) {
+				$("nav").addClass("play");
+				menuVisible = true;
+			}
+		});
+	}, 600);
 	
 	setTimeout(function () {
 		//bamSound();
@@ -94,7 +91,7 @@ $(document).ready(function () {
 		if(!menuVisible) {
 			window.navigator.vibrate([30,10,20,10,10]);
 		}
-	}, 2200);
+	}, 1200);
 	
 	setTimeout(function () {
 		//bamSound();
@@ -102,7 +99,7 @@ $(document).ready(function () {
 		if(!menuVisible) {
 			window.navigator.vibrate([30,10,20,10,10]);
 		}
-	}, 2800);
+	}, 1800);
 	
 	
 	setTimeout(function () {
@@ -112,7 +109,7 @@ $(document).ready(function () {
 			
 			window.navigator.vibrate([60,10,20,10,10]);
 		}
-	}, 3400);
+	}, 2400);
 	
 	setTimeout(function () {
 		if(!menuVisible) {
@@ -120,7 +117,7 @@ $(document).ready(function () {
 			menuVisible = true;
 			window.navigator.vibrate([100,10,20,10,50]);
 		}
-	}, 4100);
+	}, 3100);
 
 });
 
