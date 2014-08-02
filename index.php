@@ -174,17 +174,18 @@
 		</section>
 		<section id="about">
 			<h2>About</h2>
+			<p align="center">JSConf.Asia, 20 + 21 Nov 2014 in Singapore<br/><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sactuary, Sentosa</a></p>
 			<h3>The web can do THAT?</h3>
 			<p>
-			JSConf has been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café where you can go deep.
-			</p>
-			<p>
-			<a href="http://www.jimmymonkey.com/" target="_blank" style="border-radius: 90px; width: 170px; height: 140px; padding: 15px 0; background: #fff; text-align: center; float: right; margin: -5px -25px 0 15px;"><img src="img/jimmy.png" height="128" /></a>
-			Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore's best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They'll be at your service both days full-time!
+			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café.
 			</p>
 			<h3>The rest is just the ordinary...</h3>
 			<p>
 			...you know, amazing people, great food, fast Wi-Fi, gorgeous venue, free booze, beach-parties ... just JSConf as usual.
+			</p>
+			<p>
+			<a href="http://www.jimmymonkey.com/" target="_blank" style="border-radius: 90px; width: 170px; height: 140px; padding: 15px 0; background: #fff; text-align: center; float: right; margin: -5px -25px 0 15px;"><img src="img/jimmy.png" height="128" /></a>
+			Oh, about the code-café: Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore's best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They'll be at your service both days full-time!
 			</p>
 			<h3>It's for you!</h3>
 			<p>
