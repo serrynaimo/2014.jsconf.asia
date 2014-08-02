@@ -174,7 +174,7 @@
 		</section>
 		<section id="about">
 			<h2>About</h2>
-			<p align="center">JSConf.Asia, 20 + 21 Nov 2014 in Singapore<br/><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sactuary, Sentosa</a></p>
+			<p align="center">JSConf.Asia, 20 + 21 Nov 2014 in Singapore<br/><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sanctuary, Sentosa</a></p>
 			<h3>The web can do THAT?</h3>
 			<p>
 			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café.
