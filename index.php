@@ -239,7 +239,8 @@
 				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
 			</p>
 			<p>
-				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><a href="http://jsconf.com">JSConf around the world</a><br/><br/>
+				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><br/>
+				<a href="http://jsconf.com">JSConf around the world</a><br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
 				 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
 				A Nerdherd Pte. Ltd. event<br/>
