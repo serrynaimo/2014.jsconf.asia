@@ -52,10 +52,10 @@
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
-			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
-				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
-				<div class="msg"><span></span></div>
-			</form>
+			<a href="" onclick="return false;" class="button">
+				Ticket-Sale starts<br/>12th August, 3pm SGT
+				<span>2 days - S$480</span>
+			</a>
 		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
@@ -167,8 +167,8 @@
 				<br/>
 				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
 			</p>
-			<a href="" class="button">
-				Get your ticket
+			<a href="" onclick="return false;" class="button">
+				Ticket-Sale starts<br/>12th August, 3pm SGT
 				<span>2 days - S$480</span>
 			</a>
 		</section>
@@ -191,10 +191,10 @@
 			<p>
 			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia's best web developers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
 			</p>
-			<a href="" class="button">
-				Get your ticket
-				<span>2 days - S$480</span>
-			</a>
+			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
+				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
+				<div class="msg"><span></span></div>
+			</form>
 		</section>
 		<section id="sponsors">
 			<h2>Sponsors</h2>
@@ -229,8 +229,8 @@
 					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
-			<a href="" class="button">
-				Get your ticket
+			<a href="" onclick="return false;" class="button">
+				Ticket-Sale starts<br/>12th August, 3pm SGT
 				<span>2 days - S$480</span>
 			</a>
 		</section>
