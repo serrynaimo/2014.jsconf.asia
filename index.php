@@ -103,7 +103,7 @@
 				<p>
 					Spike is a web engineer at Airbnb. He’s currently prototyping the next generation of Airbnb’s front end
 					stack, tackling the problem of &quot;isomorphic JavaScript&quot; – building apps that have the flexibility to run
-					on both the client and server using the same codebase. 
+					on both the client and server using the same codebase.
 				</p>
 			</div>
 			<div class="speaker">
@@ -131,7 +131,7 @@
 				<h3>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h3>
 				<p>
 					Martin is the organizer of HHJS and &quot;Head of Development&quot; at Ubilabs. His company develops
-					applications based on the Google Maps API for an international client base. 
+					applications based on the Google Maps API for an international client base.
 					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
 					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
 				</p>
@@ -239,7 +239,7 @@
 				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
 			</p>
 			<p>
-				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><br/>
+				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><a href="http://jsconf.com">JSConf around the world</a><br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
 				 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
 				A Nerdherd Pte. Ltd. event<br/>
