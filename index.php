@@ -56,6 +56,7 @@
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
+			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
@@ -180,6 +181,7 @@
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
+			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<section id="about">
 			<h2>About</h2>
@@ -247,6 +249,7 @@
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
+			<span>Starts 12th of August, 3pm SGT</span>
 			<br/>
 		</section>
 		<footer>

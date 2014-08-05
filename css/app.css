@@ -361,6 +361,14 @@ body > h1 {
     font-size: .9em;
 }
 
+#body .button + span {
+	display: block;
+	text-align: center;
+	color: #224e6f;
+	font-size: .8em;
+	padding: 3px 0;
+}
+
 #body section, footer {
 	padding: 130px 0 0;
 	position: relative;
