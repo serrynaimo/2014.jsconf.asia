@@ -52,7 +52,7 @@
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
-			<a href="" onclick="return false;" class="button">
+			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
@@ -176,7 +176,7 @@
 				<br/>
 				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
 			</p>
-			<a href="" onclick="return false;" class="button">
+			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
@@ -243,7 +243,7 @@
 					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
-			<a href="" onclick="return false;" class="button">
+			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
