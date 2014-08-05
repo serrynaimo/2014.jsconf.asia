@@ -242,7 +242,7 @@
 				</p>
 				<p>
 					<br/>
-					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
+					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=JSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
