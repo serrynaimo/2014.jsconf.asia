@@ -6,7 +6,7 @@ body {
   height: 100%;
   background: #072339;
   overflow-x: hidden;
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -327,18 +327,30 @@ body > h1 {
     background: #256BC4;
     color: #fff;
     font-size: 15px;
-    padding: 12px 0;
+    padding: 12px;
     display: block;
     margin: 50px auto 0;
-    width: 370px;
+    width: 346px;
     text-decoration: none;
     position: relative;
     text-align: center;
-    display: none;
 }
 
 #body .button:hover {
 	color: #fff;
+    -webkit-animation: pullin .4s linear infinite;
+}
+
+@-webkit-keyframes pullin {
+	0% {
+		box-shadow: 0 0 0 5px #9AE0FF, 0 0 0 10px #256BC4, 0 0 0 15px rgba(154, 224, 255, .7), 0 0 0 15px rgba(37, 107, 196, .4), 0 0 0 15px rgba(154, 224, 255, .15);
+	}
+	50% {
+		box-shadow: 0 0 0 0px #9AE0FF, 0 0 0 5px #256BC4, 0 0 0 10px rgba(154, 224, 255, .7), 0 0 0 15px rgba(37, 107, 196, .4), 0 0 0 15px rgba(154, 224, 255, .15);
+	}
+	100% {
+		box-shadow: 0 0 0 0px #9AE0FF, 0 0 0 0px #256BC4, 0 0 0 5px rgba(154, 224, 255, .7), 0 0 0 10px rgba(37, 107, 196, .4), 0 0 0 15px rgba(154, 224, 255, .15);
+	} 
 }
 
 #body .button span {
@@ -430,7 +442,7 @@ body > h1 {
 	z-index: 10;
 }
 
-#info .input input {
+#subscribeForm .input input {
   position: absolute;
   left: 0;
   font-size: 20px;
@@ -443,7 +455,7 @@ body > h1 {
   height: 40px;
   border-radius: 0;
 }
-#info .input input[type='submit'] {
+#subscribeForm .input input[type='submit'] {
 	left: 240px;
 	width: 100px;
 	background: #256BC4;
@@ -455,7 +467,7 @@ body > h1 {
 	-moz-appearance: none;
 }
 
-#info .load .input input[type='submit'] {
+#subscribeForm .load .input input[type='submit'] {
 	background-image: -webkit-gradient(linear, 0 0, 100% 100%,color-stop(.25, rgba(0, 0, 0, .1)),color-stop(.25, transparent), color-stop(.5, transparent),color-stop(.5, rgba(0, 0, 0, .1)),color-stop(.75, rgba(0, 0, 0, .1)),color-stop(.75, transparent), to(transparent)	   );
 	background-image: -webkit-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
 	background-image: -moz-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
@@ -473,14 +485,14 @@ body > h1 {
 	animation: loading 2s infinite linear;
 }
 
-#info .msg {
+#subscribeForm .msg {
 	position: absolute;
 	top: 46px;
 	width: 340px;
 	text-align: center;
 	font-size: 1em;
 }
-#info .msg span {
+#subscribeForm .msg span {
 	display: block;
 }
 
@@ -627,6 +639,7 @@ body > h1 {
 }
 
 #body footer p {
+    width: 480px;
 	text-align: center;
     padding: 0;
     color: #224e6f;
@@ -764,7 +777,7 @@ nav a:hover {
 nav .js {
 	width: 110%;
 	height: 120px;
-	margin: -50px 0 12px -25px;	
+	margin: -50px 0 12px -25px;
 }
 
 nav .logo {

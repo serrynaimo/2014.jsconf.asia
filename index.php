@@ -52,10 +52,10 @@
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
-			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
-				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
-				<div class="msg"><span></span></div>
-			</form>
+			<a href="" onclick="return false;" class="button">
+				Get your ticket
+				<span>2 days - S$480</span>
+			</a>
 		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
@@ -112,7 +112,7 @@
 				<p>
 					Spike is a web engineer at Airbnb. He’s currently prototyping the next generation of Airbnb’s front end
 					stack, tackling the problem of &quot;isomorphic JavaScript&quot; – building apps that have the flexibility to run
-					on both the client and server using the same codebase. 
+					on both the client and server using the same codebase.
 				</p>
 			</div>
 			<div class="speaker">
@@ -140,7 +140,7 @@
 				<h3>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h3>
 				<p>
 					Martin is the organizer of HHJS and &quot;Head of Development&quot; at Ubilabs. His company develops
-					applications based on the Google Maps API for an international client base. 
+					applications based on the Google Maps API for an international client base.
 					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
 					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
 				</p>
@@ -176,7 +176,7 @@
 				<br/>
 				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
 			</p>
-			<a href="" class="button">
+			<a href="" onclick="return false;" class="button">
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
@@ -204,10 +204,11 @@
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
 			</p>
-			<a href="" class="button">
-				Get your ticket
-				<span>2 days - S$480</span>
-			</a>
+			<br/>
+			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
+				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
+				<div class="msg"><span></span></div>
+			</form>
 		</section>
 		<section id="sponsors">
 			<h2>Sponsors</h2>
@@ -242,10 +243,11 @@
 					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
-			<a href="" class="button">
+			<a href="" onclick="return false;" class="button">
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
+			<br/>
 		</section>
 		<footer>
 			<p>
@@ -253,6 +255,7 @@
 			</p>
 			<p>
 				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><br/>
+				<a href="http://jsconf.com">JSConf around the world</a><br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
 				 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
 				A Nerdherd Pte. Ltd. event<br/>
