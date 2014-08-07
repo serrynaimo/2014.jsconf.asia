@@ -99,6 +99,15 @@
 			</div>
 			<!--
 			<div class="speaker">
+				<a href="https://twitter.com/ringular" target="_blank"><img src="img/speakers/ritesh.jpg" /></a>
+				<h3>Ritesh Angural <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h3>
+				<p>
+					Ritesh is an Engineer working on the next generation Ecommerce platform at RedMart, currently working on the frontend and continuous delivery.
+					Apart from coding in JavaScript & Ruby, he loves extracting a perfect espresso & scoring goals while wearing the Juventus jersey!
+
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/janjongboom" target="_blank"><img src="img/speakers/jan.jpg" /></a>
 				<h3>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h3>
 				<p>
