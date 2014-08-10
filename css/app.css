@@ -517,11 +517,11 @@ body > h1 {
 	height: 240px;
 	background: url(../img/jsconfmanila.jpg) no-repeat 50% 40%;
 	background-size: 100%;
-	bottom: -360px;
+	bottom: -350px;
 	right: -200px;
 	transform: rotateY(1.3deg) rotateZ(4.3deg) skew(4deg);
 	z-index: -10;
-	border-bottom: 2px solid #56AAEB;
+	border-bottom: 5px solid #56AAEB;
 	box-shadow: 0px 3px 5px rgba(0,0,0,.2);
 }
 
