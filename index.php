@@ -60,23 +60,23 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
-				<a href="https://twitter.com/vinceallenvince" target="_blank"><img src="img/speakers/vince.jpg" /></a>
-				<h3>Vince Allen <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h3>
+				<a href="https://twitter.com/tpiros" target="_blank"><img src="img/speakers/tamaspiros.jpg" /></a>
+				<h3>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h3>
 				<p>
-					Vince  is a software engineering manager at Spotify in New York. He's been designing and programming
-					for almost 20 years and devotes most of his spare time to FloraJS, a JavaScript framework for creating
-					natural simulations in a web browser. Listen to Vince on Spotify (search for Vince Allen or his alias,
-					DJ Monkey Pants) or find him at <a href="http://vinceallen.com" target="_blank">vinceallen.com</a>.
+					Tamas is a web advocate, author, teacher & preacher of super-heroic web technologies from England.
+					His technology dish of choice is the MEAN stack with a side of Polymer that he serves regularly
+					during his London MEAN stack meetup group to curious developers.
 				</p>
 			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
-				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
+				<a href="https://twitter.com/luweidewei" target="_blank"><img src="img/speakers/weilu.jpg" /></a>
+				<h3>Wei Lu <a href="https://twitter.com/luweidewei" target="_blank">@luweidewei</a></h3>
 				<p>
-					Soares Chen is an independent web developer from Penang, Malaysia. He work mostly on server backend using
-					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
-					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
-					to make building web applications as easy as combining lego bricks.
+                    Wei is a full-time open source software developer, passionate about beautiful code and
+                    cryptocurrencies. She's currently leading the development effort of Hive web wallet - 
+                    an elegant cryptocurrency wallet.
+                    She's also a core maintainer of bitcoinjs-lib and co-organizes SingaporeJS meetups and
+                    local NodeSchool workshops.
 				</p>
 			</div>
 			<div class="speaker">
@@ -96,7 +96,35 @@
 					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
 				</p>
 			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/vinceallenvince" target="_blank"><img src="img/speakers/vince.jpg" /></a>
+				<h3>Vince Allen <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h3>
+				<p>
+					Vince  is a software engineering manager at Spotify in New York. He's been designing and programming
+					for almost 20 years and devotes most of his spare time to FloraJS, a JavaScript framework for creating
+					natural simulations in a web browser. Listen to Vince on Spotify (search for Vince Allen or his alias,
+					DJ Monkey Pants) or find him at <a href="http://vinceallen.com" target="_blank">vinceallen.com</a>.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
+				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
+				<p>
+					Soares Chen is an independent web developer from Penang, Malaysia. He work mostly on server backend using
+					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
+					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
+					to make building web applications as easy as combining lego bricks.
+				</p>
+			</div>
 			<!--
+			<div class="speaker">
+				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
+				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
+				<p>
+					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
+					and security. At Opera Software he’s a member of the Developer Relations team.
+				</p>
+			</div>
 			<div class="speaker">
 				<a href="https://twitter.com/ringular" target="_blank"><img src="img/speakers/ritesh.jpg" /></a>
 				<h3>Ritesh Angural <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h3>
@@ -114,6 +142,7 @@
 					ninja at Cloud9 IDE; and is currently working as a Firefox OS contributor and evangelist for Telenor.
 				</p>
 			</div>
+			
 			
 			<div class="speaker">
 				<a href="https://twitter.com/spikebrehm" target="_blank"><img src="img/speakers/spike.jpg" /></a>
@@ -176,14 +205,14 @@
 				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
 				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
 				<p>
-					<br/><br/><br/><br/><br/>
+					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
 				</p>
 			</div>
 			//-->
 
 			<p>
 				<br/>
-				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
+				We're gonna reveal our more than 20 speakers as we approach the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
@@ -211,7 +240,7 @@
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
+				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
 			</p>
 			<br/>
 			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
