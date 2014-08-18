@@ -695,6 +695,22 @@ nav.play {
 	transform: rotate(-2deg) translate3d(-6px, -10px,0);
 }
 
+
+@media all and (min-width: 1020px) {
+    #speakers {
+        width: 1020px;
+        margin: 0 auto 300px;
+    }
+    #speakers .speaker {
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+        overflow: hidden;
+        margin: 10px 0 0 20px;
+    }
+}
+
+
 @-webkit-keyframes falling {
   0% {
     -webkit-transform: translate3d(0, -700px,0);
