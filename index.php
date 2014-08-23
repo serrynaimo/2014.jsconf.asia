@@ -60,12 +60,13 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
-				<a href="https://twitter.com/tpiros" target="_blank"><img src="img/speakers/tamaspiros.jpg" /></a>
-				<h3>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h3>
+				<a href="https://twitter.com/aemkei" target="_blank"><img src="img/speakers/martin.jpg" /></a>
+				<h3>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h3>
 				<p>
-					Tamas is a web advocate, author, teacher & preacher of super-heroic web technologies from England.
-					His technology dish of choice is the MEAN stack with a side of Polymer that he serves regularly
-					during his London MEAN stack meetup group to curious developers.
+					Martin is the organizer of HHJS and &quot;Head of Development&quot; at Ubilabs. His company develops
+					applications based on the Google Maps API for an international client base.
+					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
+					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
 				</p>
 			</div>
 			<div class="speaker">
@@ -77,6 +78,16 @@
                     an elegant cryptocurrency wallet.
                     She's also a core maintainer of bitcoinjs-lib and co-organizes SingaporeJS meetups and
                     local NodeSchool workshops.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
+				<h3>Charlie Roberts</h3>
+				<p>
+					Charlie is a Postdoctoral Fellow in the AlloSphere Research Group at the California NanoSystems Institute,
+					where his research explores computer human interaction in virtual reality environments. He is the primary
+					author of <a href="http://gibber.mat.ucsb.edu" target="_blank">Gibber</a>, a creative coding environment for the browser, and has given
+					over a dozen performances in the US, Europe and Asia improvising audiovisual art through live coded JavaScript.
 				</p>
 			</div>
 			<div class="speaker">
@@ -114,6 +125,15 @@
 					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
 					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
 					to make building web applications as easy as combining lego bricks.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/tpiros" target="_blank"><img src="img/speakers/tamaspiros.jpg" /></a>
+				<h3>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h3>
+				<p>
+					Tamas is a web advocate, author, teacher & preacher of super-heroic web technologies from England.
+					His technology dish of choice is the MEAN stack with a side of Polymer that he serves regularly
+					during his London MEAN stack meetup group to curious developers.
 				</p>
 			</div>
 			<!--
@@ -161,16 +181,7 @@
 					on both the client and server using the same codebase.
 				</p>
 			</div>
-			<div class="speaker">
-				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
-				<h3>Charlie Roberts</h3>
-				<p>
-					Charlie is a Postdoctoral Fellow in the AlloSphere Research Group at the California NanoSystems Institute,
-					where his research explores computer human interaction in virtual reality environments. He is the primary
-					author of <a href="http://gibber.mat.ucsb.edu" target="_blank">Gibber</a>, a creative coding environment for the browser, and has given
-					over a dozen performances in the US, Europe and Asia improvising audiovisual art through live coded JavaScript.
-				</p>
-			</div>
+
 			<div class="speaker">
 				<a href="https://twitter.com/cliener" target="_blank"><img src="img/speakers/chris.jpg" /></a>
 				<h3>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h3>
@@ -179,16 +190,6 @@
 					forms library Quaid-JS upon the world. He is currently working in the in-house web team at insurance broker Jardine Lloyd
 					Thompson in Perth, Australia Aside from musical distractions and earning frequent flyer points, Chris and his wife Sarah
 					can often be found in the company of their very small human.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/aemkei" target="_blank"><img src="img/speakers/martin.jpg" /></a>
-				<h3>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h3>
-				<p>
-					Martin is the organizer of HHJS and &quot;Head of Development&quot; at Ubilabs. His company develops
-					applications based on the Google Maps API for an international client base.
-					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
-					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
 				</p>
 			</div>
 			<div class="speaker">
