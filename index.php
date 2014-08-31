@@ -91,6 +91,25 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/gabehollombe" target="_blank"><img src="img/speakers/gabe.jpg" /></a>
+				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
+				<p>
+					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
+					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
+					Ruby, Vim, and HTML5 Game development.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/cliener" target="_blank"><img src="img/speakers/chris.jpg" /></a>
+				<h3>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h3>
+				<p>
+					Chris has been doing all sorts of things to innocent web sites for 17 years and is also responsible for unleashing web
+					forms library Quaid-JS upon the world. He is currently working in the in-house web team at insurance broker Jardine Lloyd
+					Thompson in Perth, Australia Aside from musical distractions and earning frequent flyer points, Chris and his wife Sarah
+					can often be found in the company of their very small human.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/feross" target="_blank"><img src="img/speakers/feross.jpg" /></a>
 				<h3>Feross Aboukhadijeh <a href="https://twitter.com/feross" target="_blank">@feross</a></h3>
 				<p>
@@ -171,7 +190,6 @@
 					ninja at Cloud9 IDE; and is currently working as a Firefox OS contributor and evangelist for Telenor.
 				</p>
 			</div>
-
 			<div class="speaker">
 				<a href="https://twitter.com/spikebrehm" target="_blank"><img src="img/speakers/spike.jpg" /></a>
 				<h3>Spike Brehm <a href="https://twitter.com/spikebrehm" target="_blank">@spikebrehm</a></h3>
@@ -179,26 +197,6 @@
 					Spike is a web engineer at Airbnb. He’s currently prototyping the next generation of Airbnb’s front end
 					stack, tackling the problem of &quot;isomorphic JavaScript&quot; – building apps that have the flexibility to run
 					on both the client and server using the same codebase.
-				</p>
-			</div>
-
-			<div class="speaker">
-				<a href="https://twitter.com/cliener" target="_blank"><img src="img/speakers/chris.jpg" /></a>
-				<h3>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h3>
-				<p>
-					Chris has been doing all sorts of things to innocent web sites for 17 years and is also responsible for unleashing web
-					forms library Quaid-JS upon the world. He is currently working in the in-house web team at insurance broker Jardine Lloyd
-					Thompson in Perth, Australia Aside from musical distractions and earning frequent flyer points, Chris and his wife Sarah
-					can often be found in the company of their very small human.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/gabehollombe" target="_blank"><img src="img/speakers/gabe.jpg" /></a>
-				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
-				<p>
-					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
-					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
-					Ruby, Vim, and HTML5 Game development.
 				</p>
 			</div>
 			<div class="speaker">
