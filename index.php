@@ -100,6 +100,26 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/vinceallenvince" target="_blank"><img src="img/speakers/vince.jpg" /></a>
+				<h3>Vince Allen <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h3>
+				<p>
+					Vince  is a software engineering manager at Spotify in New York. He's been designing and programming
+					for almost 20 years and devotes most of his spare time to FloraJS, a JavaScript framework for creating
+					natural simulations in a web browser. Listen to Vince on Spotify (search for Vince Allen or his alias,
+					DJ Monkey Pants) or find him at <a href="http://vinceallen.com" target="_blank">vinceallen.com</a>.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/pyko" target="_blank"><img src="img/speakers/peggy.jpg" /></a>
+				<h3>Peggy Kuo <a href="https://twitter.com/pyko" target="_blank">@pyko</a></h3>
+				<p>
+					Peggy is a full stack developer at Atlassian who loves creating things.
+					She makes everything from stuffed toys to Android apps, and her latest project is a
+					little game called Trichroma. She co-organises the Girl Geek Dinner and Women Who Code.
+					But if you really want to know the way to her heart... that would be food!
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/cliener" target="_blank"><img src="img/speakers/chris.jpg" /></a>
 				<h3>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h3>
 				<p>
@@ -119,21 +139,18 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
+				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
+				<p>
+					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
 				<h3>Tingan Ho <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h3>
 				<p>
 					Tingan is a designer, coder & thinker from China and loves innovation in web, design, and OOS.
 					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/vinceallenvince" target="_blank"><img src="img/speakers/vince.jpg" /></a>
-				<h3>Vince Allen <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h3>
-				<p>
-					Vince  is a software engineering manager at Spotify in New York. He's been designing and programming
-					for almost 20 years and devotes most of his spare time to FloraJS, a JavaScript framework for creating
-					natural simulations in a web browser. Listen to Vince on Spotify (search for Vince Allen or his alias,
-					DJ Monkey Pants) or find him at <a href="http://vinceallen.com" target="_blank">vinceallen.com</a>.
 				</p>
 			</div>
 			<div class="speaker">
@@ -156,6 +173,24 @@
 				</p>
 			</div>
 			<!--
+			<div class="speaker">
+				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
+				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
+				<p>
+					Quhan, affectionately known as Q (insert Bond and Trekkie reference here), spends
+					countless waking hours developing applications at PayPal. Apart from churning out
+					code faster than you can say &quot;release the KrakenJS&quot;, he’s also taken the PayPal world
+					by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
+				</p>
+			</div>
+			<div class="speaker">
+				<span><img src="img/speakers/amin.jpg" /></span>
+				<h3>Aminurrashid Mohamed Lahir</h3>
+				<p>
+					Amin is an application developer at PayPal. When not working on Node-based KrakenJS projects,
+					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
+				</p>
+			</div>
 			<div class="speaker">
 				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
 				<h3>Chinmay Pendharker <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
@@ -206,13 +241,6 @@
 					Simon has been building the web since the days of Netscape 1.0. With this much of data-driven web
 					development background he has recently been engineering real-time data capture and delivery systems
 					with node. On the side he produces Techno, lifts weights and researches computer arcana.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
-				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
-				<p>
-					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
 				</p>
 			</div>
 			//-->

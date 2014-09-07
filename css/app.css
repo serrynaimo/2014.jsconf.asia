@@ -350,7 +350,7 @@ body > h1 {
 	}
 	100% {
 		box-shadow: 0 0 0 0px #9AE0FF, 0 0 0 0px #256BC4, 0 0 0 5px rgba(154, 224, 255, .7), 0 0 0 10px rgba(37, 107, 196, .4), 0 0 0 15px rgba(154, 224, 255, .15);
-	} 
+	}
 }
 
 #body .button span {
@@ -532,7 +532,7 @@ body > h1 {
     clear: both;
 }
 
-#speakers .speaker > a {
+#speakers .speaker > a, #speakers .speaker > span {
     float: left;
 	height: 100px;
     width: 100px;
