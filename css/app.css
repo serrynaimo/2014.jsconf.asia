@@ -38,12 +38,16 @@ body > h1 {
 	margin: -300px 0;
 	top: 50%;
 	font-size: 1em;
-	-moz-transform-style: preserve-3d;
-	-webkit-perspective: 250;
-	-moz-perspective: 250;
-	-ms-perspective: 250;
-	-o-perspective: 250;
-	perspective: 250;
+	-webkit-perspective: 250px;
+	-moz-perspective: 250px;
+	-ms-perspective: 250px;
+	-o-perspective: 250px;
+	perspective: 250px;
+}
+
+#intro > div > * {
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
 }
 
 #intro.play > div {
@@ -185,11 +189,11 @@ body > h1 {
 	left: 50%;
 	width: 500px;
 	margin: 0 -250px;
-	-webkit-perspective: 250;
-	-moz-perspective: 250;
-	-ms-perspective: 250;
-	-o-perspective: 250;
-	perspective: 250;
+	-webkit-perspective: 250px;
+	-moz-perspective: 250px;
+	-ms-perspective: 250px;
+	-o-perspective: 250px;
+	perspective: 250px;
 	visibility: hidden;
 }
 
@@ -372,10 +376,10 @@ body > h1 {
 #body section, footer {
 	padding: 130px 0 0;
 	position: relative;
-	-webkit-perspective: 250;
-	-moz-perspective: 250;
-	-ms-perspective: 250;
-	-o-perspective: 250;
+	-webkit-perspective: 250px;
+	-moz-perspective: 250px;
+	-ms-perspective: 250px;
+	-o-perspective: 250px;
 	perspective: 250px;
 }
 
@@ -537,11 +541,11 @@ body > h1 {
 	height: 100px;
     width: 100px;
 	margin-left: 8px;
-	-webkit-perspective: 250;
-	-moz-perspective: 250;
-	-ms-perspective: 250;
-	-o-perspective: 250;
-  	perspective: 250;
+	-webkit-perspective: 250px;
+	-moz-perspective: 250px;
+	-ms-perspective: 250px;
+	-o-perspective: 250px;
+  	perspective: 250px;
 }
 
 #speakers .speaker img {
@@ -552,6 +556,8 @@ body > h1 {
  	-o-transform: rotateY(14deg);
  	-ms-transform: rotateY(14deg);
  	transform: rotateY(14deg);
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
  	box-shadow: -1px 0 3px rgba(0,0,0,.2);
 }
 
