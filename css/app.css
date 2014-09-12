@@ -45,11 +45,6 @@ body > h1 {
 	perspective: 250px;
 }
 
-#intro > div > * {
-    transform-style: preserve-3d;
-    -webkit-transform-style: preserve-3d;
-}
-
 #intro.play > div {
 	-webkit-animation: shake .61s 5, move 2.4s 1;
 	-moz-animation: shake .61s 5, move 2.4s 1;
