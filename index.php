@@ -60,13 +60,12 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
-				<a href="https://twitter.com/aemkei" target="_blank"><img src="img/speakers/martin.jpg" /></a>
-				<h3>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h3>
+				<a href="https://twitter.com/spikebrehm" target="_blank"><img src="img/speakers/spike.jpg" /></a>
+				<h3>Spike Brehm <a href="https://twitter.com/spikebrehm" target="_blank">@spikebrehm</a></h3>
 				<p>
-					Martin is the organizer of HHJS and &quot;Head of Development&quot; at Ubilabs. His company develops
-					applications based on the Google Maps API for an international client base.
-					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
-					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
+					Spike is a web engineer at Airbnb. He’s currently prototyping the next generation of Airbnb’s front end
+					stack, tackling the problem of &quot;isomorphic JavaScript&quot; – building apps that have the flexibility to run
+					on both the client and server using the same codebase.
 				</p>
 			</div>
 			<div class="speaker">
@@ -88,6 +87,16 @@
 					where his research explores computer human interaction in virtual reality environments. He is the primary
 					author of <a href="http://gibber.mat.ucsb.edu" target="_blank">Gibber</a>, a creative coding environment for the browser, and has given
 					over a dozen performances in the US, Europe and Asia improvising audiovisual art through live coded JavaScript.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/aemkei" target="_blank"><img src="img/speakers/martin.jpg" /></a>
+				<h3>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h3>
+				<p>
+					Martin is the organizer of HHJS and &quot;Head of Development&quot; at Ubilabs. His company develops
+					applications based on the Google Maps API for an international client base.
+					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
+					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
 				</p>
 			</div>
 			<div class="speaker">
@@ -136,6 +145,15 @@
 					Feross is currently building WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC.
 					Before that, he built PeerCDN, a peer-to-peer content delivery network to makes sites faster and cheaper.<br/>
 					He's a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/ringular" target="_blank"><img src="img/speakers/ritesh.jpg" /></a>
+				<h3>Ritesh Angural <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h3>
+				<p>
+					Ritesh is an Engineer working on the next generation Ecommerce platform at RedMart, currently working on the frontend and continuous delivery.
+					Apart from coding in JavaScript & Ruby, he loves extracting a perfect espresso & scoring goals while wearing the Juventus jersey!
+
 				</p>
 			</div>
 			<div class="speaker">
@@ -209,29 +227,11 @@
 				</p>
 			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/ringular" target="_blank"><img src="img/speakers/ritesh.jpg" /></a>
-				<h3>Ritesh Angural <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h3>
-				<p>
-					Ritesh is an Engineer working on the next generation Ecommerce platform at RedMart, currently working on the frontend and continuous delivery.
-					Apart from coding in JavaScript & Ruby, he loves extracting a perfect espresso & scoring goals while wearing the Juventus jersey!
-
-				</p>
-			</div>
-			<div class="speaker">
 				<a href="https://twitter.com/janjongboom" target="_blank"><img src="img/speakers/jan.jpg" /></a>
 				<h3>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h3>
 				<p>
 					Jan is a battle-hardened mobile developer and worked on large scale mobile websites and APIs. He was a JavaScript
 					ninja at Cloud9 IDE; and is currently working as a Firefox OS contributor and evangelist for Telenor.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/spikebrehm" target="_blank"><img src="img/speakers/spike.jpg" /></a>
-				<h3>Spike Brehm <a href="https://twitter.com/spikebrehm" target="_blank">@spikebrehm</a></h3>
-				<p>
-					Spike is a web engineer at Airbnb. He’s currently prototyping the next generation of Airbnb’s front end
-					stack, tackling the problem of &quot;isomorphic JavaScript&quot; – building apps that have the flexibility to run
-					on both the client and server using the same codebase.
 				</p>
 			</div>
 			<div class="speaker">
