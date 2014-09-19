@@ -303,13 +303,13 @@
 					<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
 				</p>
 				<p>
+					<a href="http://www.meteor.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 9px;" class="meteor"><img src="img/sponsors/meteor.png" style="margin: 0 6px 3px 6px" height="40" /></a>
+				</p>
+				<p>
 					<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 8px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
 				</p>
 				<p>
 					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
-				</p>
-				<p>
-					<a href="http://www.meteor.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 12px;" class="meteor">Meteor</a>
 				</p>
 				<p>
 					<br/>
