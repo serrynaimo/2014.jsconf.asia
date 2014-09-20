@@ -80,6 +80,24 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/gabehollombe" target="_blank"><img src="img/speakers/gabe.jpg" /></a>
+				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
+				<p>
+					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
+					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
+					Ruby, Vim, and HTML5 Game development.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
+				<h3>Chinmay Pendharker <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
+				<p>
+					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
+					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
+					a bunch of cool local geek/developer/hacker meetups in Singapore.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
 				<h3>Charlie Roberts</h3>
 				<p>
@@ -100,12 +118,11 @@
 				</p>
 			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/gabehollombe" target="_blank"><img src="img/speakers/gabe.jpg" /></a>
-				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
+				<a href="https://twitter.com/janjongboom" target="_blank"><img src="img/speakers/jan.jpg" /></a>
+				<h3>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h3>
 				<p>
-					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
-					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
-					Ruby, Vim, and HTML5 Game development.
+					Jan is a battle-hardened mobile developer and worked on large scale mobile websites and APIs. He was a JavaScript
+					ninja at Cloud9 IDE; and is currently working as a Firefox OS contributor and evangelist for Telenor.
 				</p>
 			</div>
 			<div class="speaker">
@@ -209,15 +226,7 @@
 					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
 				</p>
 			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
-				<h3>Chinmay Pendharker <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
-				<p>
-					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
-					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
-					a bunch of cool local geek/developer/hacker meetups in Singapore.
-				</p>
-			</div>
+
 			<div class="speaker">
 				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
 				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
@@ -226,14 +235,7 @@
 					and security. At Opera Software he’s a member of the Developer Relations team.
 				</p>
 			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/janjongboom" target="_blank"><img src="img/speakers/jan.jpg" /></a>
-				<h3>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h3>
-				<p>
-					Jan is a battle-hardened mobile developer and worked on large scale mobile websites and APIs. He was a JavaScript
-					ninja at Cloud9 IDE; and is currently working as a Firefox OS contributor and evangelist for Telenor.
-				</p>
-			</div>
+
 			<div class="speaker">
 				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
 				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
@@ -243,6 +245,7 @@
 					with node. On the side he produces Techno, lifts weights and researches computer arcana.
 				</p>
 			</div>
+			
 			//-->
 
 			<p>
