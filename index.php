@@ -90,7 +90,7 @@
 			</div>
 			<div class="speaker">
 				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
-				<h3>Chinmay Pendharker <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
+				<h3>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
 				<p>
 					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
 					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
