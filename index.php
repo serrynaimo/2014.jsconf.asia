@@ -98,6 +98,25 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/tpiros" target="_blank"><img src="img/speakers/tamaspiros.jpg" /></a>
+				<h3>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h3>
+				<p>
+					Tamas is a web advocate, author, teacher & preacher of super-heroic web technologies from England.
+					His technology dish of choice is the MEAN stack with a side of Polymer that he serves regularly
+					during his London MEAN stack meetup group to curious developers.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/0x604" target="_blank"><img src="img/speakers/jacob.jpg" /></a>
+				<h3>Jacob Groundwater <a href="https://twitter.com/0x604" target="_blank">@0x604</a></h3>
+				<p>
+					Jacob is a senior engineer on New Relic's product research team. Originally from Vancouver,
+					but living in the bay area, Jacob is a polite, but strongly opinionated people lover who asks tough questions,
+					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project 
+					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
 				<h3>Charlie Roberts</h3>
 				<p>
@@ -115,6 +134,40 @@
 					applications based on the Google Maps API for an international client base.
 					He is the maniac who built the spinning globe in 1K of JavaScript and hacked Tetris in less than 140
 					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/zopim" target="_blank"><img src="img/speakers/yangbin.jpg" /></a>
+				<h3>Yang Bin Kwok <a href="https://twitter.com/zopim" target="_blank">@zopim</a></h3>
+				<p>
+					Yang Bin is a co-founder of Zopim and currently works on simplifying the distribution of
+					realtime data across their POPs and the frontend. One day, he hopes to open source Zopim’s web
+					application framework, but in the meantime he dabbles in image processing, visualizations and chinchillas.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
+				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
+				<p>
+					Soares Chen is an independent web developer from Penang, Malaysia. He work mostly on server backend using
+					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
+					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
+					to make building web applications as easy as combining lego bricks.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
+				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
+				<p>
+					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
+				<h3>Tingan Ho <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h3>
+				<p>
+					Tingan is a designer, coder & thinker from China and loves innovation in web, design, and OOS.
+					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
 				</p>
 			</div>
 			<div class="speaker">
@@ -170,44 +223,18 @@
 				<p>
 					Ritesh is an Engineer working on the next generation Ecommerce platform at RedMart, currently working on the frontend and continuous delivery.
 					Apart from coding in JavaScript & Ruby, he loves extracting a perfect espresso & scoring goals while wearing the Juventus jersey!
+				</p>
+			</div>
 
-				</p>
-			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
-				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
+				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
+				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
 				<p>
-					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
+					Simon has been building the web since the days of Netscape 1.0. With this much of data-driven web
+					development background he has recently been engineering real-time data capture and delivery systems
+					with node. On the side he produces Techno, lifts weights and researches computer arcana.
 				</p>
 			</div>
-			<div class="speaker">
-				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
-				<h3>Tingan Ho <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h3>
-				<p>
-					Tingan is a designer, coder & thinker from China and loves innovation in web, design, and OOS.
-					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
-				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
-				<p>
-					Soares Chen is an independent web developer from Penang, Malaysia. He work mostly on server backend using
-					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
-					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
-					to make building web applications as easy as combining lego bricks.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/tpiros" target="_blank"><img src="img/speakers/tamaspiros.jpg" /></a>
-				<h3>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h3>
-				<p>
-					Tamas is a web advocate, author, teacher & preacher of super-heroic web technologies from England.
-					His technology dish of choice is the MEAN stack with a side of Polymer that he serves regularly
-					during his London MEAN stack meetup group to curious developers.
-				</p>
-			</div>
-			<!--
 			<div class="speaker">
 				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
 				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
@@ -235,18 +262,6 @@
 					and security. At Opera Software he’s a member of the Developer Relations team.
 				</p>
 			</div>
-
-			<div class="speaker">
-				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
-				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
-				<p>
-					Simon has been building the web since the days of Netscape 1.0. With this much of data-driven web
-					development background he has recently been engineering real-time data capture and delivery systems
-					with node. On the side he produces Techno, lifts weights and researches computer arcana.
-				</p>
-			</div>
-			
-			//-->
 
 			<p>
 				<br/>
