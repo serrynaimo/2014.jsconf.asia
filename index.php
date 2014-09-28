@@ -106,6 +106,7 @@
 					during his London MEAN stack meetup group to curious developers.
 				</p>
 			</div>
+			<!--
 			<div class="speaker">
 				<a href="https://twitter.com/0x604" target="_blank"><img src="img/speakers/jacob.jpg" /></a>
 				<h3>Jacob Groundwater <a href="https://twitter.com/0x604" target="_blank">@0x604</a></h3>
@@ -116,6 +117,7 @@
 					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
 				</p>
 			</div>
+			//-->
 			<div class="speaker">
 				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
 				<h3>Charlie Roberts</h3>
@@ -136,6 +138,7 @@
 					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
 				</p>
 			</div>
+			<!--
 			<div class="speaker">
 				<a href="https://twitter.com/zopim" target="_blank"><img src="img/speakers/yangbin.jpg" /></a>
 				<h3>Yang Bin Kwok <a href="https://twitter.com/zopim" target="_blank">@zopim</a></h3>
@@ -145,6 +148,7 @@
 					application framework, but in the meantime he dabbles in image processing, visualizations and chinchillas.
 				</p>
 			</div>
+			-->
 			<div class="speaker">
 				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
 				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
@@ -199,6 +203,23 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<span><img src="img/speakers/amin.jpg" /></span>
+				<h3>Aminurrashid Mohamed Lahir</h3>
+				<p>
+					Amin is an application developer at PayPal. When not working on Node-based KrakenJS projects,
+					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
+				</p>
+			</div>
+
+			<div class="speaker">
+				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
+				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
+				<p>
+					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
+					and security. At Opera Software he’s a member of the Developer Relations team.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/cliener" target="_blank"><img src="img/speakers/chris.jpg" /></a>
 				<h3>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h3>
 				<p>
@@ -235,6 +256,7 @@
 					with node. On the side he produces Techno, lifts weights and researches computer arcana.
 				</p>
 			</div>
+			<!--
 			<div class="speaker">
 				<span><a href="https://twitter.com/imslavko" target="_blank"><img src="img/speakers/slava.jpg" /></a></span>
 				<h3>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h3>
@@ -253,7 +275,7 @@
 					
 				</p>
 			</div>
-
+            //-->
 			<div class="speaker">
 				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
 				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
@@ -262,23 +284,6 @@
 					countless waking hours developing applications at PayPal. Apart from churning out
 					code faster than you can say &quot;release the KrakenJS&quot;, he’s also taken the PayPal world
 					by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
-				</p>
-			</div>
-			<div class="speaker">
-				<span><img src="img/speakers/amin.jpg" /></span>
-				<h3>Aminurrashid Mohamed Lahir</h3>
-				<p>
-					Amin is an application developer at PayPal. When not working on Node-based KrakenJS projects,
-					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
-				</p>
-			</div>
-
-			<div class="speaker">
-				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
-				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
-				<p>
-					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
-					and security. At Opera Software he’s a member of the Developer Relations team.
 				</p>
 			</div>
 
