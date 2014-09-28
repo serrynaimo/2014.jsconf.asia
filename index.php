@@ -236,6 +236,25 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<span><a href="https://twitter.com/imslavko" target="_blank"><img src="img/speakers/slava.jpg" /></a></span>
+				<h3>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h3>
+				<p>
+                    Slava is a core developer at the open-source full-stack JS framework Meteor.
+                    His work includes Meteor's real-time data updates from databases, client-side caches, packaging
+                    system, Phonegap support and other exciting things. In his free time Slava
+                    constantly tries to educate himself on different fascinating topics of Computer Science.
+				</p>
+			</div>
+			
+			<div class="speaker">
+				<a href="https://twitter.com/secoif" target="_blank"><img src="img/speakers/tim.jpg" /></a>
+				<h3>Tim Oxley <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h3>
+				<p>
+					
+				</p>
+			</div>
+
+			<div class="speaker">
 				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
 				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
 				<p>
@@ -264,8 +283,9 @@
 			</div>
 
 			<p>
-				<br/>
-				We're gonna reveal our more than 20 speakers as we approach the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
+				<br/><br/>
+				More than 20 talks and 5 workshops wait for you this year, hosted by these amazing people.
+				We'll publish our detailed event schedule closer to the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
