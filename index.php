@@ -289,7 +289,7 @@
 
 			<p>
 				<br/><br/>
-				More than 20 talks and 5 workshops wait for you this year, hosted by these amazing people.
+				More than 20 talks and 4 workshops wait for you this year, hosted by these amazing people.
 				We'll publish our detailed event schedule closer to the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
