@@ -251,9 +251,10 @@
 				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
 				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
 				<p>
-					Simon has been building the web since the days of Netscape 1.0. With this much of data-driven web
-					development background he has recently been engineering real-time data capture and delivery systems
-					with node. On the side he produces Techno, lifts weights and researches computer arcana.
+					Simon has been building the web since way back, seeing it evolve from obscure novelty to mainstream dominance.
+					 Currently he is designing and building realtime cloud solutions for connected devices. Simon created the
+					 Straw library and is a regular presenter at SydJS. On the side, he's still trying to work out how to do
+					 Wing Chun properly.
 				</p>
 			</div>
 			<!--
