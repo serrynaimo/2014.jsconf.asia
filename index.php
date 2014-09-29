@@ -80,6 +80,45 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/gabehollombe" target="_blank"><img src="img/speakers/gabe.jpg" /></a>
+				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
+				<p>
+					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
+					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
+					Ruby, Vim, and HTML5 Game development.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
+				<h3>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
+				<p>
+					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
+					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
+					a bunch of cool local geek/developer/hacker meetups in Singapore.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/tpiros" target="_blank"><img src="img/speakers/tamaspiros.jpg" /></a>
+				<h3>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h3>
+				<p>
+					Tamas is a web advocate, author, teacher & preacher of super-heroic web technologies from England.
+					His technology dish of choice is the MEAN stack with a side of Polymer that he serves regularly
+					during his London MEAN stack meetup group to curious developers.
+				</p>
+			</div>
+			<!--
+			<div class="speaker">
+				<a href="https://twitter.com/0x604" target="_blank"><img src="img/speakers/jacob.jpg" /></a>
+				<h3>Jacob Groundwater <a href="https://twitter.com/0x604" target="_blank">@0x604</a></h3>
+				<p>
+					Jacob is a senior engineer on New Relic's product research team. Originally from Vancouver,
+					but living in the bay area, Jacob is a polite, but strongly opinionated people lover who asks tough questions,
+					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project 
+					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
+				</p>
+			</div>
+			//-->
+			<div class="speaker">
 				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
 				<h3>Charlie Roberts</h3>
 				<p>
@@ -99,13 +138,48 @@
 					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
 				</p>
 			</div>
+			<!--
 			<div class="speaker">
-				<a href="https://twitter.com/gabehollombe" target="_blank"><img src="img/speakers/gabe.jpg" /></a>
-				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
+				<a href="https://twitter.com/zopim" target="_blank"><img src="img/speakers/yangbin.jpg" /></a>
+				<h3>Yang Bin Kwok <a href="https://twitter.com/zopim" target="_blank">@zopim</a></h3>
 				<p>
-					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
-					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
-					Ruby, Vim, and HTML5 Game development.
+					Yang Bin is a co-founder of Zopim and currently works on simplifying the distribution of
+					realtime data across their POPs and the frontend. One day, he hopes to open source Zopim’s web
+					application framework, but in the meantime he dabbles in image processing, visualizations and chinchillas.
+				</p>
+			</div>
+			-->
+			<div class="speaker">
+				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
+				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
+				<p>
+					Soares Chen is an independent web developer from Penang, Malaysia. He work mostly on server backend using
+					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
+					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
+					to make building web applications as easy as combining lego bricks.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
+				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
+				<p>
+					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
+				<h3>Tingan Ho <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h3>
+				<p>
+					Tingan is a designer, coder & thinker from China and loves innovation in web, design, and OOS.
+					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/janjongboom" target="_blank"><img src="img/speakers/jan.jpg" /></a>
+				<h3>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h3>
+				<p>
+					Jan is a battle-hardened mobile developer and worked on large scale mobile websites and APIs. He was a JavaScript
+					ninja at Cloud9 IDE; and is currently working as a Firefox OS contributor and evangelist for Telenor.
 				</p>
 			</div>
 			<div class="speaker">
@@ -126,6 +200,23 @@
 					She makes everything from stuffed toys to Android apps, and her latest project is a
 					little game called Trichroma. She co-organises the Girl Geek Dinner and Women Who Code.
 					But if you really want to know the way to her heart... that would be food!
+				</p>
+			</div>
+			<div class="speaker">
+				<span><img src="img/speakers/amin.jpg" /></span>
+				<h3>Aminurrashid Mohamed Lahir</h3>
+				<p>
+					Amin is an application developer at PayPal. When not working on Node-based KrakenJS projects,
+					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
+				</p>
+			</div>
+
+			<div class="speaker">
+				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
+				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
+				<p>
+					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
+					and security. At Opera Software he’s a member of the Developer Relations team.
 				</p>
 			</div>
 			<div class="speaker">
@@ -153,44 +244,39 @@
 				<p>
 					Ritesh is an Engineer working on the next generation Ecommerce platform at RedMart, currently working on the frontend and continuous delivery.
 					Apart from coding in JavaScript & Ruby, he loves extracting a perfect espresso & scoring goals while wearing the Juventus jersey!
+				</p>
+			</div>
 
-				</p>
-			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
-				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
+				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
+				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
 				<p>
-					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
-				<h3>Tingan Ho <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h3>
-				<p>
-					Tingan is a designer, coder & thinker from China and loves innovation in web, design, and OOS.
-					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/soareschen" target="_blank"><img src="img/speakers/soares.jpg" /></a>
-				<h3>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h3>
-				<p>
-					Soares Chen is an independent web developer from Penang, Malaysia. He work mostly on server backend using
-					Node since 2011, and is passionate about web technologies. He currently stays in Singapore and is active in
-					the SingaporeJS and HackerspaceSG community. Soares is the creator of Quiver, with it he has the ambition
-					to make building web applications as easy as combining lego bricks.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/tpiros" target="_blank"><img src="img/speakers/tamaspiros.jpg" /></a>
-				<h3>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h3>
-				<p>
-					Tamas is a web advocate, author, teacher & preacher of super-heroic web technologies from England.
-					His technology dish of choice is the MEAN stack with a side of Polymer that he serves regularly
-					during his London MEAN stack meetup group to curious developers.
+					Simon has been building the web since way back, seeing it evolve from obscure novelty to mainstream dominance.
+					 Currently he is designing and building realtime cloud solutions for connected devices. Simon created the
+					 Straw library and is a regular presenter at SydJS. On the side, he's still trying to work out how to do
+					 Wing Chun properly.
 				</p>
 			</div>
 			<!--
+			<div class="speaker">
+				<span><a href="https://twitter.com/imslavko" target="_blank"><img src="img/speakers/slava.jpg" /></a></span>
+				<h3>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h3>
+				<p>
+                    Slava is a core developer at the open-source full-stack JS framework Meteor.
+                    His work includes Meteor's real-time data updates from databases, client-side caches, packaging
+                    system, Phonegap support and other exciting things. In his free time Slava
+                    constantly tries to educate himself on different fascinating topics of Computer Science.
+				</p>
+			</div>
+			
+			<div class="speaker">
+				<a href="https://twitter.com/secoif" target="_blank"><img src="img/speakers/tim.jpg" /></a>
+				<h3>Tim Oxley <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h3>
+				<p>
+					
+				</p>
+			</div>
+            //-->
 			<div class="speaker">
 				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
 				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
@@ -201,53 +287,11 @@
 					by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
 				</p>
 			</div>
-			<div class="speaker">
-				<span><img src="img/speakers/amin.jpg" /></span>
-				<h3>Aminurrashid Mohamed Lahir</h3>
-				<p>
-					Amin is an application developer at PayPal. When not working on Node-based KrakenJS projects,
-					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
-				<h3>Chinmay Pendharker <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
-				<p>
-					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
-					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
-					a bunch of cool local geek/developer/hacker meetups in Singapore.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
-				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
-				<p>
-					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
-					and security. At Opera Software he’s a member of the Developer Relations team.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/janjongboom" target="_blank"><img src="img/speakers/jan.jpg" /></a>
-				<h3>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h3>
-				<p>
-					Jan is a battle-hardened mobile developer and worked on large scale mobile websites and APIs. He was a JavaScript
-					ninja at Cloud9 IDE; and is currently working as a Firefox OS contributor and evangelist for Telenor.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
-				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
-				<p>
-					Simon has been building the web since the days of Netscape 1.0. With this much of data-driven web
-					development background he has recently been engineering real-time data capture and delivery systems
-					with node. On the side he produces Techno, lifts weights and researches computer arcana.
-				</p>
-			</div>
-			//-->
 
 			<p>
-				<br/>
-				We're gonna reveal our more than 20 speakers as we approach the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
+				<br/><br/>
+				More than 20 talks and 4 workshops wait for you this year, hosted by these amazing people.
+				We'll publish our detailed event schedule closer to the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
