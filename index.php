@@ -25,9 +25,9 @@
 	<meta property="og:url" content="http://jsconf.asia/"/>
 	<meta property="og:image" content="http://jsconf.asia/assets/og_jsconfasia.jpg"/>
 	<meta property="og:site_name" content="JSConf.Asia"/>
-	<meta property="og:description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta property="og:description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
-	<meta name="description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta name="description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
 	<h1>JSConf.Asia 2014</h1>
