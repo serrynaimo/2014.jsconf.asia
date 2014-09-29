@@ -113,7 +113,7 @@
 				<p>
 					Jacob is a senior engineer on New Relic's product research team. Originally from Vancouver,
 					but living in the bay area, Jacob is a polite, but strongly opinionated people lover who asks tough questions,
-					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project 
+					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project
 					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
 				</p>
 			</div>
@@ -268,12 +268,14 @@
                     constantly tries to educate himself on different fascinating topics of Computer Science.
 				</p>
 			</div>
-			
+
 			<div class="speaker">
 				<a href="https://twitter.com/secoif" target="_blank"><img src="img/speakers/tim.jpg" /></a>
 				<h3>Tim Oxley <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h3>
 				<p>
-					
+					Tim is a community-centric Node.js engineer with NodeSource. Tim organises
+					the SingaporeJS meetup, nodeschool events, occasionally hosts the NodeUp podcast and is
+					creator of CampJS.
 				</p>
 			</div>
             //-->
