@@ -25,9 +25,9 @@
 	<meta property="og:url" content="http://jsconf.asia/"/>
 	<meta property="og:image" content="http://jsconf.asia/assets/og_jsconfasia.jpg"/>
 	<meta property="og:site_name" content="JSConf.Asia"/>
-	<meta property="og:description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta property="og:description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
-	<meta name="description" content="From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013. More info is on its way. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta name="description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
 	<h1>JSConf.Asia 2014</h1>
@@ -113,7 +113,7 @@
 				<p>
 					Jacob is a senior engineer on New Relic's product research team. Originally from Vancouver,
 					but living in the bay area, Jacob is a polite, but strongly opinionated people lover who asks tough questions,
-					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project 
+					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project
 					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
 				</p>
 			</div>
@@ -268,12 +268,14 @@
                     constantly tries to educate himself on different fascinating topics of Computer Science.
 				</p>
 			</div>
-			
+
 			<div class="speaker">
 				<a href="https://twitter.com/secoif" target="_blank"><img src="img/speakers/tim.jpg" /></a>
 				<h3>Tim Oxley <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h3>
 				<p>
-					
+					Tim is a community-centric Node.js engineer with NodeSource. Tim organises
+					the SingaporeJS meetup, nodeschool events, occasionally hosts the NodeUp podcast and is
+					creator of CampJS.
 				</p>
 			</div>
             //-->
