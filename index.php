@@ -321,7 +321,8 @@
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
+				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp; &nbsp;
+                <a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
 			</p>
 			<br/>
 			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
