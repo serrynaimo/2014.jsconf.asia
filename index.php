@@ -336,6 +336,15 @@
 					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
 				</p>
 			</div>
+            <div>		
+				<h3>The Sponsors</h3>		
+				<p>		
+					<a href="http://www.nonstop-games.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 12px 0;"><img src="img/sponsors/nsg_king.png"  height="50" /></a>		
+				</p>		
+				<p>		
+					Nonstop Games, a King Studio, is Singapore's coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They're going to treat our attendees with a little surprise on Thursday evening...		
+				</p>		
+			</div>
 			<div class="supporter">
 				<h3>The Supporters</h3>
 				<p>
