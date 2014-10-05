@@ -89,12 +89,13 @@
 				</p>
 			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
-				<h3>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
+				<span><a href="https://twitter.com/imslavko" target="_blank"><img src="img/speakers/slava.jpg" /></a></span>
+				<h3>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h3>
 				<p>
-					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
-					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
-					a bunch of cool local geek/developer/hacker meetups in Singapore.
+                    Slava is a core developer at the open-source full-stack JS framework Meteor.
+                    His work includes Meteor's real-time data updates from databases, client-side caches, packaging
+                    system, Phonegap support and other exciting things. In his free time Slava
+                    constantly tries to educate himself on different fascinating topics of Computer Science.
 				</p>
 			</div>
 			<div class="speaker">
@@ -210,13 +211,13 @@
 					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
 				</p>
 			</div>
-
 			<div class="speaker">
-				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
-				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
+				<a href="https://twitter.com/feross" target="_blank"><img src="img/speakers/feross.jpg" /></a>
+				<h3>Feross Aboukhadijeh <a href="https://twitter.com/feross" target="_blank">@feross</a></h3>
 				<p>
-					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
-					and security. At Opera Software he’s a member of the Developer Relations team.
+					Feross is currently building WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC.
+					Before that, he built PeerCDN, a peer-to-peer content delivery network to makes sites faster and cheaper.<br/>
+					He's a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
 				</p>
 			</div>
 			<div class="speaker">
@@ -230,15 +231,6 @@
 				</p>
 			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/feross" target="_blank"><img src="img/speakers/feross.jpg" /></a>
-				<h3>Feross Aboukhadijeh <a href="https://twitter.com/feross" target="_blank">@feross</a></h3>
-				<p>
-					Feross is currently building WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC.
-					Before that, he built PeerCDN, a peer-to-peer content delivery network to makes sites faster and cheaper.<br/>
-					He's a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
-				</p>
-			</div>
-			<div class="speaker">
 				<a href="https://twitter.com/ringular" target="_blank"><img src="img/speakers/ritesh.jpg" /></a>
 				<h3>Ritesh Angural <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h3>
 				<p>
@@ -246,7 +238,15 @@
 					Apart from coding in JavaScript & Ruby, he loves extracting a perfect espresso & scoring goals while wearing the Juventus jersey!
 				</p>
 			</div>
-
+			<div class="speaker">
+				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
+				<h3>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
+				<p>
+					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
+					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
+					a bunch of cool local geek/developer/hacker meetups in Singapore.
+				</p>
+			</div>
 			<div class="speaker">
 				<a href="https://twitter.com/simon_swain" target="_blank"><img src="img/speakers/simon.jpg" /></a>
 				<h3>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h3>
@@ -258,13 +258,21 @@
 				</p>
 			</div>
 			<div class="speaker">
-				<span><a href="https://twitter.com/imslavko" target="_blank"><img src="img/speakers/slava.jpg" /></a></span>
-				<h3>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h3>
+				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
+				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
 				<p>
-                    Slava is a core developer at the open-source full-stack JS framework Meteor.
-                    His work includes Meteor's real-time data updates from databases, client-side caches, packaging
-                    system, Phonegap support and other exciting things. In his free time Slava
-                    constantly tries to educate himself on different fascinating topics of Computer Science.
+					Quhan, affectionately known as Q (insert Bond and Trekkie reference here), spends
+					countless waking hours developing applications at PayPal. Apart from churning out
+					code faster than you can say &quot;release the KrakenJS&quot;, he’s also taken the PayPal world
+					by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
+				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
+				<p>
+					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
+					and security. At Opera Software he’s a member of the Developer Relations team.
 				</p>
 			</div>
 			<div class="speaker">
@@ -274,16 +282,6 @@
 					Tim is a community-centric Node.js engineer with NodeSource. Tim organises
 					the SingaporeJS meetup, nodeschool events, occasionally hosts the NodeUp podcast and is
 					creator of CampJS.
-				</p>
-			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
-				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
-				<p>
-					Quhan, affectionately known as Q (insert Bond and Trekkie reference here), spends
-					countless waking hours developing applications at PayPal. Apart from churning out
-					code faster than you can say &quot;release the KrakenJS&quot;, he’s also taken the PayPal world
-					by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
 				</p>
 			</div>
 
