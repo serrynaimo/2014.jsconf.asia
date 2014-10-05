@@ -257,7 +257,6 @@
 					 Wing Chun properly.
 				</p>
 			</div>
-			<!--
 			<div class="speaker">
 				<span><a href="https://twitter.com/imslavko" target="_blank"><img src="img/speakers/slava.jpg" /></a></span>
 				<h3>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h3>
@@ -268,7 +267,6 @@
                     constantly tries to educate himself on different fascinating topics of Computer Science.
 				</p>
 			</div>
-
 			<div class="speaker">
 				<a href="https://twitter.com/secoif" target="_blank"><img src="img/speakers/tim.jpg" /></a>
 				<h3>Tim Oxley <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h3>
@@ -278,7 +276,6 @@
 					creator of CampJS.
 				</p>
 			</div>
-            //-->
 			<div class="speaker">
 				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
 				<h3>Quhan Arunasalam <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h3>
@@ -333,21 +330,12 @@
 		<section id="sponsors">
 			<h2>Sponsors</h2>
 			<div class="sponsor">
-				<h3>The Boss</h3>
+				<h3>The boss</h3>
 				<p>
 					<a href="http://www.pocketmath.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 5px;"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 				</p>
 				<p>
 					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
-				</p>
-			</div>
-			<div>
-				<h3>The Sponsors</h3>
-				<p>
-					<a href="http://www.nonstop-games.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 12px 0;"><img src="img/sponsors/nsg_king.png"  height="50" /></a>
-				</p>
-				<p>
-					Nonstop Games, a King Studio, is Singapore's coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They're gonna treat our attendees with a little surprise on Thursday evening...
 				</p>
 			</div>
 			<div class="supporter">
