@@ -360,6 +360,9 @@
 					<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 8px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
 				</p>
 				<p>
+					<a href="https://www.paypal.com" target="_blank" style="background: #fff; display: inline-block; padding: 9px 13px 8px;"><img src="img/sponsors/paypal.png"  height="40" /></a>
+				</p>
+				<p>
 					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
 				</p>
 				<p>
