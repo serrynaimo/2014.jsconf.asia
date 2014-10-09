@@ -339,7 +339,19 @@
 				</p>		
 				<p>		
 					Nonstop Games, a King Studio, is Singapore's coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They're going to treat our attendees with a little surprise on Thursday evening...		
+				</p>
+				<p>		
+					<br/><a href="http://www.palantir.com" target="_blank" style="background: #fff; display: inline-block; padding: 11px 11px 5px;"><img src="img/sponsors/palantir.png"  height="36" /></a>		
 				</p>		
+				<p>		
+					Palantir is a leader in data analysis for governments and the financial industry and a long-time supporter of the web developer community around the world.
+				</p>
+				<p>		
+					<br/><a href="http://www.microsoft.com/en-sg/default.aspx" target="_blank" style="background: #fff; display: inline-block; padding: 5px 8px 0;"><img src="img/sponsors/microsoft.png"  height="47" /></a>		
+				</p>		
+				<p>		
+                    We all know Microsoft and we have to thank it for many of the web technologies that we use today. In Singapore Microsoft has an open door for web developers and hosts many user-group meetups in their space.
+				</p>
 			</div>
 			<div class="supporter">
 				<h3>The Supporters</h3>
@@ -359,7 +371,10 @@
 					<a href="https://www.paypal.com" target="_blank" style="background: #fff; display: inline-block; padding: 9px 13px 8px;"><img src="img/sponsors/paypal.png"  height="40" /></a>
 				</p>
 				<p>
-					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
+					<a href="http://www.dot.asia/" target="_blank" style="background: #fff; display: inline-block; padding: 8px 10px 2px;"><img src="img/sponsors/asia.png" height="44" /></a>
+				</p>
+				<p>
+					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 7px 0;" height="42" /></a>
 				</p>
 				<p>
 					<br/>
