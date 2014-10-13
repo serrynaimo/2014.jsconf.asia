@@ -700,7 +700,11 @@ nav .buy {
     background: #021C7F;
     color: #fff;
     padding: 4px 8px;
-    border-radius: 4px;
+    border-radius: 2px;
+}
+
+nav .buy:hover {
+    background: #256BC4;
 }
 
 
