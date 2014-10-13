@@ -57,36 +57,6 @@
 				<span>2 days - S$480</span>
 			</a>
 		</section>
-		<section id="about">
-			<h2>About</h2>
-			<p align="center">JSConf.Asia, 20 + 21 Nov 2014 in Singapore<br/><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sanctuary, Sentosa</a></p>
-			<h3>The web can do THAT?</h3>
-			<p>
-			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café.
-			</p>
-			<h3>The rest is just the ordinary...</h3>
-			<p>
-			...you know, amazing people, great food, fast Wi-Fi, gorgeous venue, free booze, beach-parties ... just JSConf as usual.
-			</p>
-			<p>
-			<a href="http://www.jimmymonkey.com/" target="_blank" style="border-radius: 90px; width: 170px; height: 140px; padding: 15px 0; background: #fff; text-align: center; float: right; margin: -5px -25px 0 15px;"><img src="img/jimmy.png" height="128" /></a>
-			Oh, about the code-café: Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore's best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They'll be at your service both days full-time!
-			</p>
-			<h3>It's for you!</h3>
-			<p>
-			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia's best web developers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
-			</p>
-			<p align="right">
-				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp; &nbsp;
-                <a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
-			</p>
-			<br/>
-			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
-				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
-				<div class="msg"><span></span></div>
-			</form>
-		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
@@ -320,6 +290,36 @@
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
+		</section>
+		<section id="about">
+			<h2>About</h2>
+			<p align="center">JSConf.Asia, 20 + 21 Nov 2014 in Singapore<br/><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sanctuary, Sentosa</a></p>
+			<h3>The web can do THAT?</h3>
+			<p>
+			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café.
+			</p>
+			<h3>The rest is just the ordinary...</h3>
+			<p>
+			...you know, amazing people, great food, fast Wi-Fi, gorgeous venue, free booze, beach-parties ... just JSConf as usual.
+			</p>
+			<p>
+			<a href="http://www.jimmymonkey.com/" target="_blank" style="border-radius: 90px; width: 170px; height: 140px; padding: 15px 0; background: #fff; text-align: center; float: right; margin: -5px -25px 0 15px;"><img src="img/jimmy.png" height="128" /></a>
+			Oh, about the code-café: Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore's best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They'll be at your service both days full-time!
+			</p>
+			<h3>It's for you!</h3>
+			<p>
+			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia's best web developers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+			</p>
+			<p align="right">
+				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp; &nbsp;
+                <a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
+			</p>
+			<br/>
+			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
+				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
+				<div class="msg"><span></span></div>
+			</form>
 		</section>
 		<section id="sponsors">
 			<h2>Sponsors</h2>
