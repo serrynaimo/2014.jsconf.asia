@@ -440,7 +440,7 @@ body > h1 {
 }
 
 
-#about:before {
+#about:after {
 	content: "";
 	position: absolute;
 	overflow: hidden;
@@ -448,7 +448,7 @@ body > h1 {
 	height: 260px;
 	background: url(../img/jsconfmanila.jpg) no-repeat 100% 50%;
 	background-size: 100%;
-	top: -200px;
+	bottom: -200px;
 	right: -300px;
 	transform: rotateY(2deg) rotateZ(-4deg) skew(-5deg);
 	z-index: -10;
@@ -673,7 +673,7 @@ nav {
 	background: #56AAEB;
 	position: fixed;
 	width: 100%;
-	padding: 12px 30px;
+	padding: 12px 20px;
 	box-shadow: 0px 3px 5px rgba(0,0,0,.2);
 	font-family: 'Doppio One';
 	-webkit-transform: translate3d(0, -200px,0);
@@ -694,6 +694,13 @@ nav.play {
 	-ms-transform: rotate(-2deg) translate3d(-6px, -10px,0);
 	animation: falling 1s ease-in 1;
 	transform: rotate(-2deg) translate3d(-6px, -10px,0);
+}
+
+nav .buy {
+    background: #021C7F;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
 }
 
 
