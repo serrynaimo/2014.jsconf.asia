@@ -280,6 +280,15 @@
 					creator of CampJS.
 				</p>
 			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/kansaichris" target="_blank"><img src="img/speakers/chris-frederick.jpg" /></a>
+				<h3>Chris Frederick <a href="https://twitter.com/kansaichris" target="_blank">@kansaichris</a></h3>
+				<p>
+					Chris lives and breathes software documentation. He used to work in the games industry translating
+					Japanese SDK materials into English, but more recently he has been writing Help articles for GitHub.
+					When he’s not busy reading or writing, Chris loves to share stories over a good espresso!
+				</p>
+			</div>
 
 			<p>
 				<br/><br/>
