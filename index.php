@@ -341,24 +341,27 @@
 					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
 				</p>
 			</div>
-            <div>
-				<h3>The Sponsors</h3>
-				<p>
-					<a href="http://www.nonstop-games.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 8px 0;"><img src="img/sponsors/nsg_king.png"  height="50" /></a>
+            <div>		
+				<h3>The Sponsors</h3>		
+				<p>		
+					<a href="http://www.nonstop-games.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 12px 0;"><img src="img/sponsors/nsg_king.png"  height="50" /></a>		
+				</p>		
+				<p>		
+					Nonstop Games, a King Studio, is Singapore's coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They're going to treat our attendees with a little surprise on Thursday evening...		
 				</p>
-				<p>
-					Nonstop Games, a King Studio, is Singapore's coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They're going to treat our attendees with a little surprise on Thursday evening...
+				<p>		
+					<br/><a href="http://www.palantir.com" target="_blank" style="background: #fff; display: inline-block; padding: 11px 11px 5px;"><img src="img/sponsors/palantir.png"  height="36" /></a>		
+				</p>		
+				<p>		
+					Palantir Technologies builds software platforms that help human experts perform powerful,
+					collaborative analysis of data at scale. Palantir’s software is deployed at public institutions,
+					private enterprises, and in the non-profit sector to address the challenges of responsibly making
+					sense of complex, diverse data.
 				</p>
-				<p>
-					<br/><a href="http://www.palantir.com" target="_blank" style="background: #fff; display: inline-block; padding: 11px 11px 5px;"><img src="img/sponsors/palantir.png"  height="36" /></a>
-				</p>
-				<p>
-					Palantir is a leader in data analysis for governments and the financial industry and a long-time supporter of the web developer community around the world.
-				</p>
-				<p>
-					<br/><a href="http://www.microsoft.com/en-sg/default.aspx" target="_blank" style="background: #fff; display: inline-block; padding: 5px 8px 0;"><img src="img/sponsors/microsoft.png"  height="47" /></a>
-				</p>
-				<p>
+				<p>		
+					<br/><a href="http://www.microsoft.com/en-sg/default.aspx" target="_blank" style="background: #fff; display: inline-block; padding: 5px 8px 0;"><img src="img/sponsors/microsoft.png"  height="47" /></a>		
+				</p>		
+				<p>		
                     We all know Microsoft and we have to thank it for many of the web technologies that we use today. In Singapore Microsoft has an open door for web developers and hosts many user-group meetups in their space.
 				</p>
 			</div>
