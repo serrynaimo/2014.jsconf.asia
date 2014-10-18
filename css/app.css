@@ -528,14 +528,44 @@ body > h1 {
 #speakers .speaker {
     margin: 0 auto;
     width: 480px;
+    position: relative;
     clear: both;
+    min-height: 70px;
+}
+
+#speakers .speaker:before {
+    content: "";
+    position: absolute;
+    left: 65px;
+    top: -10px;
+    bottom: -20px;
+    background: #fff;
+    width: 1px;
+}
+
+#speakers .speaker:after {
+    content: "";
+    position: absolute;
+    left: 65px;
+    top: 20px;
+    padding: 5px;
+    margin: -6px;
+    background: #072339;
+    border-radius: 6px;
+    border: 1px solid #fff;
+}
+
+#speakers .speaker > span {
+    color: #fff;
+    font-size: 0.8em;
+    margin-top: 11px;
 }
 
 #speakers .speaker > a, #speakers .speaker > span {
     float: left;
-	height: 100px;
-    width: 100px;
-	margin-left: 8px;
+	height: 70px;
+    width: 70px;
+  margin-right: 16px;
 	-webkit-perspective: 250px;
 	-moz-perspective: 250px;
 	-ms-perspective: 250px;
@@ -543,9 +573,17 @@ body > h1 {
   	perspective: 250px;
 }
 
+#speakers .speaker > h3 {
+  margin-top: 10px;
+}
+
+#speakers .speaker > p {
+  display: none;
+}
+
 #speakers .speaker img {
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
    	-webkit-transform: rotateY(14deg);
 	-moz-transform: rotateY(14deg);
  	-o-transform: rotateY(14deg);
@@ -716,8 +754,7 @@ nav .buy:hover {
     #speakers .speaker {
         display: inline-block;
         vertical-align: top;
-        position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
         margin: 10px 0 0 20px;
     }
 }
