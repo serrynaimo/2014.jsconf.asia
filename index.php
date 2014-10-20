@@ -61,15 +61,30 @@
 			<h2>Speakers</h2>
 			<div class="day thursday">
 			    <h4>Thursday 20th</h4>
-    			<div class="track talks">
         			<div class="speaker">
         				<span>9:00 AM</span>
         				<a href="https://twitter.com/spikebrehm" target="_blank"><img src="img/speakers/spike.jpg" /></a>
         				<h3>Spike Brehm <a href="https://twitter.com/spikebrehm" target="_blank">@spikebrehm</a></h3>
+        				<h4>Building Isomorphic Apps</h4>
+        				<p>
+                            Over the past year or so, we’ve seen the emergence of a new way of building JavaScript web apps that share code between the web browser and the server, using Node.js — a technique that has come to be known as "isomorphic JavaScript.” There are a variety of use cases for isomorphic JavaScript; some apps render HTML on both the server and the client, some apps share just a few small bits of application logic, while others share the entire application runtime between client and server to provide advanced offline and realtime features. Why go isomorphic? The main benefits are performance, maintainability, reusability, and SEO.
+                            <br/>
+                            This talk will share examples of isomorphic JavaScript apps running in the wild, explore the exploding ecosystem of asset building tools, such as Browserify, Webpack, and Gulp, that allow developers to build their own isomorphic JavaScript apps with open-source libraries, demonstrate how to build an isomorphic JavaScript module from scratch, and explore how libraries like React and Flux can be used to build a single-page app that renders on the server.
+        				</p>
         				<p>
         					Spike is a web engineer at Airbnb. He’s currently prototyping the next generation of Airbnb’s front end
         					stack, tackling the problem of &quot;isomorphic JavaScript&quot; – building apps that have the flexibility to run
         					on both the client and server using the same codebase.
+        				</p>
+        			</div>
+        			<div class="speaker workshop">
+        				<span>9:00 AM</span>
+        				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
+        				<h3>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
+        				<p>
+        					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
+        					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
+        					a bunch of cool local geek/developer/hacker meetups in Singapore.
         				</p>
         			</div>
         			<div class="speaker">
@@ -93,6 +108,10 @@
         					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
         					Ruby, Vim, and HTML5 Game development.
         				</p>
+        			</div>
+        			<div class="speaker break">
+            			<span>19:00 AM</span>
+        			    <h3>Snack</h3>
         			</div>
         			<div class="speaker">
         				<span>9:00 AM</span>
@@ -126,6 +145,10 @@
         					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
         				</p>
         			</div>
+        			<div class="speaker break">
+            			<span>19:00 AM</span>
+        			    <h3>Lunch</h3>
+        			</div>
         			<div class="speaker">
         				<span>9:00 AM</span>
         				<a href="http://www.charlie-roberts.com" target="_blank"><img src="img/speakers/charlie.jpg" /></a>
@@ -148,6 +171,10 @@
         					bytes. He is an active speaker at conferences and loves to share the latest insights with the community.
         				</p>
         			</div>
+        			<div class="speaker break">
+            			<span>19:00 AM</span>
+        			    <h3>Snack</h3>
+        			</div>
         			<div class="speaker">
         				<span>9:00 AM</span>
         				<a href="https://twitter.com/zopim" target="_blank"><img src="img/speakers/yangbin.jpg" /></a>
@@ -169,31 +196,9 @@
         					to make building web applications as easy as combining lego bricks.
         				</p>
         			</div>
-    			</div>
-    			<div class="track workshops">
-        			<div class="speaker">
-        				<span>9:00 AM</span>
-        				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
-        				<h3>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h3>
-        				<p>
-        					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
-        					acoustics, and he spent 6 months helping to build an autonomous robotic submarine. He is the organizer of
-        					a bunch of cool local geek/developer/hacker meetups in Singapore.
-        				</p>
-        			</div>
-    			</div>
 			</div>
 			<div class="day friday">
                 <h4>Friday 21st</h4>
-			    <div class="track talks">
-        			<div class="speaker">
-        				<span>9:00 AM</span>
-        				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
-        				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
-        				<p>
-        					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
-        				</p>
-        			</div>
         			<div class="speaker">
         				<span>9:00 AM</span>
         				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
@@ -203,7 +208,7 @@
         					He is the author of SASS-Inspector and get-translation and contributes to many other open-source projects.
         				</p>
         			</div>
-        			<div class="speaker">
+        			<div class="speaker workshop">
         				<span>9:00 AM</span>
         				<a href="https://twitter.com/janjongboom" target="_blank"><img src="img/speakers/jan.jpg" /></a>
         				<h3>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h3>
@@ -234,9 +239,9 @@
         					But if you really want to know the way to her heart... that would be food!
         				</p>
         			</div>
-        			<div class="speaker">
+        			<div class="speaker workshop">
         				<span>9:00 AM</span>
-        				<span><img src="img/speakers/amin.jpg" /></span>
+        				<span class="img"><img src="img/speakers/amin.jpg" /></span>
         				<h3>Aminurrashid Mohamed Lahir</h3>
         				<p>
         					Amin is an application developer at PayPal. When not working on Node-based KrakenJS projects,
@@ -253,7 +258,7 @@
         					He's a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
         				</p>
         			</div>
-        			<div class="speaker">
+        			<div class="speaker workshop">
         				<span>9:00 AM</span>
         				<a href="https://twitter.com/cliener" target="_blank"><img src="img/speakers/chris.jpg" /></a>
         				<h3>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h3>
@@ -284,8 +289,6 @@
         					 Wing Chun properly.
         				</p>
         			</div>
-			    </div>
-                <div class="track workshops">
         			<div class="speaker">
         				<span>9:00 AM</span>
         				<a href="https://twitter.com/qquhan" target="_blank"><img src="img/speakers/quhan.jpg" /></a>
@@ -297,7 +300,7 @@
         					by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
         				</p>
         			</div>
-        			<div class="speaker">
+        			<div class="speaker workshop">
         				<span>9:00 AM</span>
         				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
         				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
@@ -324,6 +327,14 @@
         					Chris lives and breathes software documentation. He used to work in the games industry translating
         					Japanese SDK materials into English, but more recently he has been writing Help articles for GitHub.
         					When he’s not busy reading or writing, Chris loves to share stories over a good espresso!
+        				</p>
+        			</div>
+        			<div class="speaker">
+        				<span>9:00 AM</span>
+        				<a href="https://twitter.com/mikeal" target="_blank"><img src="img/speakers/mikeal.jpg" /></a>
+        				<h3>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h3>
+        				<p>
+        					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
         				</p>
         			</div>
                 </div>

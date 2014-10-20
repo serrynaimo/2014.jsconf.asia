@@ -45,6 +45,9 @@ $("#subscribeForm .msg").click(function() {
 	$("#subscribeForm input[name='email']").focus();
 });
 
+$('.speaker').click(function(e) {
+   $(e.currentTarget).toggleClass('open');
+});
 
 
 /*var bamSound = (function () {
