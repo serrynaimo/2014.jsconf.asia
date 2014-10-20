@@ -25,9 +25,9 @@
 	<meta property="og:url" content="http://jsconf.asia/"/>
 	<meta property="og:image" content="http://jsconf.asia/assets/og_jsconfasia.jpg"/>
 	<meta property="og:site_name" content="JSConf.Asia"/>
-	<meta property="og:description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta property="og:description" content="The web can do that? Asia’s most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
-	<meta name="description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta name="description" content="The web can do that? Asia’s most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
 	<h1>JSConf.Asia 2014</h1>
@@ -47,7 +47,7 @@
 	</section>
 	<section id="body">
 		<section id="info">
-			<p class="desc">Asia's most influential web developer conference</div>
+			<p class="desc">Asia’s most influential web developer conference</div>
 			<p>
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
@@ -73,9 +73,9 @@
 				<h3>Wei Lu <a href="https://twitter.com/luweidewei" target="_blank">@luweidewei</a></h3>
 				<p>
                     Wei is a full-time open source software developer, passionate about beautiful code and
-                    cryptocurrencies. She's currently leading the development effort of Hive web wallet -
+                    cryptocurrencies. She’s currently leading the development effort of Hive web wallet -
                     an elegant cryptocurrency wallet.
-                    She's also a core maintainer of bitcoinjs-lib and co-organizes SingaporeJS meetups and
+                    She’s also a core maintainer of bitcoinjs-lib and co-organizes SingaporeJS meetups and
                     local NodeSchool workshops.
 				</p>
 			</div>
@@ -84,7 +84,7 @@
 				<h3>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h3>
 				<p>
 					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
-					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
+					sharing what he’s learned. He has spoken in on four different continents on topics including JavaScript,
 					Ruby, Vim, and HTML5 Game development.
 				</p>
 			</div>
@@ -93,7 +93,7 @@
 				<h3>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h3>
 				<p>
                     Slava is a core developer at the open-source full-stack JS framework Meteor.
-                    His work includes Meteor's real-time data updates from databases, client-side caches, packaging
+                    His work includes Meteor’s real-time data updates from databases, client-side caches, packaging
                     system, Phonegap support and other exciting things. In his free time Slava
                     constantly tries to educate himself on different fascinating topics of Computer Science.
 				</p>
@@ -111,9 +111,9 @@
 				<a href="https://twitter.com/0x604" target="_blank"><img src="img/speakers/jacob.jpg" /></a>
 				<h3>Jacob Groundwater <a href="https://twitter.com/0x604" target="_blank">@0x604</a></h3>
 				<p>
-					Jacob is a senior engineer on New Relic's product research team. Originally from Vancouver,
+					Jacob is a senior engineer on New Relic’s product research team. Originally from Vancouver,
 					but living in the bay area, Jacob is a polite, but strongly opinionated people lover who asks tough questions,
-					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project
+					loves to learn, hack, or discuss wild ideas with friends. He’s the original author of the node-os project
 					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
 				</p>
 			</div>
@@ -183,7 +183,7 @@
 				<a href="https://twitter.com/vinceallenvince" target="_blank"><img src="img/speakers/vince.jpg" /></a>
 				<h3>Vince Allen <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h3>
 				<p>
-					Vince  is a software engineering manager at Spotify in New York. He's been designing and programming
+					Vince  is a software engineering manager at Spotify in New York. He’s been designing and programming
 					for almost 20 years and devotes most of his spare time to FloraJS, a JavaScript framework for creating
 					natural simulations in a web browser. Listen to Vince on Spotify (search for Vince Allen or his alias,
 					DJ Monkey Pants) or find him at <a href="http://vinceallen.com" target="_blank">vinceallen.com</a>.
@@ -213,7 +213,7 @@
 				<p>
 					Feross is currently building WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC.
 					Before that, he built PeerCDN, a peer-to-peer content delivery network to makes sites faster and cheaper.<br/>
-					He's a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
+					He’s a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
 				</p>
 			</div>
 			<div class="speaker">
@@ -249,7 +249,7 @@
 				<p>
 					Simon has been building the web since way back, seeing it evolve from obscure novelty to mainstream dominance.
 					 Currently he is designing and building realtime cloud solutions for connected devices. Simon created the
-					 Straw library and is a regular presenter at SydJS. On the side, he's still trying to work out how to do
+					 Straw library and is a regular presenter at SydJS. On the side, he’s still trying to work out how to do
 					 Wing Chun properly.
 				</p>
 			</div>
@@ -293,7 +293,7 @@
 			<p>
 				<br/><br/>
 				More than 20 talks and 4 workshops wait for you this year, hosted by these amazing people.
-				We'll publish our detailed event schedule closer to the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
+				We’ll publish our detailed event schedule closer to the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
@@ -305,7 +305,7 @@
 			<p align="center">JSConf.Asia, 20 + 21 Nov 2014 in Singapore<br/><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sanctuary, Sentosa</a></p>
 			<h3>The web can do THAT?</h3>
 			<p>
-			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café.
+			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to’s are gonna be accompanied by hands-on workshops and our code-café.
 			</p>
 			<h3>The rest is just the ordinary...</h3>
 			<p>
@@ -313,11 +313,11 @@
 			</p>
 			<p>
 			<a href="http://www.jimmymonkey.com/" target="_blank" style="border-radius: 90px; width: 170px; height: 140px; padding: 15px 0; background: #fff; text-align: center; float: right; margin: -5px -25px 0 15px;"><img src="img/jimmy.png" height="128" /></a>
-			Oh, about the code-café: Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore's best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They'll be at your service both days full-time!
+			Oh, about the code-café: Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore’s best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They’ll be at your service both days full-time!
 			</p>
-			<h3>It's for you!</h3>
+			<h3>It’s for you!</h3>
 			<p>
-			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia's best web developers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia’s best web developers together in an playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -338,7 +338,7 @@
 					<a href="http://www.pocketmath.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 5px;"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 				</p>
 				<p>
-					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
+					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they’re our generous head sponsor! Thanks PocketMath!
 				</p>
 			</div>
             <div>		
@@ -347,7 +347,7 @@
 					<a href="http://www.nonstop-games.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 12px 0;"><img src="img/sponsors/nsg_king.png"  height="50" /></a>		
 				</p>		
 				<p>		
-					Nonstop Games, a King Studio, is Singapore's coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They're going to treat our attendees with a little surprise on Thursday evening...		
+					Nonstop Games, a King Studio, is Singapore’s coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They’re going to treat our attendees with a little surprise on Thursday evening...		
 				</p>
 				<p>		
 					<br/><a href="http://www.palantir.com" target="_blank" style="background: #fff; display: inline-block; padding: 11px 11px 5px;"><img src="img/sponsors/palantir.png"  height="36" /></a>		
@@ -390,7 +390,7 @@
 				</p>
 				<p>
 					<br/>
-					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=JSConf Sponsorship">write us a mail</a>!
+					If you’re interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=JSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
@@ -404,7 +404,7 @@
 				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
 			</p>
 			<p>
-				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><br/>
+				JSConf.Asia 2014 Singapore is part of Asia’s<br/> first community organized web developer festival.<br/><br/>
 				<a href="http://jsconf.com">JSConf around the world</a><br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
 				 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
