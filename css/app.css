@@ -526,6 +526,7 @@ body > h1 {
 
 #speakers {
     margin-bottom: 300px;
+    -webkit-transform: translate3d(0,0,200px);
 }
 
 #speakers > .day + * {
@@ -561,9 +562,10 @@ body > h1 {
 }
 
 #speakers .speaker:not(.break) {
+	 transition: all .2s ease-in;
     min-height: 80px;
+    cursor: pointer;
 }
-
 
 #speakers .speaker.workshop {
     clear: none;
@@ -577,14 +579,14 @@ body > h1 {
     content: "";
     position: absolute;
     left: 76px;
-    top: -8px;
-    bottom: -12px;
+    top: -11px;
+    bottom: -11px;
     background: #fff;
     z-index: 10;
     width: 1px;
 }
 
-#speakers .speaker > span:after {
+#speakers .speaker > span:not(.img):after {
     content: "";
     position: absolute;
     z-index: 13;
@@ -598,14 +600,7 @@ body > h1 {
     transition: all .1s ease-out;
 }
 
-#speakers .speaker:hover > span:after {
-    padding: 6px;
-    margin: -7px;
-    border-radius: 7px;
-    background: #fff;
-}
-
-#speakers .speaker > span {
+#speakers .speaker > span:not(.img) {
     float: left;
     width: 60px;
     margin: 4px 32px 0 0;
@@ -614,11 +609,25 @@ body > h1 {
     text-align: right;
 }
 
-#speakers .speaker > a, #speakers .speaker > span.img {
+#speakers .speaker > a {
     float: left;
-	height: 70px;
+  height: 70px;
     width: 70px;
     margin-right: 16px;
+  -webkit-perspective: 250px;
+  -moz-perspective: 250px;
+  -ms-perspective: 250px;
+  -o-perspective: 250px;
+    perspective: 250px;
+}
+
+
+#speakers .speaker > img {
+    float: left;
+    margin-top: 0;
+	height: 70px;
+    width: 70px;
+    margin-right: 13px;
 	-webkit-perspective: 250px;
 	-moz-perspective: 250px;
 	-ms-perspective: 250px;
@@ -627,28 +636,39 @@ body > h1 {
 }
 
 #speakers .speaker > h3 {
-      margin-top: 0;
-      margin-left: 150px;
+      margin-top: 2px;
+      font-size: 1.1em;
+      width: 500px;
 }
 
 #speakers .speaker > h4 {
-    margin: -10px 0 0 180px;
+    margin: -4px 0 0 180px;
     text-align: left;
     font-weight: 200;
 }
 
-#speakers .speaker > p {
+#speakers .speaker:not(.break) > *:not(span) {
+	transition: all .2s ease-out;
+    -webkit-transform-origin: -20px 0;
+    -webkit-transform: rotateY(5deg);
+}
+
+#speakers .speaker:not(.break):hover > *:not(span) {
+    -webkit-transform-origin: -20px 0;
+    -webkit-transform: rotateY(0deg);
+}
+
+#speakers .speaker > p, #speakers .speaker > p:hover {
     margin-left: 150px;
     font-size: .8em;
     line-height: 1.2em;
     width: 315px;
     height: 0;
+    margin-top: 10px;
     margin-bottom: 0;
     opacity: 0;
     overflow: hidden;
-    transition: none;
-    -webkit-transform-origin: -20px 0;
-    -webkit-transform: rotateY(90deg);
+    transition: opacity .3s ease-out;
 }
 
 #speakers .speaker > p + p {
@@ -659,61 +679,15 @@ body > h1 {
     opacity: 1;
     height: auto;
     margin-bottom: 15px;
-    -webkit-transform: rotateY(0deg);
-    transition: opacity .3s ease-out, -webkit-transform .3s ease-out;
-
 }
 
 #speakers .speaker img {
     height: 70px;
     width: 70px;
-   	-webkit-transform: rotateY(14deg);
-	-moz-transform: rotateY(14deg);
- 	-o-transform: rotateY(14deg);
- 	-ms-transform: rotateY(14deg);
- 	transform: rotateY(14deg);
-    transform-style: preserve-3d;
-    -webkit-transform-style: preserve-3d;
  	box-shadow: -1px 0 3px rgba(0,0,0,.2);
- 	transition: -webkit-transform .3s ease-out;
 }
 
-#speakers .speaker:nth-child(2n) img {
-   	-webkit-transform: rotateY(-6deg);
-	-moz-transform: rotateY(-6deg);
- 	-o-transform: rotateY(-6deg);
- 	-ms-transform: rotateY(-6deg);
- 	transform: rotateY(-6deg);
-   	box-shadow: 1px 0 3px rgba(0,0,0,.2);
-}
-
-#speakers .speaker:nth-child(3n) img {
-   	-webkit-transform: rotateY(-12deg);
-	-moz-transform: rotateY(-12deg);
- 	-o-transform: rotateY(-12deg);
- 	-ms-transform: rotateY(-12deg);
- 	transform: rotateY(-12deg);
-   	box-shadow: 1px 0 3px rgba(0,0,0,.2);
-}
-
-#speakers .speaker:nth-child(4n) img {
-   	-webkit-transform: rotateY(9deg);
-	-moz-transform: rotateY(9deg);
- 	-o-transform: rotateY(9deg);
- 	-ms-transform: rotateY(9deg);
- 	transform: rotateY(9deg);
-}
-
-
-#speakers .speaker.open img {
-   	-webkit-transform: rotateY(0deg);
-	-moz-transform: rotateY(0deg);
- 	-o-transform: rotateY(0deg);
- 	-ms-transform: rotateY(0deg);
- 	transform: rotateY(0deg);
-}
-
-#speakers .speaker h3 a {
+#speakers .speaker h4 a {
     font-size: .7em;
     color: #9AE0FF;
     font-family: 'Open Sans';
@@ -732,13 +706,17 @@ body > h1 {
     display: block;
 }
 
+#speakers .break h3 {
+	 margin-left: 16px;
+}
+
 
 @media all and (min-width: 1020px) {
     #speakers {
         width: 1020px;
         margin: 0 auto 300px;
     }
-    
+
     #speakers .speaker {
         margin: 16px 0 0 20px;
         float: left;
@@ -749,17 +727,17 @@ body > h1 {
         position: absolute;
         z-index: 5;
         right: -97px;
-        top: -8px;
-        bottom: -12px;
+        top: -11px;
+        bottom: -11px;
         background: #fff;
         width: 1px;
     }
-    
+
     #speakers .speaker.workshop:after {
         top: 40px;
         left: -424px;
     }
-    
+
     #speakers .break {
         width: 100%;
     }
@@ -775,11 +753,17 @@ body > h1 {
     left: -15px;
     right: -15px;
     width: auto;
-    background: #072841;
+    background: transparent;
+    border: 1px dotted #fff;
 }
 
-#speakers .break > span:after {
-    top: 9px;
+#speakers .break:before {
+	display: none;
+}
+
+#speakers .break > span:not(.img):after {
+    /*top: 9px;*/
+    display: none;
 }
 
 #speakers .break > * {
@@ -839,11 +823,6 @@ body > h1 {
 }
 #sponsors .meteor:hover {
 	color: #000;
-}
-
-
-#body footer {
-    background: url(../img/skyline_mobile.jpg) 52% 100% no-repeat;
 }
 
 #body footer p {
