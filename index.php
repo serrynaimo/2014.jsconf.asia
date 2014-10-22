@@ -57,13 +57,22 @@
 				<span>2 days - S$480</span>
 			</a>
 		</section>
+		<span id="schedule"></span>
 		<section id="speakers" class="thursday">
-			<h2>Speakers</h2>
+			<h2>Schedule</h2>
+			<p>
+				20 talks, 2 parties and 5 workshops including our NodeBoats hardware workshop with Spark.io and iDA wait for you this year, hosted by these amazing people.
+			</p>
 			<div class="day thursday">
 			    <h4>Thursday 20th</h4>
                     <div class="speaker break">
         				<span>8 AM</span>
                         <h3>Registration</h3>
+        			</div>
+                    <div class="speaker break">
+        				<span>9 AM</span>
+                        <h3>Oh, hai!</h3>
+                        <h4>Thomas Gorissen <a href="https://twitter.com/serrynaimo" target="_blank">@serrynaimo</a></h4>
         			</div>
         			<div class="speaker">
         				<span>9 AM</span>
@@ -82,7 +91,7 @@
         				</p>
         			</div>
         			<div class="speaker workshop">
-        				<span>9 AM</span>
+        				<span>FULL DAY</span>
         				<a href="https://twitter.com/ntt" target="_blank"><img src="img/speakers/chinmay.jpg" /></a>
                         <h3>NodeBoats Builder with spark.io and IDA</h3>
         				<h4>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h4>
@@ -143,7 +152,7 @@
         			</div>
         			<div class="speaker break">
             			<span>10:45 AM</span>
-        			    <h3>Snack</h3>
+        			    <h3>Get some coffee</h3>
         			</div>
         			<div class="speaker">
         				<span>9 AM</span>
@@ -185,7 +194,7 @@
         			</div>
         			<div class="speaker break">
             			<span>12:30 PM</span>
-        			    <h3>Lunch</h3>
+        			    <h3>Lunch delicousness</h3>
         			</div>
         			<div class="speaker">
         				<span>9 AM</span>
@@ -220,7 +229,7 @@
         			</div>
         			<div class="speaker break">
             			<span>3 PM</span>
-        			    <h3>Snack</h3>
+        			    <h3>Tea Time</h3>
         			</div>
         			<div class="speaker">
         				<span>9 AM</span>
@@ -255,6 +264,11 @@
         			<div class="speaker workshop">
         				<span>5:30 PM</span>
         				<h3>NodeBoats competition</h3>
+        			</div>
+        			<div class="speaker break">
+        				<span>6 PM</span>
+        				<h3>Beer.js with Nonstop Games</h3>
+        				<h4>Stick around, have a drink, enjoy the music</h4>
         			</div>
 			</div>
 			<div class="day friday">
@@ -325,7 +339,7 @@
         			</div>
         			<div class="speaker break">
             		<span>10:45 AM</span>
-        			    <h3>Snack</h3>
+        			    <h3>Have a break</h3>
         			</div>
         			<div class="speaker">
         				<span>9 AM</span>
@@ -408,10 +422,10 @@
         			<div class="speaker">
         				<span>9 AM</span>
         				<a href="https://twitter.com/feross" target="_blank"><img src="img/speakers/feross.jpg" /></a>
-                        <h3>Building WebTorrent - like BitTorrent but in your browser</h3>
+                        <h3>WebTorrent</h3>
         				<h4>Feross Aboukhadijeh <a href="https://twitter.com/feross" target="_blank">@feross</a></h4>
                         <p>
-                            Note: Feross has not yet submitted his final talk description, so I suggest you to reach out to him on Twitter to remind him :)
+                            This talk will look at WebTorrent, a BitTorrent client for the browser that fully-interoperates with the regular BitTorrent network. WebTorrent uses WebRTC Data Channels and special "hybrid clients" to connect to the wider BitTorrent network. It's insane to try this.
                         </p>
         				<p>
         					Feross is currently building WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC.
@@ -421,7 +435,7 @@
         			</div>
         			<div class="speaker break">
             			<span>1 PM</span>
-        			    <h3>Lunch</h3>
+        			    <h3>Lunch cravings</h3>
         			</div>
         			<div class="speaker">
         				<span>9 AM</span>
@@ -487,7 +501,7 @@
         			</div>
         			<div class="speaker break">
             			<span>3:15 PM</span>
-        			    <h3>Snack</h3>
+        			    <h3>Moah foood</h3>
         			</div>
         			<div class="speaker">
         				<span>9 AM</span>
@@ -538,14 +552,15 @@
         					Mikeal is the Director of Evangelism at DigitalOcean and the creator of request, NodeConf and JSFest.
         				</p>
         			</div>
+        			<div class="speaker break">
+        				<span>6:30 PM</span>
+                        <h3>Beach.JS AfterParty with Paypal</h3>
+                        <h4>Mambo Beach Club, Sentosa Beach</h4>
+        			</div>
                 </div>
 			</div>
-			<p>
-				<br/><br/>
-				More than 20 talks and 4 workshops wait for you this year, hosted by these amazing people.
-				We'll publish our detailed event schedule closer to the event, so <a href="http://twitter.com/jsconfasia">stay tuned</a>!
-			</p>
-			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
+			<p></p>
+            <a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
 				<span>2 days - S$480</span>
 			</a>
@@ -671,7 +686,7 @@
 		  <path id="s" fill="#ffffff" d="m 375,520.13 48.20625,-27.91125 c 12.69,20.72375 29.1825,35.9475 58.36125,35.9475 24.53125,0 40.17375,-12.26475 40.17375,-29.18125 0,-20.29875 -16.06875,-27.48875 -43.135,-39.32625 l -14.7975,-6.3475 c -42.715,-18.18125 -71.05,-41.0175 -71.05,-89.2275 0,-44.40375 33.83125,-78.2375 86.695,-78.2375 37.6375,0 64.7025,13.11125 84.15375,47.36625 l -46.09625,29.60125 c -10.15,-18.1825 -21.1425,-25.37125 -38.0575,-25.37125 -17.33875,0 -28.335,10.995 -28.335,25.37125 0,17.7625 10.99625,24.9525 36.3675,35.94875 l 14.8,6.3425 c 50.325,21.56875 78.66,43.5575 78.66,93.03375 0,53.2875 -41.86625,82.465 -98.11,82.465 -54.97625,0 -90.5,-26.2175 -107.83625,-60.47375" />
 		</g>
 		</svg></a></div>
-		<a href="#speakers">Speakers</a> &nbsp; &nbsp;
+		<a href="#schedule">Schedule</a> &nbsp; &nbsp;
 		<a href="#about">About</a> &nbsp; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &nbsp;
 		<a href="http://facebook.com/jsconfasia">Updates</a> &nbsp; &nbsp;
