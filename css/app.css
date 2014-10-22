@@ -682,10 +682,12 @@ body > h1 {
 }
 
 #speakers .speaker > p {
-    margin-left: 150px;
-    font-size: .8em;
+    clear: left;
+    width: 380px;
+    padding-top: 6px;
+    margin-left: 63px;
+    font-size: .9em;
     line-height: 1.2em;
-    width: 305px;
     height: 0;
     margin-top: 10px;
     margin-bottom: 0;
