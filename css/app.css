@@ -425,7 +425,7 @@ body > h1 {
 #info:before {
 	content: "";
 	position: absolute;
-	left: -100px;
+	left: -400px;
 	top: 60px;
 	bottom: -90px;
 	right: -100px;
@@ -539,12 +539,16 @@ body > h1 {
 
 #speakers .day {
     margin-bottom: 30px;
+    position: relative;
 }
 
-#speakers .day h4 {
+#speakers .day > h4 {
     text-align: center;
     color: #fff;
     font-size: .9em;
+    padding: 15px;
+    border: 1px solid #fff;
+    margin: 0 15px -8px;
 }
 
 
@@ -559,6 +563,7 @@ body > h1 {
 	-ms-perspective: 250px;
 	-o-perspective: 250px;
   	perspective: 250px;
+  	-webkit-perspective-origin: 50px 0;
 }
 
 #speakers .speaker:not(.break) {
@@ -614,11 +619,6 @@ body > h1 {
   height: 70px;
     width: 70px;
     margin-right: 16px;
-  -webkit-perspective: 250px;
-  -moz-perspective: 250px;
-  -ms-perspective: 250px;
-  -o-perspective: 250px;
-    perspective: 250px;
 }
 
 
@@ -628,37 +628,34 @@ body > h1 {
 	height: 70px;
     width: 70px;
     margin-right: 13px;
-	-webkit-perspective: 250px;
-	-moz-perspective: 250px;
-	-ms-perspective: 250px;
-	-o-perspective: 250px;
-  	perspective: 250px;
 }
 
 #speakers .speaker > h3 {
       margin-top: 2px;
       font-size: 1.1em;
-      width: 500px;
+      width: 470px;
 }
 
 #speakers .speaker > h4 {
     margin: -4px 0 0 180px;
     text-align: left;
     font-weight: 200;
+    color: #fff;
+    font-size: .9em;
 }
 
 #speakers .speaker:not(.break) > *:not(span) {
-	transition: all .2s ease-out;
-    -webkit-transform-origin: -20px 0;
-    -webkit-transform: rotateY(5deg);
+    -webkit-transform: rotateY(3deg);
+    -webkit-transform-origin: -50px 0;
 }
 
-#speakers .speaker:not(.break):hover > *:not(span) {
-    -webkit-transform-origin: -20px 0;
+#speakers .speaker:not(.break):hover > *:not(span),
+#speakers .speaker:not(.break).open > *:not(span) {
+    transition: all .2s ease-out;
     -webkit-transform: rotateY(0deg);
 }
 
-#speakers .speaker > p, #speakers .speaker > p:hover {
+#speakers .speaker > p {
     margin-left: 150px;
     font-size: .8em;
     line-height: 1.2em;
@@ -741,6 +738,15 @@ body > h1 {
     #speakers .break {
         width: 100%;
     }
+    
+    #speakers .day > h4 {
+        margin: 0 10px -3px;
+    }
+    
+    #speakers .break:after {
+        right: 30px !important;
+    }
+
 }
 
 
