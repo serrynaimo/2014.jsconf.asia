@@ -543,12 +543,12 @@ body > h1 {
 }
 
 #speakers .day > h4 {
-    text-align: center;
     color: #fff;
     font-size: .9em;
     padding: 15px;
-    border: 1px solid #fff;
-    margin: 0 15px -8px;
+    margin-bottom: -8px;
+    width: 160px;
+    text-align: center;
 }
 
 
@@ -564,11 +564,12 @@ body > h1 {
 	-o-perspective: 250px;
   	perspective: 250px;
   	-webkit-perspective-origin: 50px 0;
+    min-height: 70px;
 }
 
 #speakers .speaker:not(.break) {
 	 transition: all .2s ease-in;
-    min-height: 80px;
+
     cursor: pointer;
 }
 
@@ -578,6 +579,18 @@ body > h1 {
 
 #speakers .speaker.workshop > span {
     clear: none;
+}
+
+
+#speakers .speaker.workshop > span:not(.img):before {
+    content: "WORKSHOP";
+    font-size: 0.9em;
+    position: absolute;
+    top: 20px;
+    left: -6px;
+    text-transform: uppercase;
+    color: #9AE0FF;
+    
 }
 
 #speakers .speaker:before {
@@ -697,6 +710,7 @@ body > h1 {
     color: #fff;
 }
 
+/*
 #speakers .break {
     height: 27px;
     clear: both;
@@ -706,7 +720,7 @@ body > h1 {
 #speakers .break h3 {
 	 margin-left: 16px;
 }
-
+*/
 
 @media all and (min-width: 1020px) {
     #speakers {
@@ -734,22 +748,23 @@ body > h1 {
         top: 40px;
         left: -424px;
     }
-
+    
+    #speakers .day > h4 {
+        margin-bottom: -5px;
+    }
+    
+    /*
     #speakers .break {
         width: 100%;
     }
     
-    #speakers .day > h4 {
-        margin: 0 10px -3px;
-    }
-    
     #speakers .break:after {
         right: 30px !important;
-    }
+    }*/
 
 }
 
-
+/*
 #speakers .break:after {
     content: "";
     position: absolute;
@@ -760,7 +775,7 @@ body > h1 {
     right: -15px;
     width: auto;
     background: transparent;
-    border: 1px dotted #fff;
+    border: 1px dashed #fff;
 }
 
 #speakers .break:before {
@@ -768,7 +783,6 @@ body > h1 {
 }
 
 #speakers .break > span:not(.img):after {
-    /*top: 9px;*/
     display: none;
 }
 
@@ -777,7 +791,7 @@ body > h1 {
     z-index: 11;
 }
 
-
+*/
 
 
 

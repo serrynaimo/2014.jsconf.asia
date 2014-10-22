@@ -61,6 +61,10 @@
 			<h2>Speakers</h2>
 			<div class="day thursday">
 			    <h4>Thursday 20th</h4>
+                    <div class="speaker break">
+        				<span>8 AM</span>
+                        <h3>Registration</h3>
+        			</div>
         			<div class="speaker">
         				<span>9 AM</span>
         				<a href="https://twitter.com/spikebrehm" target="_blank"><img src="img/speakers/spike.jpg" /></a>
@@ -255,6 +259,10 @@
 			</div>
 			<div class="day friday">
                 <h4>Friday 21st</h4>
+                    <div class="speaker break">
+        				<span>8 AM</span>
+                        <h3>Registration</h3>
+        			</div>
         			<div class="speaker">
         				<span>9 AM</span>
         				<a href="http://tinganho.me/" target="_blank"><img src="img/speakers/tingan.jpg" /></a>
