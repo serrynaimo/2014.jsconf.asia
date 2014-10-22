@@ -375,7 +375,7 @@
                             You can build a server.<br/>
                             You can build an operating system.<br/>
                             You can even build a kernel!<br/>
-                            <br/><br/>
+                            <br/>
                             Let's explore how.
                         </p>
         				<p>
