@@ -644,6 +644,9 @@
 				<p>
 					<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 8px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
 				</p>
+                <p>
+                    <a href="https://www.mozilla.com" target="_blank" style="background: #fff; display: inline-block; padding: 6px 8px 4px;"><img src="img/sponsors/mozilla.png"  height="42" /></a>
+                </p>
 				<p>
 					<a href="https://www.paypal.com" target="_blank" style="background: #fff; display: inline-block; padding: 9px 13px 8px;"><img src="img/sponsors/paypal.png"  height="40" /></a>
 				</p>
