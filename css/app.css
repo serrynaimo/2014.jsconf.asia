@@ -725,6 +725,10 @@ body > h1 {
     color: #fff;
 }
 
+#speakers .speaker.break {
+    cursor: default;
+}
+
 @media all and (min-width: 1020px) {
     #speakers {
         width: 1020px;
