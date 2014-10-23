@@ -456,7 +456,7 @@
         				</p>
         			</div>
                     <div class="speaker workshop">
-                        <span>1:30 PM</span>
+                        <span>1:45 PM</span>
                         <img src="img/speakers/tamaspiros.jpg" />
                         <h3>Creating a geospatial MEAN application</h3>
                         <h4>Tamas Piros, MarkLogic <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h4>
