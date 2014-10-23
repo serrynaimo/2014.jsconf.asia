@@ -78,7 +78,7 @@
     				<span>9:15 AM</span>
     				<img src="img/speakers/spike.jpg" />
                     <h3>Building Isomorphic Apps</h3>
-    				<h4>Spike Brehm <a href="https://twitter.com/spikebrehm" target="_blank">@spikebrehm</a></h4>
+    				<h4>Spike Brehm, Airbnb <a href="https://twitter.com/spikebrehm" target="_blank">@spikebrehm</a></h4>
     				<p>
                         Over the past year or so, we’ve seen the emergence of a new way of building JavaScript web apps that share code between the web browser and the server, using Node.js — a technique that has come to be known as "isomorphic JavaScript.” There are a variety of use cases for isomorphic JavaScript; some apps render HTML on both the server and the client, some apps share just a few small bits of application logic, while others share the entire application runtime between client and server to provide advanced offline and realtime features. Why go isomorphic? The main benefits are performance, maintainability, reusability, and SEO.
                         <br/>
@@ -94,7 +94,7 @@
     				<span>FULL DAY</span>
     				<img src="img/speakers/chinmay.jpg" />
                     <h3>NodeBoats Builder with spark.io and IDA</h3>
-    				<h4>Chinmay Pendharkar <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h4>
+    				<h4>Chinmay Pendharkar, Sonoport <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h4>
                     <p>
                         <b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
                             It's first come, first serve!</b>
@@ -117,7 +117,7 @@
     				<span>10 AM</span>
     				<img src="img/speakers/vince.jpg" />
                     <h3>Pixel Art and Complex Systems</h3>
-    				<h4>Vince Allen <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h4>
+    				<h4>Vince Allen, Spotify <a href="https://twitter.com/vinceallenvince" target="_blank">@vinceallenvince</a></h4>
                     <p>
                         Once defined by its limitations, pixel art has evolved into a highly expressive visual style. Illustrators, product designers and artists continually challenge the conventional pixel art sensibility to produce beautiful work for the street, our homes and museums.
                         <br/>
@@ -140,7 +140,7 @@
     				<span>11 AM</span>
     				<img src="img/speakers/chris.jpg" />
                     <h3>Bad Form</h3>
-    				<h4>Chris Lienert <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h4>
+    				<h4>Chris Lienert, Jardine Lloyd Thompson <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h4>
                     <p>
                         At any given time and place, if you listen carefully, you can hear the screams of frustration from people trying to fill out a form on the web. We web developers are the ones who can fix that and I'll show you how.
                     </p>
@@ -155,7 +155,7 @@
     				<span>11:45 AM</span>
     				<img src="img/speakers/weilu.jpg" />
                     <h3>HTTP Headers – the simplest security</h3>
-    				<h4>Wei Lu <a href="https://twitter.com/luweidewei" target="_blank">@luweidewei</a></h4>
+    				<h4>Wei Lu, Neo <a href="https://twitter.com/luweidewei" target="_blank">@luweidewei</a></h4>
                     <p>
                         Not sure what Content-Security-Policy and Strict-Transport-Security are about? Your web apps are at risk! Security is crucial but can be hard
                         to get right. Luckily for web developers, the HTTP protocol comes with well-thought-out security specifications. Modern browsers implementing
@@ -178,7 +178,7 @@
     				<span>1:15 PM</span>
     				<img src="img/speakers/jan.jpg" />
                     <h3>Fun with JavaScript and sensors</h3>
-    				<h4>Jan Jongboom <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h4>
+    				<h4>Jan Jongboom, Telenor <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h4>
                     <p>
                         As web developers we treat mobile phones as scaled down desktops. We like responsive design and nice looking buttons. But we can do so much more! That little device in your pocket is equipped with a gazillion sensors, and thus able to connect with the real life. Why not exploit that? It’s time to do crazy stuff with phones!
                         <br/>
@@ -193,7 +193,7 @@
     				<span>2 PM</span>
     				<img src="img/speakers/martin.jpg" />
                     <h3>The Art of Less</h3>
-    				<h4>Martin Kleppe <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h4>
+    				<h4>Martin Kleppe, Ubilabs <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h4>
                     <p>
                         Focussing on the smallest scale will sometimes lead to new worlds: As a developer you will discover beautiful aspects of the language you use every day. In this talk, Martin will teach you magic tricks how to create handsome code in as few characters as possible. He will showcase mind-bending hacks and introduce you to the incredible art of code golfing.
                     </p>
@@ -228,7 +228,7 @@
     				<span>3:45 PM</span>
     				<img src="img/speakers/mathias.jpg" />
                     <h3>JavaScript ♥ Unicode</h3>
-    				<h4>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h4>
+    				<h4>Mathias Bynens, Opera <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h4>
                     <p>
                         This presentation explains the various ways in which JavaScript relies on Unicode, what the consequences are for JavaScript developers, and how ECMAScript 6 will make our lives a bit easier in this regard.
                         <br/>
@@ -247,7 +247,7 @@
     				<span>4:30 PM</span>
     				<img src="img/speakers/tingan.jpg" />
                     <h3>Translation workflow and formatting complex translations</h3>
-    				<h4>Tingan Ho <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h4>
+    				<h4>Tingan Ho, P1.cn <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h4>
                     <p>
                         Supporting a multilingual application has been a difficult for a very long time and we are now in a brink of
                         entering a new state where we can do it more easily. Data such as CLDR and technologies such ICU's MessageFormat is
@@ -267,7 +267,7 @@
                     <img src="img/speakers/quhan.jpg" />
     				<img src="img/speakers/amin.jpg" />
                     <h3>Template specialization and app security made easy. In one talk.</h3>
-    				<h4>Quhan Arunasalam &amp; Amin Mohamed Lahir <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h4>
+    				<h4>Quhan Arunasalam &amp; Amin Mohamed Lahir, Paypal <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h4>
                     <p>
                         Let's say you've built a brand spanking new Node app. The Internets smile upon you and it becomes super popular! Suddenly
                         people all around the world want to use it too. And naturally, some of them might want to abuse it for nefarious reasons
@@ -321,7 +321,7 @@
                         <span>9 AM</span>
                         <img src="img/speakers/tim.jpg" />
                         <h3>NodeSchool Singapore III</h3>
-                        <h4>Tim Oxley <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h4>
+                        <h4>Tim Oxley, NodeSource <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
                                 It's first come, first serve!</b>
@@ -347,7 +347,7 @@
         				<span>9:45 AM</span>
         				<img src="img/speakers/peggy.jpg" />
                         <h3>There and Back Again - A Game Dev's Tale</h3>
-        				<h4>Peggy Kuo <a href="https://twitter.com/pyko" target="_blank">@pyko</a></h4>
+        				<h4>Peggy Kuo, Atlassian <a href="https://twitter.com/pyko" target="_blank">@pyko</a></h4>
                         <p>
                             There are two main challenges in creating a game: starting, and finishing. With the plethora of tools at our disposal, it's quite easy to embark on our pet projects. But sooner or later, we come across problems. Scope creep, unknown unknowns, fragile code and just life in general. It's at this point that many games falter by the wayside and are eventually shelved.
                             <br/>
@@ -368,7 +368,7 @@
         				<span>11 AM</span>
         				<img src="img/speakers/jacob.jpg" />
                         <h3>Extra Full Stack JS: a node-os talk</h3>
-        				<h4>Jacob Groundwater <a href="https://twitter.com/0x604" target="_blank">@0x604</a></h4>
+        				<h4>Jacob Groundwater, New Relic <a href="https://twitter.com/0x604" target="_blank">@0x604</a></h4>
                         <p>
                             Building an operating system should be as easy as building an express app. JavaScript alone is not enough, but when combined with node and npm something amazing happens. Together these three form one of the most flexible and powerful programming platforms that exists today.
                             <br/><br/>
@@ -389,7 +389,7 @@
                         <span>11 AM</span>
                         <img src="img/speakers/chris-frederick.jpg" />
                         <h3>Intermediate Git and GitHub workshop</h3>
-                        <h4>Chris Frederick <a href="https://twitter.com/kansaichris" target="_blank">@kansaichris</a></h4>
+                        <h4>Chris Frederick, GitHub <a href="https://twitter.com/kansaichris" target="_blank">@kansaichris</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
                                 It's first come, first serve!</b>
@@ -408,7 +408,7 @@
         				<span>11:45 AM</span>
         				<img src="img/speakers/yangbin.jpg" />
                         <h3>IPCluster – Scaling Zopim’s frontend node servers</h3>
-        				<h4>Yang Bin Kwok <a href="https://twitter.com/zopim" target="_blank">@zopim</a></h4>
+        				<h4>Yang Bin Kwok, Zopim <a href="https://twitter.com/zopim" target="_blank">@zopim</a></h4>
                         <p>
                             Realtime applications are easy with Node, but how do you scale out when the load hits? Zopim shares the lessons learnt at scale, as well as their approach to enterprise class software of a simplified network topology eschewing dedicated load balancers and firewalls.
                         </p>
@@ -422,7 +422,7 @@
         				<span>12:15 PM</span>
         				<img src="img/speakers/slava.jpg" />
                         <h3>Reactive Programming made simple</h3>
-        				<h4>Slava Kim <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h4>
+        				<h4>Slava Kim, Meteor <a href="https://twitter.com/imslavko" target="_blank">@imslavko</a></h4>
                         <p>
                             Reactive Programming is very useful for building complex user interface and interactions. Unfortunately the most popular form of it is FRP (Functional Reactive Programming) which is not an easy paradigm to learn and use for newcomers. In this talk we will present you a much simpler approach that still preserves all the Reactive Programming properties usually required on day-by-day basis but allows you to use the usual imperative style just in a 1Kb library of pure JS.
                             <br/>
@@ -443,7 +443,7 @@
         				<span>1:45 PM</span>
         				<img src="img/speakers/charlie.jpg" />
                         <h3>Gibbering at Algoraves: JS in Live Audiovisual Performances</h3>
-        				<h4>Charlie Roberts</h4>
+        				<h4>Charlie Roberts, UCLA</h4>
                         <p>
                             In electronic music, a live coding performance consists of a performer improvising a piece of music by coding it in front of an audience, while projecting their code for the audience to see. People get together and dance to these performances at events called Algoraves.<br/>
                             Gibber is a creative coding environment that I originally designed for live coding performances, and it's created entirely in JavaScript. In my talk I'll share the audiovisual capabilities of Gibber, what it's like to perform with it, and how it's used to teach kids to create electronic music. Along the way I'll show off some libraries I've created that might be useful to creative coders. And finally, I'll live code some music and visuals that you may or may not dance to.
@@ -459,7 +459,7 @@
                         <span>1:30 PM</span>
                         <img src="img/speakers/tamaspiros.jpg" />
                         <h3>Creating a geospatial MEAN application</h3>
-                        <h4>Tamas Piros <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h4>
+                        <h4>Tamas Piros, MarkLogic <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
                                 It's first come, first serve!</b>
@@ -477,7 +477,7 @@
         				<span>2:30 PM</span>
         				<img src="img/speakers/gabe.jpg" />
                         <h3>Let's make a game with Phaser</h3>
-        				<h4>Gabe Hollombe <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h4>
+        				<h4>Gabe Hollombe, Neo <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h4>
                         <p>
                             These days, we're spoiled for choice when it comes to HTML5 game frameworks. But with so many frameworks out there, it's easy to feel like you might be picking the wrong one for your next (or first) project. Each framework has their own way of doing things, and it can feel like a big commitment to spend time learning a framework before you know everything it's capable of and if you like its API enough to stick with it.
                             <br/>
@@ -495,7 +495,7 @@
         				<span>3:00 PM</span>
         				<img src="img/speakers/ritesh.jpg" />
                         <h3>Lightning branches - A way to supercharge delivery of features</h3>
-        				<h4>Ritesh Angural <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h4>
+        				<h4>Ritesh Angural, Redmart <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h4>
                         <p>
                             I will be talking about the "No talk all action" approach we take at RedMart for feature development. You'll learn how we supercharge development and get code in production fast with an opinionated and automated development workflow. Hint: It's a cocktail of Git, JS (of course), Chef, Devops & killing pointless meetings.
                         </p>
@@ -512,7 +512,7 @@
         				<span>4 PM</span>
         				<img src="img/speakers/simon.jpg" />
                         <h3>Deep Space - A simulation drama</h3>
-        				<h4>Simon Swain <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h4>
+        				<h4>Simon Swain, Modus Interactive <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h4>
                         <p>
                             Starting from bacteria and moving up the food chain, we'll look at the uncanny way simple rules can create complex results. Along the way we'll try and conquer the universe. Expect spaceships, explosions, mass extinction and some Javascript.
                         </p>
@@ -528,7 +528,7 @@
                         <img src="img/speakers/chunsiong.jpg" />
                         <img src="img/speakers/riza.jpg" />
                         <h3>Building real-time multiplayer games with SignalR and JS</h3>
-                        <h4>Riza Marhaban &amp; Chun Siong Tan <a href="https://twitter.com/tanchunsiong" target="_blank">@tanchunsiong</a></h4>
+                        <h4>Riza Marhaban &amp; Chun Siong Tan, Microsoft <a href="https://twitter.com/tanchunsiong" target="_blank">@tanchunsiong</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
                                 It's first come, first serve!</b>
@@ -546,7 +546,7 @@
         				<span>4:45 PM</span>
         				<img src="img/speakers/mikeal.jpg" />
                         <h3>Future of Node</h3>
-        				<h4>Mikeal Rogers <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h4>
+        				<h4>Mikeal Rogers, Digital Ocean <a href="https://twitter.com/mikeal" target="_blank">@mikeal</a></h4>
                         <p>
                             The node community has change tremendously as it has evolved over the last 5 years. Some of the most modern and progressive practices in open source are being tested to great success in this relatively new and dynamic community. While the core project has struggled to release and attract new contributors perhaps the future of node lies not in its central project but in the community that is continuing to grow and flourish.
                         </p>
