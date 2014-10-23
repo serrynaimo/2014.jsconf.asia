@@ -398,6 +398,12 @@ body > h1 {
 	letter-spacing: -1px;
 }
 
+@-moz-document url-prefix() {
+  #body h3 {
+    font-weight: normal;
+  }
+}
+
 
 #body .date a {
     color: #c7950a;
