@@ -105,7 +105,7 @@
                         The Amara Sanctuary's swimming pool will be hosting our competition on Thursday evening and we'll have prices
                         for the winning team.<br/>
                         A big thank you for the great people at <a href="http://spark.io" target="_blank">spark.io</a> for providing the Spark Core Maker
-                        Kits and <a href="http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/IDA-Labs" target="_blank">Singapore's IDA</a> for lending us their lab tools!
+                        Kits and <a href="http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/IDA-Labs" target="_blank">Singapore's IDA</a> for lending us hardware and their lab tools!
                     </p>
     				<p>
     					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
