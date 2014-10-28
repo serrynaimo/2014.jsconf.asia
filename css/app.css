@@ -398,6 +398,12 @@ body > h1 {
 	letter-spacing: -1px;
 }
 
+@-moz-document url-prefix() {
+  #body h3 {
+    font-weight: normal;
+  }
+}
+
 
 #body .date a {
     color: #c7950a;
@@ -758,7 +764,7 @@ body > h1 {
     }
     
     #speakers .speaker.workshop > p {
-        margin-left: 131px;
+        margin-left: 46px;
     }
 
 }
