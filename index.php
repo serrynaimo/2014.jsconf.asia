@@ -25,9 +25,9 @@
 	<meta property="og:url" content="http://jsconf.asia/"/>
 	<meta property="og:image" content="http://jsconf.asia/assets/og_jsconfasia.jpg"/>
 	<meta property="og:site_name" content="JSConf.Asia"/>
-	<meta property="og:description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta property="og:description" content="The web can do that? Asia’s most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
-	<meta name="description" content="The web can do that? Asia's most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
+	<meta name="description" content="The web can do that? Asia’s most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
 	<h1>JSConf.Asia 2014</h1>
@@ -47,7 +47,7 @@
 	</section>
 	<section id="body">
 		<section id="info">
-			<p class="desc">Asia's most influential web developer conference</div>
+			<p class="desc">Asia’s most influential web developer conference</div>
 			<p>
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
@@ -97,15 +97,15 @@
     				<h4>Chinmay Pendharkar, Sonoport <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h4>
                     <p>
                         <b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
-                            It's first come, first serve!</b>
+                            It’s first come, first serve!</b>
                         <br><br/>
-                        Throughout one entire Thursday we're going to dive into the mysteries of hardware programming with JavaScript. You'll get all the
-                        parts and tools necessary to build your own kick-ass boat with a Spark Core at its connected heart. We'll throw you in a team
+                        Throughout one entire Thursday we’re going to dive into the mysteries of hardware programming with JavaScript. You’ll get all the
+                        parts and tools necessary to build your own kick-ass boat with a Spark Core at its connected heart. We’ll throw you in a team
                         of two and your creativity and craftsmanship is key to come up with, build and program the best boat of the conference.
-                        The Amara Sanctuary's swimming pool will be hosting our competition on Thursday evening and we'll have prices
+                        The Amara Sanctuary’s swimming pool will be hosting our competition on Thursday evening and we’ll have prices
                         for the winning team.<br/>
                         A big thank you for the great people at <a href="http://spark.io" target="_blank">spark.io</a> for providing the Spark Core Maker
-                        Kits and <a href="http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/IDA-Labs" target="_blank">Singapore's IDA</a> for lending us hardware and their lab tools!
+                        Kits and <a href="http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/IDA-Labs" target="_blank">Singapore’s IDA</a> for lending us hardware and their lab tools!
                     </p>
     				<p>
     					Chinmay is a geek who works with web based audio tech. His background is in embedded systems and engineering
@@ -121,12 +121,12 @@
                     <p>
                         Once defined by its limitations, pixel art has evolved into a highly expressive visual style. Illustrators, product designers and artists continually challenge the conventional pixel art sensibility to produce beautiful work for the street, our homes and museums.
                         <br/>
-                        Working in abstraction, pixel artists manipulate a simple set of design priniciples. This talk will focus on techniques to render pixel art in a web browser using JavaScript and the DOM. We'll start by drawing characters and scenes in the traditional 8-bit style. We'll also set them in motion and create framed-based pixel art animation.
+                        Working in abstraction, pixel artists manipulate a simple set of design priniciples. This talk will focus on techniques to render pixel art in a web browser using JavaScript and the DOM. We’ll start by drawing characters and scenes in the traditional 8-bit style. We’ll also set them in motion and create framed-based pixel art animation.
                         <br/>
-                        Next, we'll focus on pixels themselves and how to transform them into autonomous agents. Using the same rendering techniques, we'll create complex systems out of simple rules. As we try to balance these systems, we'll observe interesting emergent behaviors. Finally, we'll learn how to render these systems to HD video using Node.js and Photoshop.
+                        Next, we’ll focus on pixels themselves and how to transform them into autonomous agents. Using the same rendering techniques, we’ll create complex systems out of simple rules. As we try to balance these systems, we’ll observe interesting emergent behaviors. Finally, we’ll learn how to render these systems to HD video using Node.js and Photoshop.
                     </p>
     				<p>
-    					Vince is a software engineering manager at Spotify in New York. He's been designing and programming
+    					Vince is a software engineering manager at Spotify in New York. He’s been designing and programming
     					for almost 20 years and devotes most of his spare time to FloraJS, a JavaScript framework for creating
     					natural simulations in a web browser. Listen to Vince on Spotify (search for Vince Allen or his alias,
     					DJ Monkey Pants) or find him at <a href="http://vinceallen.com" target="_blank">vinceallen.com</a>.
@@ -142,7 +142,7 @@
                     <h3>Bad Form</h3>
     				<h4>Chris Lienert, Jardine Lloyd Thompson <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h4>
                     <p>
-                        At any given time and place, if you listen carefully, you can hear the screams of frustration from people trying to fill out a form on the web. We web developers are the ones who can fix that and I'll show you how.
+                        At any given time and place, if you listen carefully, you can hear the screams of frustration from people trying to fill out a form on the web. We web developers are the ones who can fix that and I’ll show you how.
                     </p>
     				<p>
     					Chris has been doing all sorts of things to innocent web sites for 17 years and is also responsible for unleashing web
@@ -164,9 +164,9 @@
                     </p>
     				<p>
                         Wei is a full-time open source software developer, passionate about beautiful code and
-                        cryptocurrencies. She's currently leading the development effort of Hive web wallet -
+                        cryptocurrencies. She’s currently leading the development effort of Hive web wallet -
                         an elegant cryptocurrency wallet.
-                        She's also a core maintainer of bitcoinjs-lib and co-organizes SingaporeJS meetups and
+                        She’s also a core maintainer of bitcoinjs-lib and co-organizes SingaporeJS meetups and
                         local NodeSchool workshops.
     				</p>
     			</div>
@@ -234,13 +234,13 @@
                         <br/>
                         First off, the basics of Unicode are explained. Once that’s out of the way, I’ll talk a little bit about different character encodings, only to determine the character encoding that JavaScript uses internally.
                         <br/>
-                        Then we'll explore the various consequences of JavaScript exposing &quot;characters&quot; according to UCS-2/UTF-16, and I’ll explain why it can be problematic.
+                        Then we’ll explore the various consequences of JavaScript exposing &quot;characters&quot; according to UCS-2/UTF-16, and I’ll explain why it can be problematic.
                         <br/>
-                        Finally, I'll present robust ECMAScript 5-compatible workarounds to the issues encountered, and explain how ECMAScript 6 will make it easier to support full Unicode in JavaScript strings and regular expressions.
+                        Finally, I’ll present robust ECMAScript 5-compatible workarounds to the issues encountered, and explain how ECMAScript 6 will make it easier to support full Unicode in JavaScript strings and regular expressions.
                     </p>
     				<p>
     					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
-    					and security. At Opera Software he's a member of the Developer Relations team.
+    					and security. At Opera Software he’s a member of the Developer Relations team.
     				</p>
     			</div>
     			<div class="speaker">
@@ -250,10 +250,10 @@
     				<h4>Tingan Ho, P1.cn <a href="https://twitter.com/tingan87" target="_blank">@tingan87</a></h4>
                     <p>
                         Supporting a multilingual application has been a difficult for a very long time and we are now in a brink of
-                        entering a new state where we can do it more easily. Data such as CLDR and technologies such ICU's MessageFormat is
+                        entering a new state where we can do it more easily. Data such as CLDR and technologies such ICU’s MessageFormat is
                         unheard for most people. Yet they are used by global companies such as Google, IBM and Apple. These technologies
                         is now included in a project I have been working on called <a href="http://l10ns.org" target="_blank">L10ns()</a>. In addition to solving complex
-                        translation formatting with the help of ICU's MessageFormat and CLDR, L10ns also solves a very difficult workflow
+                        translation formatting with the help of ICU’s MessageFormat and CLDR, L10ns also solves a very difficult workflow
                         problem associated with translation. My session will focus on all the mayor problems in internationalizing applications
                         and help people use efficient industry best practices and solutions for producing multilingual applications.
                     </p>
@@ -269,12 +269,12 @@
                     <h3>Template specialization and app security made easy. In one talk.</h3>
     				<h4>Quhan Arunasalam &amp; Amin Mohamed Lahir, Paypal <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h4>
                     <p>
-                        Let's say you've built a brand spanking new Node app. The Internets smile upon you and it becomes super popular! Suddenly
+                        Let’s say you’ve built a brand spanking new Node app. The Internets smile upon you and it becomes super popular! Suddenly
                         people all around the world want to use it too. And naturally, some of them might want to abuse it for nefarious reasons
-                        (think stolen private data and leaked selfies). Now you're thinking to yourself:<br/><br/>
+                        (think stolen private data and leaked selfies). Now you’re thinking to yourself:<br/><br/>
                         1) How can I add in template specialization to reach a global audience, and<br/>
                         2) How can I make my app more secure with approximately 6 lines of code?<br/><br>
-                        With a sample Express app and some help from PayPal's open-sourced KrakenJS suite, we'll show you how!
+                        With a sample Express app and some help from PayPal’s open-sourced KrakenJS suite, we’ll show you how!
                     </p>
     				<p>
                         Quhan, affectionately known as Q (insert Bond and Trekkie reference here), spends
@@ -283,7 +283,7 @@
                         by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
                         <br/><br/>
     					Aminurrashid is an application developer at PayPal. When not working on Node-based KrakenJS projects,
-    					he's out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
+    					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
     				</p>
     			</div>
 
@@ -309,12 +309,12 @@
                         <h3>WebTorrent</h3>
         				<h4>Feross Aboukhadijeh <a href="https://twitter.com/feross" target="_blank">@feross</a></h4>
                         <p>
-                            This talk will look at WebTorrent, a BitTorrent client for the browser that fully-interoperates with the regular BitTorrent network. WebTorrent uses WebRTC Data Channels and special "hybrid clients" to connect to the wider BitTorrent network. It's insane to try this.
+                            This talk will look at WebTorrent, a BitTorrent client for the browser that fully-interoperates with the regular BitTorrent network. WebTorrent uses WebRTC Data Channels and special "hybrid clients" to connect to the wider BitTorrent network. It’s insane to try this.
                         </p>
         				<p>
         					Feross is currently building WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC.
         					Before that, he built PeerCDN, a peer-to-peer content delivery network to makes sites faster and cheaper.<br/>
-        					He's a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
+        					He’s a graduate of Stanford and has worked at Quora, Facebook, and Intel and loves "mad science" projects!
         				</p>
         			</div>
                     <div class="speaker workshop">
@@ -324,12 +324,12 @@
                         <h4>Tim Oxley, NodeSource <a href="https://twitter.com/secoif" target="_blank">@secoif</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
-                                It's first come, first serve!</b>
+                                It’s first come, first serve!</b>
                             <br><br/>
                             NodeSchool is an international phenomenon of volunteer educators bringing essential Node.JS &amp; JavaScript skills.
                             <br/>
                             NodeSchool is made from a number of interactive lessons written by various individuals on topics ranging from Core Node
-                            to WebGL. This will be the third such event held in Singapore, and we'll be covering the introductory workshops:
+                            to WebGL. This will be the third such event held in Singapore, and we’ll be covering the introductory workshops:
                             "learn you node" and "functional javascript workshop" - the quickest way to get a taste for real-world node programming.
                             In addition, for those who have already completed these challenges we will cover "count to six" and "Kick off Koa" which teach some of the interesting aspects of next generation JavaScript programming in ES6.
                             <br/>
@@ -346,12 +346,12 @@
         			<div class="speaker">
         				<span>9:45 AM</span>
         				<img src="img/speakers/peggy.jpg" />
-                        <h3>There and Back Again - A Game Dev's Tale</h3>
+                        <h3>There and Back Again - A Game Dev’s Tale</h3>
         				<h4>Peggy Kuo, Atlassian <a href="https://twitter.com/pyko" target="_blank">@pyko</a></h4>
                         <p>
-                            There are two main challenges in creating a game: starting, and finishing. With the plethora of tools at our disposal, it's quite easy to embark on our pet projects. But sooner or later, we come across problems. Scope creep, unknown unknowns, fragile code and just life in general. It's at this point that many games falter by the wayside and are eventually shelved.
+                            There are two main challenges in creating a game: starting, and finishing. With the plethora of tools at our disposal, it’s quite easy to embark on our pet projects. But sooner or later, we come across problems. Scope creep, unknown unknowns, fragile code and just life in general. It’s at this point that many games falter by the wayside and are eventually shelved.
                             <br/>
-                            In this talk, I'll take you through my journey of creating my game Trichroma, and share both the technical and non-technical lessons I learned along the way that enabled me to pull it over the finish line and bring it home.
+                            In this talk, I’ll take you through my journey of creating my game Trichroma, and share both the technical and non-technical lessons I learned along the way that enabled me to pull it over the finish line and bring it home.
                         </p>
         				<p>
         					Peggy is a full stack developer at Atlassian who loves creating things.
@@ -376,12 +376,12 @@
                             You can build an operating system.<br/>
                             You can even build a kernel!<br/>
                             <br/>
-                            Let's explore how.
+                            Let’s explore how.
                         </p>
         				<p>
-        					Jacob is a senior engineer on New Relic's product research team. Originally from Vancouver,
+        					Jacob is a senior engineer on New Relic’s product research team. Originally from Vancouver,
         					but living in the bay area, Jacob is a polite, but strongly opinionated people lover who asks tough questions,
-        					loves to learn, hack, or discuss wild ideas with friends. He's the original author of the node-os project
+        					loves to learn, hack, or discuss wild ideas with friends. He’s the original author of the node-os project
         					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
         				</p>
         			</div>
@@ -392,7 +392,7 @@
                         <h4>Chris Frederick, GitHub <a href="https://twitter.com/kansaichris" target="_blank">@kansaichris</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
-                                It's first come, first serve!</b>
+                                It’s first come, first serve!</b>
                             <br><br/>
                             You know that version control systems are important. You probably use one every day! But are you using it as effectively as you can?
                             <br/>
@@ -430,7 +430,7 @@
                         </p>
         				<p>
                             Slava is a core developer at the open-source full-stack JS framework Meteor.
-                            His work includes Meteor's real-time data updates from databases, client-side caches, packaging
+                            His work includes Meteor’s real-time data updates from databases, client-side caches, packaging
                             system, Phonegap support and other exciting things. In his free time Slava
                             constantly tries to educate himself on different fascinating topics of Computer Science.
         				</p>
@@ -446,7 +446,7 @@
         				<h4>Charlie Roberts, UCLA</h4>
                         <p>
                             In electronic music, a live coding performance consists of a performer improvising a piece of music by coding it in front of an audience, while projecting their code for the audience to see. People get together and dance to these performances at events called Algoraves.<br/>
-                            Gibber is a creative coding environment that I originally designed for live coding performances, and it's created entirely in JavaScript. In my talk I'll share the audiovisual capabilities of Gibber, what it's like to perform with it, and how it's used to teach kids to create electronic music. Along the way I'll show off some libraries I've created that might be useful to creative coders. And finally, I'll live code some music and visuals that you may or may not dance to.
+                            Gibber is a creative coding environment that I originally designed for live coding performances, and it’s created entirely in JavaScript. In my talk I’ll share the audiovisual capabilities of Gibber, what it’s like to perform with it, and how it’s used to teach kids to create electronic music. Along the way I’ll show off some libraries I’ve created that might be useful to creative coders. And finally, I’ll live code some music and visuals that you may or may not dance to.
                         </p>
         				<p>
         					Charlie is a Postdoctoral Fellow in the AlloSphere Research Group at the California NanoSystems Institute,
@@ -462,7 +462,7 @@
                         <h4>Tamas Piros, MarkLogic <a href="https://twitter.com/tpiros" target="_blank">@tpiros</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
-                                It's first come, first serve!</b>
+                                It’s first come, first serve!</b>
                             <br><br/>
                             Heard about the MEAN stack? In this workshop you’ll get a practical example on building out a GeoSpatial application using this technology stack. We will extract GPS data out from JPEG and store those as documents in a NoSQL data
                             storage. We will write a RESTful backend using node.js and server that to a frontend created using ExpressJS and AngularJS.
@@ -476,18 +476,18 @@
                     <div class="speaker">
         				<span>2:30 PM</span>
         				<img src="img/speakers/gabe.jpg" />
-                        <h3>Let's make a game with Phaser</h3>
+                        <h3>Let’s make a game with Phaser</h3>
         				<h4>Gabe Hollombe, Neo <a href="https://twitter.com/gabehollombe" target="_blank">@gabehollombe</a></h4>
                         <p>
-                            These days, we're spoiled for choice when it comes to HTML5 game frameworks. But with so many frameworks out there, it's easy to feel like you might be picking the wrong one for your next (or first) project. Each framework has their own way of doing things, and it can feel like a big commitment to spend time learning a framework before you know everything it's capable of and if you like its API enough to stick with it.
+                            These days, we’re spoiled for choice when it comes to HTML5 game frameworks. But with so many frameworks out there, it’s easy to feel like you might be picking the wrong one for your next (or first) project. Each framework has their own way of doing things, and it can feel like a big commitment to spend time learning a framework before you know everything it’s capable of and if you like its API enough to stick with it.
                             <br/>
-                            I've used many of the popular HTML5 frameworks over the last few years, and Phaser is my favorite. It's got everything you're likely to need (sprites, tilemaps, sound, animation, canvas/webgl, mobile support), a very active community and an extensive suite of online examples (over 320 playable demos).
+                            I’ve used many of the popular HTML5 frameworks over the last few years, and Phaser is my favorite. It’s got everything you’re likely to need (sprites, tilemaps, sound, animation, canvas/webgl, mobile support), a very active community and an extensive suite of online examples (over 320 playable demos).
                             <br/>
-                            A conference talk isn't enough time to show off everything, but I'll give you a tour of Phaser's features that you're most likely to care about. I'll give you enough familiarity that you'll feel comfortable getting started with Phaser, and excited by the possibilities.
+                            A conference talk isn’t enough time to show off everything, but I’ll give you a tour of Phaser’s features that you’re most likely to care about. I’ll give you enough familiarity that you’ll feel comfortable getting started with Phaser, and excited by the possibilities.
                         </p>
         				<p>
         					Gabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for
-        					sharing what he's learned. He has spoken in on four different continents on topics including JavaScript,
+        					sharing what he’s learned. He has spoken in on four different continents on topics including JavaScript,
         					Ruby, Vim, and HTML5 Game development.
         				</p>
         			</div>
@@ -497,7 +497,7 @@
                         <h3>Lightning branches - A way to supercharge delivery of features</h3>
         				<h4>Ritesh Angural, Redmart <a href="https://twitter.com/ringular" target="_blank">@ringular</a></h4>
                         <p>
-                            I will be talking about the "No talk all action" approach we take at RedMart for feature development. You'll learn how we supercharge development and get code in production fast with an opinionated and automated development workflow. Hint: It's a cocktail of Git, JS (of course), Chef, Devops & killing pointless meetings.
+                            I will be talking about the "No talk all action" approach we take at RedMart for feature development. You’ll learn how we supercharge development and get code in production fast with an opinionated and automated development workflow. Hint: It’s a cocktail of Git, JS (of course), Chef, Devops & killing pointless meetings.
                         </p>
         				<p>
         					Ritesh is an Engineer working on the next generation Ecommerce platform at RedMart, currently working on the frontend and continuous delivery.
@@ -514,12 +514,12 @@
                         <h3>Deep Space - A simulation drama</h3>
         				<h4>Simon Swain, Modus Interactive <a href="https://twitter.com/simon_swain" target="_blank">@simon_swain</a></h4>
                         <p>
-                            Starting from bacteria and moving up the food chain, we'll look at the uncanny way simple rules can create complex results. Along the way we'll try and conquer the universe. Expect spaceships, explosions, mass extinction and some Javascript.
+                            Starting from bacteria and moving up the food chain, we’ll look at the uncanny way simple rules can create complex results. Along the way we’ll try and conquer the universe. Expect spaceships, explosions, mass extinction and some Javascript.
                         </p>
         				<p>
         					Simon has been building the web since way back, seeing it evolve from obscure novelty to mainstream dominance.
         					 Currently he is designing and building realtime cloud solutions for connected devices. Simon created the
-        					 Straw library and is a regular presenter at SydJS. On the side, he's still trying to work out how to do
+        					 Straw library and is a regular presenter at SydJS. On the side, he’s still trying to work out how to do
         					 Wing Chun properly.
         				</p>
         			</div>
@@ -531,7 +531,7 @@
                         <h4>Riza Marhaban &amp; Chun Siong Tan, Microsoft <a href="https://twitter.com/tanchunsiong" target="_blank">@tanchunsiong</a></h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
-                                It's first come, first serve!</b>
+                                It’s first come, first serve!</b>
                             <br><br/>
                             SignalR is a library for the .NET Web Server Stack. In this workshop, we would be looking at building/architecting a massive scalable game with JS front and SignalR + Cloud backend.
                         </p>
@@ -572,7 +572,7 @@
 			<p align="center">JSConf.Asia, 20 + 21 Nov 2014 in Singapore<br/><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sanctuary, Sentosa</a></p>
 			<h3>The web can do THAT?</h3>
 			<p>
-			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to's are gonna be accompanied by hands-on workshops and our code-café.
+			JSConf has in the past been showcasing the potential of the web more than any other event and this year will be no different. Loads of demos, wows and how-to’s are gonna be accompanied by hands-on workshops and our code-café.
 			</p>
 			<h3>The rest is just the ordinary...</h3>
 			<p>
@@ -580,11 +580,11 @@
 			</p>
 			<p>
 			<a href="http://www.jimmymonkey.com/" target="_blank" style="border-radius: 90px; width: 170px; height: 140px; padding: 15px 0; background: #fff; text-align: center; float: right; margin: -5px -25px 0 15px;"><img src="img/jimmy.png" height="128" /></a>
-			Oh, about the code-café: Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore's best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They'll be at your service both days full-time!
+			Oh, about the code-café: Yes, Jimmy Monkey is back! They upgraded their gear and invited some of Singapore’s best baristas over to deliver you competitive shot pulling and latte art. Pro-tip: Come to the venue early to skip some of the morning queue. They’ll be at your service both days full-time!
 			</p>
-			<h3>It's for you!</h3>
+			<h3>It’s for you!</h3>
 			<p>
-			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia's best web developers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that brings Southeast-Asia’s best web developers together in an playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -605,7 +605,9 @@
 					<a href="http://www.pocketmath.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 5px;"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 				</p>
 				<p>
-					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
+					PocketMath makes it easy to buy media, real time, across mobile website, apps and games. We’re found in Singapore and San Francisco, with a presence in Australia and India! Check us out at <a href="http://www.pocketmath.com" target="_blank">www.pocketmath.com</a>
+                    <br/><br/>
+                    PocketMath brings the world’s mobile inventory to your fingertips.
 				</p>
 			</div>
             <div>
@@ -614,7 +616,7 @@
 					<a href="http://www.nonstop-games.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 12px 0;"><img src="img/sponsors/nsg_king.png"  height="50" /></a>
 				</p>
 				<p>
-					Nonstop Games, a King Studio, is Singapore's coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They're going to treat our attendees with a little surprise on Thursday evening...
+					Nonstop Games, a King Studio, is Singapore’s coolest social mobile gaming company and the creater of the tablet hit &quot;Heroes of Honor&quot;. They’re going to treat our attendees with a little surprise on Thursday evening...
 				</p>
 				<p>
 					<br/><a href="http://www.palantir.com" target="_blank" style="background: #fff; display: inline-block; padding: 11px 11px 5px;"><img src="img/sponsors/palantir.png"  height="36" /></a>
@@ -660,7 +662,7 @@
 				</p>
 				<p>
 					<br/>
-					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=JSConf Sponsorship">write us a mail</a>!
+					If you’re interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=JSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
@@ -674,7 +676,7 @@
 				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
 			</p>
 			<p>
-				JSConf.Asia 2014 Singapore is part of Asia's<br/> first community organized web developer festival.<br/><br/>
+				JSConf.Asia 2014 Singapore is part of Asia’s<br/> first community organized web developer festival.<br/><br/>
 				<a href="http://jsconf.com">JSConf around the world</a><br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
 				 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
