@@ -551,8 +551,10 @@ body > h1 {
     color: #fff;
     font-size: .9em;
     padding: 15px;
-    margin-bottom: -8px;
+    margin: 0 auto -8px;
     width: 160px;
+    position: relative;
+    left: -165px;
     text-align: center;
 }
 
@@ -593,7 +595,7 @@ body > h1 {
     left: -6px;
     text-transform: uppercase;
     color: #9AE0FF;
-    
+
 }
 
 #speakers .speaker:before {
@@ -750,19 +752,20 @@ body > h1 {
         top: 40px;
         left: -424px;
     }
-    
+
     #speakers .day > h4 {
-        margin-bottom: -5px;
+        margin: 0 0 -5px 0;
+        left: auto;
     }
-    
+
     #speakers .speaker.workshop > span:not(.img) {
         margin-right: 14px;
     }
-    
+
     #speakers .speaker.workshop > h4 {
         margin-left: 161px;
     }
-    
+
     #speakers .speaker.workshop > p {
         margin-left: 46px;
     }
