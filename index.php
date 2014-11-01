@@ -72,7 +72,7 @@
                 <div class="speaker break">
     				<span>9 AM</span>
                     <h3>Oh, hai!</h3>
-                    <h4>Thomas Gorissen <a href="https://twitter.com/serrynaimo" target="_blank">@serrynaimo</a></h4>
+                    <h4>Sayanee Basu <a href="https://twitter.com/sayanee_" target="_blank">@sayanee_</a></h4>
     			</div>
     			<div class="speaker">
     				<span>9:15 AM</span>
