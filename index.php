@@ -642,6 +642,9 @@
 				<p>
 					<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 14px 0;"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
 				</p>
+                <p>
+                    <a href="https://temasys.github.io" target="_blank" style="background: #fff; display: inline-block; padding: 2px 7px 1px 10px;"><img src="img/sponsors/temasys.png"  height="54" /></a>
+                </p>
 				<p>
 					<a href="http://www.meteor.com" target="_blank" style="background: #fff; display: inline-block; padding: 5px 9px;" class="meteor"><img src="img/sponsors/meteor.png" style="margin: 0 6px 3px 6px" height="40" /></a>
 				</p>
