@@ -637,7 +637,7 @@
 			<div class="supporter">
 				<h3>The Supporters</h3>
 				<p>
-					<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 0 4px;"><img src="img/sponsors/redmart.svg" height="40" /></a>
+					<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 0 4px; width: 177px;"><img src="img/sponsors/redmart.svg" height="40" /></a>
 				</p>
 				<p>
 					<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 3px 0;"><img src="img/sponsors/github.png"  height="50" /></a>
