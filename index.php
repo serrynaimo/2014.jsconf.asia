@@ -155,7 +155,7 @@
     				<span>11:45 AM</span>
     				<img src="img/speakers/weilu.jpg" />
                     <h3>HTTP Headers – the simplest security</h3>
-    				<h4>Wei Lu, Neo <a href="https://twitter.com/luweidewei" target="_blank">@luweidewei</a></h4>
+    				<h4>Wei Lu<a href="https://twitter.com/luweidewei" target="_blank">@luweidewei</a></h4>
                     <p>
                         Not sure what Content-Security-Policy and Strict-Transport-Security are about? Your web apps are at risk! Security is crucial but can be hard
                         to get right. Luckily for web developers, the HTTP protocol comes with well-thought-out security specifications. Modern browsers implementing
