@@ -264,26 +264,22 @@
     			</div>
     			<div class="speaker">
     				<span>5:15 PM</span>
-                    <img src="img/speakers/quhan.jpg" />
-    				<img src="img/speakers/amin.jpg" />
-                    <h3>Template specialization and app security made easy. In one talk.</h3>
-    				<h4>Quhan Arunasalam &amp; Amin Mohamed Lahir, Paypal <a href="https://twitter.com/qquhan" target="_blank">@qquhan</a></h4>
+                    <img src="img/speakers/dexter.jpg" />
+    				<img src="img/speakers/laurence.jpg" />
+                    <h3>How to use NodeJS properly for your web app</h3>
+    				<h4>Dexter Tan &amp; Laurence Franslay, PayPal</h4>
                     <p>
                         Let’s say you’ve built a brand spanking new Node app. The Internets smile upon you and it becomes super popular! Suddenly
                         people all around the world want to use it too. And naturally, some of them might want to abuse it for nefarious reasons
-                        (think stolen private data and leaked selfies). Now you’re thinking to yourself:<br/><br/>
-                        1) How can I add in template specialization to reach a global audience, and<br/>
-                        2) How can I make my app more secure with approximately 6 lines of code?<br/><br>
+                        (think stolen private data and leaked selfies). Now you’re thinking to yourself: How do I solve these problems?<br/>
                         With a sample Express app and some help from PayPal’s open-sourced KrakenJS suite, we’ll show you how!
                     </p>
     				<p>
-                        Quhan, affectionately known as Q (insert Bond and Trekkie reference here), spends
-                        countless waking hours developing applications at PayPal. Apart from churning out
-                        code faster than you can say &quot;release the KrakenJS&quot;, he’s also taken the PayPal world
-                        by storm with his in-house talks about the mystic arts of file upload and mobile HTML5.
+                        Dexter is an application developer at PayPal. When not working on Node-based KrakenJS projects, he’s out rock
+                        climbing, diving and building reusable UI components and widgets, often at the same time.
                         <br/><br/>
-    					Aminurrashid is an application developer at PayPal. When not working on Node-based KrakenJS projects,
-    					he’s out rollerblading, playing football, and building reusable UI components and widgets, often at the same time.
+    					Laurence is a PayPal engineer on the SWAT team, and enjoys moving up and down the stack. His core interests lies in
+                        security and distributed systems, and enjoys looking at performance data to make things faster.
     				</p>
     			</div>
 
