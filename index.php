@@ -134,7 +134,7 @@
     			</div>
     			<div class="speaker break">
         			<span>10:30 AM</span>
-    			    <h3>Get some coffee</h3>
+    			    <h3>No script, all coffee</h3>
     			</div>
     			<div class="speaker">
     				<span>11 AM</span>
@@ -222,7 +222,7 @@
     			</div>
     			<div class="speaker break">
         			<span>3:15 PM</span>
-    			    <h3>Tea Time</h3>
+    			    <h3>Tea Timeout</h3>
     			</div>
     			<div class="speaker">
     				<span>3:45 PM</span>
