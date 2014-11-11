@@ -137,7 +137,7 @@
     			    <h3>No script, all coffee</h3>
     			</div>
     			<div class="speaker">
-    				<span>11 AM</span>
+    				<span>11:15 AM</span>
     				<img src="img/speakers/chris.jpg" />
                     <h3>Bad Form</h3>
     				<h4>Chris Lienert, Jardine Lloyd Thompson <a href="https://twitter.com/cliener" target="_blank">@cliener</a></h4>
@@ -152,7 +152,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>11:45 AM</span>
+    				<span>12 PM</span>
     				<img src="img/speakers/weilu.jpg" />
                     <h3>HTTP Headers – the simplest security</h3>
     				<h4>Wei Lu<a href="https://twitter.com/luweidewei" target="_blank">@luweidewei</a></h4>
@@ -171,11 +171,11 @@
     				</p>
     			</div>
     			<div class="speaker break">
-        			<span>12:30 PM</span>
+        			<span>12:45 PM</span>
     			    <h3>Lunch delicousness</h3>
     			</div>
     			<div class="speaker">
-    				<span>1:15 PM</span>
+    				<span>1:45 PM</span>
     				<img src="img/speakers/jan.jpg" />
                     <h3>Fun with JavaScript and sensors</h3>
     				<h4>Jan Jongboom, Telenor <a href="https://twitter.com/janjongboom" target="_blank">@janjongboom</a></h4>
@@ -190,7 +190,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>2 PM</span>
+    				<span>2:30 PM</span>
     				<img src="img/speakers/martin.jpg" />
                     <h3>The Art of Less</h3>
     				<h4>Martin Kleppe, Ubilabs <a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></h4>
@@ -205,7 +205,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>2:45 PM</span>
+    				<span>3:15 PM</span>
     				<img src="img/speakers/soares.jpg" />
                     <h3>Quiver.js: Rethinking Web Frameworks</h3>
     				<h4>Soares Chen <a href="https://twitter.com/soareschen" target="_blank">@soareschen</a></h4>
@@ -221,27 +221,8 @@
     				</p>
     			</div>
     			<div class="speaker break">
-        			<span>3:15 PM</span>
+        			<span>3:45 PM</span>
     			    <h3>Tea Timeout</h3>
-    			</div>
-    			<div class="speaker">
-    				<span>3:45 PM</span>
-    				<img src="img/speakers/mathias.jpg" />
-                    <h3>JavaScript ♥ Unicode</h3>
-    				<h4>Mathias Bynens, Opera <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h4>
-                    <p>
-                        This presentation explains the various ways in which JavaScript relies on Unicode, what the consequences are for JavaScript developers, and how ECMAScript 6 will make our lives a bit easier in this regard.
-                        <br/>
-                        First off, the basics of Unicode are explained. Once that’s out of the way, I’ll talk a little bit about different character encodings, only to determine the character encoding that JavaScript uses internally.
-                        <br/>
-                        Then we’ll explore the various consequences of JavaScript exposing &quot;characters&quot; according to UCS-2/UTF-16, and I’ll explain why it can be problematic.
-                        <br/>
-                        Finally, I’ll present robust ECMAScript 5-compatible workarounds to the issues encountered, and explain how ECMAScript 6 will make it easier to support full Unicode in JavaScript strings and regular expressions.
-                    </p>
-    				<p>
-    					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
-    					and security. At Opera Software he’s a member of the Developer Relations team.
-    				</p>
     			</div>
     			<div class="speaker">
     				<span>4:30 PM</span>
