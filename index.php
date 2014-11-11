@@ -266,7 +266,7 @@
     				<span>5:15 PM</span>
                     <img src="img/speakers/dexter.jpg" />
     				<img src="img/speakers/laurence.jpg" />
-                    <h3>How to use NodeJS properly for your web app</h3>
+                    <h3>Preparing your NodeJS Application for scale</h3>
     				<h4>Dexter Tan &amp; Laurence Franslay, PayPal</h4>
                     <p>
                         Let’s say you’ve built a brand spanking new Node app. The Internets smile upon you and it becomes super popular! Suddenly
