@@ -53,8 +53,8 @@
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get your ticket
-				<span>2 days - S$480</span>
+				Last tickets on sale!
+				<span>2 days - S$550</span>
 			</a>
 		</section>
 		<span id="schedule"></span>
@@ -540,8 +540,8 @@
 			</div>
 			<p></p>
             <a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get your ticket
-				<span>2 days - S$480</span>
+				Last tickets on sale!
+				<span>2 days - S$550</span>
 			</a>
 		</section>
 		<section id="about">
@@ -646,8 +646,8 @@
 				</p>
 			</div>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get your ticket
-				<span>2 days - S$480</span>
+				Last tickets on sale!
+				<span>2 days - S$550</span>
 			</a>
 			<br/>
 		</section>
