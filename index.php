@@ -61,7 +61,7 @@
 		<section id="speakers" class="thursday">
 			<h2>Schedule</h2>
 			<p>
-				20 talks, 2 parties and 5 workshops including our NodeBoats hardware workshop with Spark.io and iDA wait for you this year, hosted by these amazing people.
+				20 speakers, 2 parties and 5 workshops including our NodeBoats hardware workshop with Spark.io and iDA wait for you this year, hosted by these amazing people.
 			</p>
 			<div class="day thursday">
 			    <h4>Thursday 20th</h4>
