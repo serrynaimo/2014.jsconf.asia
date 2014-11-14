@@ -343,23 +343,21 @@
         			</div>
         			<div class="speaker">
         				<span>11 AM</span>
-        				<img src="img/speakers/jacob.jpg" />
-                        <h3>Extra Full Stack JS: a node-os talk</h3>
-        				<h4>Jacob Groundwater, New Relic <a href="https://twitter.com/0x604" target="_blank">@0x604</a></h4>
+        				<img src="img/speakers/max.jpg" />
+                        <h3>Versioning, syncing &amp; streaming large datasets using Dat + Node</h3>
+        				<h4>Max Ogden <a href="https://twitter.com/maxogden" target="_blank">@maxogden</a></h4>
                         <p>
-                            Building an operating system should be as easy as building an express app. JavaScript alone is not enough, but when combined with node and npm something amazing happens. Together these three form one of the most flexible and powerful programming platforms that exists today.
-                            <br/><br/>
-                            You can build a server.<br/>
-                            You can build an operating system.<br/>
-                            You can even build a kernel!<br/>
+                           <a href="http://dat-data.com/" target="_blank">Dat</a> is an open source tool, funded by the Sloan Foundation in the US as part of their Science Tools research funding, that seeks to enable collaboration workflows on top of datasets of any size. The high level goal of the Dat project is to make it easier to work with large scientific datasets in an automated way, which both saves time and also makes reproducibility easier.
+                           The core dat tool is a streaming dataset versioning + replication system developed with a heavy Unix philospohy designed to encourage extreme modularity and enable many third party applications to be built on top.
                             <br/>
-                            Let’s explore how.
+                            In addition to the core tool we are also developing tools for building and distributing streaming, cross platform data pipelines based on Node.js and Docker.
+                            <br/>
+                            This talk will introduce Dat, talk about how we used Node to build it, and show examples of how to use Node and LevelDB to work with very large datasets.
                         </p>
         				<p>
-        					Jacob is a senior engineer on New Relic’s product research team. Originally from Vancouver,
-        					but living in the bay area, Jacob is a polite, but strongly opinionated people lover who asks tough questions,
-        					loves to learn, hack, or discuss wild ideas with friends. He’s the original author of the node-os project
-        					and is also actively working on runtimejs, an operating system kernel built on the V8 JavaScript engine.
+        					Max Ogden is a open source software developer who works full time on the Dat project at the United States Open Data Insitute.
+                            He previously worked at Code for America, a US based not-for-profit dedicated to improving technology in cities.
+                            In his spare time Max organizes the NodeSchool community, CSVConf, TacoConf and likes to travel to countries with Cat Cafes.
         				</p>
         			</div>
                     <div class="speaker workshop">
