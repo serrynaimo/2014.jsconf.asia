@@ -364,9 +364,9 @@
         			</div>
                     <div class="speaker workshop">
                         <span>11 AM</span>
-                        <img src="img/speakers/chris-frederick.jpg" />
+                        <img src="img/speakers/donal.jpg" />
                         <h3>Intermediate Git and GitHub workshop</h3>
-                        <h4>Chris Frederick, GitHub <a href="https://twitter.com/kansaichris" target="_blank">@kansaichris</a></h4>
+                        <h4>Donal Ellis, GitHub</h4>
                         <p>
                         	<b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
                                 It’s first come, first serve!</b>
@@ -376,9 +376,8 @@
                             In this workshop, you will learn essential techniques for collaborating with Git and GitHub. These cover working locally—interacting with branches, diffs, stashes, commit history, the staging area, and the reflog—as well as distributed workflow patterns—using forks and pull requests. Come to refresh your Git knowledge or learn about any of these topics for the first time!
                         </p>
                         <p>
-                            Chris lives and breathes software documentation. He used to work in the games industry translating
-                            Japanese SDK materials into English, but more recently he has been writing Help articles for GitHub.
-                            When he’s not busy reading or writing, Chris loves to share stories over a good espresso!
+                            Donal is passionate about sharing knowledge. He spent many years in education, first as a computer science lecturer then as a software engineer, followed by a short detour into the world of startups.
+                            Now he is an enterprise support engineer for GitHub where he continues his passion of helping people build software better, together.
                         </p>
                     </div>
         			<div class="speaker">
