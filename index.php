@@ -96,8 +96,7 @@
                     <h3>NodeBoats Builder with spark.io and IDA</h3>
     				<h4>Chinmay Pendharkar, Sonoport <a href="https://twitter.com/ntt" target="_blank">@ntt</a></h4>
                     <p>
-                        <b>Up to 24 attendees will be able to sign-up for this workshop online short before the event. Watch your inbox!
-                            It’s first come, first serve!</b>
+                        <b>Up to 24 attendees will be able to apply for this workshop online short before the event. Watch your inbox for the link!</b>
                         <br><br/>
                         Throughout one entire Thursday we’re going to dive into the mysteries of hardware programming with JavaScript. You’ll get all the
                         parts and tools necessary to build your own kick-ass boat with a Spark Core at its connected heart. We’ll throw you in a team
