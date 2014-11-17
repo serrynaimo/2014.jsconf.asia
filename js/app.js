@@ -31,6 +31,14 @@ $(document).ready(function () {
 	setTimeout(function () {
         $("#intro .microsoft").addClass("play");
 	}, 4200);
+	
+	setTimeout(function () {
+        $("body").addClass("bar");
+	}, 10000);
+	
+	setTimeout(function () {
+        location.reload();
+	}, 40000);
 
 });
 

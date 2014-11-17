@@ -30,38 +30,6 @@
 	<meta name="description" content="The web can do that? Asia’s most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
-	<section id="sponsors">
-		<p>
-			<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 0 4px; width: 177px;"><img src="img/sponsors/redmart.svg" height="40" /></a>
-		</p>
-		<p>
-			<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 3px 0;"><img src="img/sponsors/github.png"  height="47" /></a>
-		</p>
-        <p>
-            <a href="https://temasys.github.io" target="_blank" style="background: #fff; display: inline-block; padding: 0 7px 0 10px;"><img src="img/sponsors/temasys.png"  height="51" /></a>
-        </p>
-		<p>
-			<a href="http://www.meteor.com" target="_blank" style="background: #fff; display: inline-block; padding: 3px 9px;" class="meteor"><img src="img/sponsors/meteor.png" style="margin: 0 6px 5px 6px" height="40" /></a>
-		</p>
-		<p>
-			<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 8px 12px 3px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
-		</p>
-        <p>
-            <a href="https://www.mozilla.com" target="_blank" style="background: #fff; display: inline-block; padding: 6px 8px 3px;"><img src="img/sponsors/mozilla.png"  height="42" /></a>
-        </p>
-		<p>
-			<a href="https://www.paypal.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 13px 5px;"><img src="img/sponsors/paypal.png"  height="40" /></a>
-		</p>
-		<p>
-			<a href="http://www.zopim.com" target="_blank" style="background: #fff; display: inline-block; padding: 3px 8px 0px;"><img src="img/sponsors/zopim.png" height="49" /></a>
-		</p>
-		<p>
-			<a href="http://www.dot.asia/" target="_blank" style="background: #fff; display: inline-block; padding: 7px 10px 1px;"><img src="img/sponsors/asia.png" height="44" /></a>
-		</p>
-		<p>
-			<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 12px 3px;"><img src="img/sponsors/piktochart.png" height="42" /></a>
-		</p>
-	</section>
 	<section id="intro">
 	<div>
 		<div class="date"><span>20 + 21 Nov 2014</span></div>
@@ -96,12 +64,40 @@
 		  <path id="s" fill="#ffffff" d="m 375,520.13 48.20625,-27.91125 c 12.69,20.72375 29.1825,35.9475 58.36125,35.9475 24.53125,0 40.17375,-12.26475 40.17375,-29.18125 0,-20.29875 -16.06875,-27.48875 -43.135,-39.32625 l -14.7975,-6.3475 c -42.715,-18.18125 -71.05,-41.0175 -71.05,-89.2275 0,-44.40375 33.83125,-78.2375 86.695,-78.2375 37.6375,0 64.7025,13.11125 84.15375,47.36625 l -46.09625,29.60125 c -10.15,-18.1825 -21.1425,-25.37125 -38.0575,-25.37125 -17.33875,0 -28.335,10.995 -28.335,25.37125 0,17.7625 10.99625,24.9525 36.3675,35.94875 l 14.8,6.3425 c 50.325,21.56875 78.66,43.5575 78.66,93.03375 0,53.2875 -41.86625,82.465 -98.11,82.465 -54.97625,0 -90.5,-26.2175 -107.83625,-60.47375" />
 		</g>
 		</svg></a></div>
-		<a href="#schedule">Schedule</a> &nbsp; &nbsp;
-		<a href="#about">About</a> &nbsp; &nbsp;
-		<a href="#sponsors">Sponsors</a> &nbsp; &nbsp;
-		<a href="http://facebook.com/jsconfasia">Updates</a> &nbsp; &nbsp;
-		<a href="https://eventnook.com/event/register/22634" target="_blank" class="buy">Get Tickets</a>
+    	<section id="sponsors">
+    		<p>
+    			<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 0 4px; width: 177px;"><img src="img/sponsors/redmart.svg" height="40" /></a>
+    		</p>
+    		<p>
+    			<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 3px 0;"><img src="img/sponsors/github.png"  height="47" /></a>
+    		</p>
+            <p>
+                <a href="https://temasys.github.io" target="_blank" style="background: #fff; display: inline-block; padding: 0 7px 0 10px;"><img src="img/sponsors/temasys.png"  height="51" /></a>
+            </p>
+    		<p>
+    			<a href="http://www.meteor.com" target="_blank" style="background: #fff; display: inline-block; padding: 3px 9px;" class="meteor"><img src="img/sponsors/meteor.png" style="margin: 0 6px 5px 6px" height="40" /></a>
+    		</p>
+    		<p>
+    			<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 8px 12px 3px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
+    		</p>
+            <p>
+                <a href="https://www.mozilla.com" target="_blank" style="background: #fff; display: inline-block; padding: 6px 8px 3px;"><img src="img/sponsors/mozilla.png"  height="42" /></a>
+            </p>
+    		<p>
+    			<a href="https://www.paypal.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 13px 5px;"><img src="img/sponsors/paypal.png"  height="40" /></a>
+    		</p>
+    		<p>
+    			<a href="http://www.zopim.com" target="_blank" style="background: #fff; display: inline-block; padding: 3px 8px 0px;"><img src="img/sponsors/zopim.png" height="49" /></a>
+    		</p>
+    		<p>
+    			<a href="http://www.dot.asia/" target="_blank" style="background: #fff; display: inline-block; padding: 7px 10px 1px;"><img src="img/sponsors/asia.png" height="44" /></a>
+    		</p>
+    		<p>
+    			<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 12px 3px;"><img src="img/sponsors/piktochart.png" height="42" /></a>
+    		</p>
+    	</section>
 	</nav>
+	<div id="text">#jsconfasia</div>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
     <script type="text/javascript">window.jQuery || document.write('<script src="js/jquery.min.js">\x3C/script>')</script>
 	<script type="text/javascript" src="js/jquery.form.min.js"></script>
