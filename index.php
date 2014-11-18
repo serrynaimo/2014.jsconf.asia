@@ -672,8 +672,7 @@
 		<a href="#schedule">Schedule</a> &nbsp; &nbsp;
 		<a href="#about">About</a> &nbsp; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &nbsp;
-		<a href="http://facebook.com/jsconfasia">Updates</a> &nbsp; &nbsp;
-		<a href="https://eventnook.com/event/register/22634" target="_blank" class="buy">Get Tickets</a>
+		<a href="http://facebook.com/jsconfasia" class="buy">Updates</a>
 	</nav>
 
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
