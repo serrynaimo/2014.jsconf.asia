@@ -52,8 +52,8 @@
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
-			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Sale Ended
+			<a href="https://www.facebook.com/JSConfAsia/photos_stream" target="_blank" class="button">
+				Thanks for coming everyone! We had a blast!
 			</a>
 		</section>
 		<span id="schedule"></span>
@@ -689,6 +689,5 @@
 	  ga('send', 'pageview');
 
 	</script>
-    <script>window.scrollback = {"room":"jsconfasia","titlebarColor":"#1669c7"};(function(d,s,h,e){e=d.createElement(s);e.async=1;e.src=(location.protocol === "https:" ? "https:" : "http:") + "//scrollback.io/client.min.js";d.getElementsByTagName(s)[0].parentNode.appendChild(e);}(document,"script"));</script>
 </body>
 </html>
