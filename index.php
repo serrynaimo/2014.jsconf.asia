@@ -52,7 +52,7 @@
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
-			<a href="https://www.facebook.com/JSConfAsia/photos_stream" target="_blank" class="button">
+			<a href="https://www.facebook.com/JSConfAsia/photos_stream?tab=photos_albums" target="_blank" class="button">
 				Thanks for coming everyone! We had a blast!
 			</a>
 		</section>
