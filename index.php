@@ -52,8 +52,8 @@
 				sponsored by<br/>
 				<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 			</p>
-			<a href="https://www.facebook.com/JSConfAsia/photos_stream?tab=photos_albums" target="_blank" class="button">
-				Thanks for coming everyone! We had a blast!
+			<a href="https://www.youtube.com/watch?v=hJ_Ng5IhENs&list=PL37ZVnwpeshE_Um4wU9fSn6xB5VB_61R-" target="_blank" class="button">
+				Watch the talk videos!
 			</a>
 		</section>
 		<span id="schedule"></span>
@@ -534,8 +534,8 @@
                 </div>
 			</div>
 			<p></p>
-            <a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Sale Ended
+			<a href="https://www.youtube.com/watch?v=hJ_Ng5IhENs&list=PL37ZVnwpeshE_Um4wU9fSn6xB5VB_61R-" target="_blank" class="button">
+				Watch the talk videos!
 			</a>
 		</section>
 		<section id="about">
@@ -642,8 +642,8 @@
 					If you’re interested in supporting the web developer community as well, please <a href="mailto:sponsors@jsconf.asia?subject=JSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
-			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Sale Ended
+			<a href="https://www.youtube.com/watch?v=hJ_Ng5IhENs&list=PL37ZVnwpeshE_Um4wU9fSn6xB5VB_61R-" target="_blank" class="button">
+				Watch the talk videos!
 			</a>
 			<br/>
 		</section>
