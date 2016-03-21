@@ -30,9 +30,9 @@
 	<meta name="description" content="The web can do that? Asia’s most influential web developer conference. Spread the word. Follow us on Twitter @jsconfasia"/>
 </head>
 <body>
-    <a href="http://jsconf.asia" id="thisyear" style="-webkit-transition: all 1s ease-out; -moz-transition: all 1s ease-out; transition: all 1s ease-out; border-left: 10px solid #FFED2A; z-index: 99999; position: fixed; color: white; text-decoration: none; bottom: 40px; right: -380px; width: 300px; padding: 20px 30px; background: rgba(0,0,0,0.9); box-shadow: 3px 3px 5px rba(0,0,0,0.5);">
+    <a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/" id="thisyear" style="-webkit-transition: all 1s ease-out; -moz-transition: all 1s ease-out; transition: all 1s ease-out; border-left: 10px solid #FFED2A; z-index: 99999; position: fixed; color: white; text-decoration: none; bottom: 40px; right: -380px; width: 300px; padding: 20px 30px; background: rgba(0,0,0,0.9); box-shadow: 3px 3px 5px rba(0,0,0,0.5);">
         <b>JSConf.Asia is back again this year!</b>
-        Click here to learn more.
+        Click here for the CFP
     </a>
 	<h1>JSConf.Asia 2014</h1>
 	<section id="intro">
