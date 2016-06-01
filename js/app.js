@@ -1,7 +1,7 @@
 console.log('Back to the brackets, baby!');
 
 $("#subscribeForm").ajaxForm({
-	url: "http://2012.jsconf.asia/addsubscriber.php",
+	url: "https://2012.jsconf.asia/addsubscriber.php",
 	dataType: "html",
 	beforeSubmit: function() {
 		$("#subscribeForm").removeClass("failure success").addClass("load");
@@ -27,7 +27,7 @@ $("#subscribeForm").ajaxForm({
 				$("#subscribeForm .msg").removeClass("play");
 			},3000);
 			setTimeout(function() {
-				window.location = "http://facebook.com/jsconfasia";
+				window.location = "https://facebook.com/jsconfasia";
 			},3200);
 		}
 	},
