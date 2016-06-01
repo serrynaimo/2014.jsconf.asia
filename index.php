@@ -13,7 +13,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>JSConf.Asia Singapore 2014</title>
-	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans:200,400' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Doppio+One|Open+Sans:200,400' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/app.css" />
 	<link rel="stylesheet" type="text/css" href="css/colours.css" />
 	<link rel="shortcut icon" href="favicon.png" >
@@ -40,7 +40,7 @@
 		<div class="date"><span>20 + 21 Nov 2014</span></div>
 		<div class="singapore"><span>Singapore</span></div>
 		<div class="venue"><a href="http://sentosa.amarahotels.com/" target="_blank">Amara Sanctuary</a></div>
-		<div class="js"><a class="logo" href="http://facebook.com/jsconfasia"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 630 630">
+		<div class="js"><a class="logo" href="https://facebook.com/jsconfasia"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 630 630">
 		<g id="logo">
 		  <rect id="background" x="0" y="0" width="630" height="630" fill="none" />
 		  <path id="j" fill="#ffffff" d="m 165.65,526.47375 48.2125,-29.1775 C 223.16375,513.7875 231.625,527.74 251.92,527.74 c 19.45375,0 31.71875,-7.60975 31.71875,-37.21 l 0,-201.3 59.20375,0 0,202.1375 c 0,61.32 -35.94375,89.23125 -88.385,89.23125 -47.36125,0 -74.8525,-24.52875 -88.8075,-54.13" />
@@ -559,7 +559,7 @@
 			</p>
 			<h3>It’s for you!</h3>
 			<p>
-			Together with <a href="http://2014.cssconf.asia">CSSConf</a>, we want to make community events that bring Southeast-Asia’s best web developers together in a playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
+			Together with <a href="https://2014.cssconf.asia">CSSConf</a>, we want to make community events that bring Southeast-Asia’s best web developers together in a playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -567,7 +567,7 @@
                 <a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
 			</p>
 			<br/>
-			<form id="subscribeForm" action="http://2012.jsconf.asia/addsubscriber.php" method="get">
+			<form id="subscribeForm" action="https://2012.jsconf.asia/addsubscriber.php" method="get">
 				<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
 				<div class="msg"><span></span></div>
 			</form>
@@ -603,7 +603,7 @@
 					sense of complex, diverse data.
 				</p>
 				<p>
-					<br/><a href="http://www.microsoft.com/en-sg/default.aspx" target="_blank" style="background: #fff; display: inline-block; padding: 5px 8px 0;"><img src="img/sponsors/microsoft.png"  height="47" /></a>
+					<br/><a href="https://www.microsoft.com/en-sg/default.aspx" target="_blank" style="background: #fff; display: inline-block; padding: 5px 8px 0;"><img src="img/sponsors/microsoft.png"  height="47" /></a>
 				</p>
 				<p>
                     We all know Microsoft and we have to thank it for many of the web technologies that we use today. In Singapore Microsoft has an open door for web developers and hosts many user-group meetups in their space.
@@ -653,20 +653,20 @@
 		</section>
 		<footer>
 			<p>
-				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
+				<a href="https://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
 			</p>
 			<p>
 				JSConf.Asia 2014 Singapore is part of Asia’s<br/> first community organized web developer festival.<br/><br/>
 				<a href="http://jsconf.com">JSConf around the world</a><br/><br/>
 				Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
-				 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
+				 | <a href="https://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/><br/>
 				A Nerdherd Pte. Ltd. event<br/>
 				<a href="terms.html">Terms &amp; Conditions</a><br/><br/>
 			</p>
 		</footer>
 	</section>
 	<nav>
-		<div class="js"><a class="logo" href="http://twitter.com/jsconfasia"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 630 630">
+		<div class="js"><a class="logo" href="https://twitter.com/jsconfasia"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 630 630">
 		<g id="logo">
 		  <rect id="background" x="0" y="0" width="630" height="630" fill="none" />
 		  <path id="j" fill="#ffffff" d="m 165.65,526.47375 48.2125,-29.1775 C 223.16375,513.7875 231.625,527.74 251.92,527.74 c 19.45375,0 31.71875,-7.60975 31.71875,-37.21 l 0,-201.3 59.20375,0 0,202.1375 c 0,61.32 -35.94375,89.23125 -88.385,89.23125 -47.36125,0 -74.8525,-24.52875 -88.8075,-54.13" />
@@ -676,7 +676,7 @@
 		<a href="#schedule">Schedule</a> &nbsp; &nbsp;
 		<a href="#about">About</a> &nbsp; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &nbsp;
-		<a href="http://facebook.com/jsconfasia" class="buy">Updates</a>
+		<a href="https://facebook.com/jsconfasia" class="buy">Updates</a>
 	</nav>
 
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
